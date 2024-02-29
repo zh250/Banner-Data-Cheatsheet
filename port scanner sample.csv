@@ -306,7 +306,7 @@ IP [Hidden],port,service,banner,country,regname,city,latitude,longitude
 305,37777,Dahua Dvr,,France,,,48.8582,2.3387
 306,37777,Dahua Dvr,,France,Paris,Paris,48.8628,2.3292
 307,37777,Dahua Dvr,,France,,,48.8582,2.3387
-308,37777,Dahua Dvr,,France,Bouches-du-Rh?ne,Senas,43.7438,5.078
+308,37777,Dahua Dvr,,France,Bouches-du-Rhône,Senas,43.7438,5.078
 309,37777,Dahua Dvr,,France,,,48.8582,2.3387
 310,37777,Dahua Dvr,,Kuwait,Al Asimah,Kuwait City,29.3697,47.9783
 311,37777,Dahua Dvr,,Kuwait,Al Asimah,Kuwait City,29.3697,47.9783
@@ -665,7 +665,7 @@ IP [Hidden],port,service,banner,country,regname,city,latitude,longitude
 664,1962,PCWorx,,,,,47,8
 665,1962,PCWorx,,Ukraine,Zaporizhia,Zaporizhia,47.85,35.2833
 666,1962,PCWorx,,Turkey,Istanbul,Istanbul,41.0214,28.9684
-667,1962,PCWorx,,Spain,Barcelona,Sant Cugat del Vall猫s,41.4667,2.0833
+667,1962,PCWorx,,Spain,Barcelona,Sant Cugat del Vallès,41.4667,2.0833
 668,1962,PCWorx,,Turkey,,,41.0214,28.9948
 669,1962,PCWorx,,Ukraine,Zaporizhia,Zaporizhia,47.85,35.2833
 670,1962,PCWorx,,Turkey,,,41.0214,28.9948
