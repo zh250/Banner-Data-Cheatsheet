@@ -43,19 +43,19 @@ IP [Hidden],port,service,banner,country,regname,city,latitude,longitude
 42,10001,ATGs Devices,,Germany,Bavaria,Kempten (Allgaeu),47.7229,10.3288
 43,10001,ATGs Devices,,Turkey,Istanbul,Istanbul,41.0186,28.9647
 44,10001,ATGs Devices,,Canada,,,43.6319,-79.3716
-45,10001,ATGs Devices,,Germany,Baden-W眉rttemberg Region,Freiburg,47.9809,7.8327
+45,10001,ATGs Devices,,Germany,Baden-Württemberg Region,Freiburg,47.9809,7.8327
 46,10001,ATGs Devices,,United States,Mississippi,Vicksburg,32.2224,-90.8293
 47,10001,ATGs Devices,,Israel,Central District,Netanya,32.3329,34.8599
 48,10001,ATGs Devices,,Canada,British Columbia,Vernon,50.084,-118.938
 49,10001,ATGs Devices,,Australia,Queensland,Wellington Point,-27.4833,153.25
 50,10001,ATGs Devices,,Belgium,Antwerp Province,Herenthout,51.15,4.7667
 51,10001,ATGs Devices,,Austria,Vienna,Vienna,48.2,16.3667
-52,10001,ATGs Devices,,Spain,A Coru帽a,A Coru帽a,43.3666,-8.4068
+52,10001,ATGs Devices,,Spain,A Coruña,A Coruña,43.3666,-8.4068
 53,10001,ATGs Devices,,United States,California,Patterson,37.4957,-121.2546
 54,10001,ATGs Devices,,Spain,Ciudad Real,Ciudad Real,38.9863,-3.9291
 55,10001,ATGs Devices,,Italy,Provincia di Brescia,Desenzano del Garda,45.4667,10.5333
 56,10001,ATGs Devices,,New Zealand,Marlborough,Blenheim,-41.5456,173.9572
-57,10001,ATGs Devices,,Germany,Baden-W眉rttemberg Region,Bietigheim-Bissingen,48.9441,9.1175
+57,10001,ATGs Devices,,Germany,Baden-Württemberg Region,Bietigheim-Bissingen,48.9441,9.1175
 58,10001,ATGs Devices,,United States,Delaware,Wilmington,39.7472,-75.5918
 59,10001,ATGs Devices,,Belgium,Antwerp Province,Deurne,51.2167,4.4667
 60,10001,ATGs Devices,,United States,Missouri,Chesterfield,38.6353,-90.6673
@@ -80,7 +80,7 @@ IP [Hidden],port,service,banner,country,regname,city,latitude,longitude
 79,10001,ATGs Devices,,Peru,Lima,Lima,-12.05,-77.05
 80,10001,ATGs Devices,,China,Zhejiang,,30.2936,120.1614
 81,10001,ATGs Devices,,Poland,Greater Poland,Poznan,52.4529,16.9476
-82,10001,ATGs Devices,,Portugal,脡vora,Evora,38.5667,-7.9
+82,10001,ATGs Devices,,Portugal,Évora,Evora,38.5667,-7.9
 83,10001,ATGs Devices,,Germany,Thuringia,Soemmerda,51.1591,11.1152
 84,10001,ATGs Devices,,Belgium,Flemish Brabant Province,Kapelle-op-den-Bos,50.9412,4.386
 85,10001,ATGs Devices,,Germany,North Rhine-Westphalia,Dortmund,51.5251,7.5475
@@ -215,7 +215,7 @@ IP [Hidden],port,service,banner,country,regname,city,latitude,longitude
 214,2222,CSPV4,,Canada,Alberta,Edmonton,53.4914,-113.4802
 215,2222,CSPV4,,United States,Idaho,Preston,42.2074,-111.746
 216,2222,CSPV4,,Malaysia,Selangor,Petaling Jaya,3.1097,101.6171
-217,2222,CSPV4,,France,Sa么ne-et-Loire,Chalon-sur-Sa么ne,46.7888,4.8488
+217,2222,CSPV4,,France,Saône-et-Loire,Chalon-sur-Saône,46.7888,4.8488
 218,2222,CSPV4,,Canada,Saskatchewan,Regina,50.4855,-104.6163
 219,2222,CSPV4,,Australia,Victoria,Melbourne,-37.8103,144.9544
 220,2222,CSPV4,,Czechia,Chrudim District,Chrudim,49.9472,15.7875
@@ -349,7 +349,7 @@ IP [Hidden],port,service,banner,country,regname,city,latitude,longitude
 348,18245,GE SRTP,,Republic of Korea,Gyeongsangbuk-do,Pohang,36.0322,129.365
 349,18245,GE SRTP,,Republic of Korea,Gyeongsangbuk-do,Pohang,36.0322,129.365
 350,18245,GE SRTP,,France,,,48.8582,2.3387
-351,18245,GE SRTP,,Mexico,Chihuahua,Ciudad Ju谩rez,31.7202,-106.4608
+351,18245,GE SRTP,,Mexico,Chihuahua,Ciudad Juárez,31.7202,-106.4608
 352,18245,GE SRTP,,Israel,,,31.5,34.75
 353,18245,GE SRTP,,Italy,Provincia di Treviso,Treviso,45.6667,12.2416
 354,18245,GE SRTP,,United States,Pennsylvania,Havertown,39.9752,-75.3122
@@ -549,7 +549,7 @@ IP [Hidden],port,service,banner,country,regname,city,latitude,longitude
 548,4800,Moxa Nport,,Finland,Southwest Finland,Salo,60.3833,23.1333
 549,4800,Moxa Nport,,Finland,,,60.1708,24.9375
 550,4800,Moxa Nport,,Finland,Uusimaa,Helsinki,60.1756,24.9342
-551,4800,Moxa Nport,,France,Rh?ne,Villefranche-sur-Sa?ne,45.9872,4.7283
+551,4800,Moxa Nport,,France,Rhône,Villefranche-sur-Saône,45.9872,4.7283
 552,4800,Moxa Nport,,France,,,48.8582,2.3387
 553,4800,Moxa Nport,,Kuwait,,,29.3375,47.6581
 554,4800,Moxa Nport,,Norway,,,59.95,10.75
@@ -593,7 +593,7 @@ IP [Hidden],port,service,banner,country,regname,city,latitude,longitude
 592,4840,opc-ua,,Finland,Northern Ostrobothnia,Oulu,65.1198,25.3102
 593,4840,opc-ua,,Italy,Provincia di Pavia,Mezzana Bigli,45.0599,8.8473
 594,4840,opc-ua,,Netherlands,North Holland,Amsterdam,52.35,4.9167
-595,4840,opc-ua,,France,Vaucluse,"L""Isle-sur-la-Sorgue",43.8932,5.1135
+595,4840,opc-ua,,France,Vaucluse,"L'Isle-sur-la-Sorgue",43.8932,5.1135
 596,4840,opc-ua,,Turkey,Bursa,Bursa,40.2719,29.0983
 597,4840,opc-ua,,United States,Iowa,Des Moines,41.6005,-93.6091
 598,4840,opc-ua,,Finland,Northern Ostrobothnia,Oulu,65.1198,25.3102
@@ -614,7 +614,7 @@ IP [Hidden],port,service,banner,country,regname,city,latitude,longitude
 613,4840,opc-ua,,Germany,North Rhine-Westphalia,Bochum,51.49,7.2493
 614,4840,opc-ua,,United States,Colorado,Fort Collins,40.524,-105.1396
 615,4840,opc-ua,,Austria,Salzburg,Puch bei Hallein,47.7154,13.093
-616,4840,opc-ua,,France,Vaucluse,"L""Isle-sur-la-Sorgue",43.8932,5.1135
+616,4840,opc-ua,,France,Vaucluse,"L'Isle-sur-la-Sorgue",43.8932,5.1135
 617,4840,opc-ua,,Switzerland,Basel-Landschaft,Aesch,47.471,7.5973
 618,4840,opc-ua,,United States,Georgia,Atlanta,33.749,-84.388
 619,4840,opc-ua,,Netherlands,North Holland,Amsterdam,52.35,4.9167
@@ -632,7 +632,7 @@ IP [Hidden],port,service,banner,country,regname,city,latitude,longitude
 631,1962,PCWorx,,Italy,Provincia di Rovigo,Porto Viro,45.0222,12.2108
 632,1962,PCWorx,,Canada,Ontario,Kitchener,43.4646,-80.4467
 633,1962,PCWorx,,Spain,,,40.4172,-3.684
-634,1962,PCWorx,,Sweden,V盲stra G枚taland,Gothenburg,57.7167,11.9667
+634,1962,PCWorx,,Sweden,Västra Götaland,Gothenburg,57.7167,11.9667
 635,1962,PCWorx,,Italy,Provincia di Vicenza,Marostica,45.7454,11.6624
 636,1962,PCWorx,,Belgium,,,50.85,4.35
 637,1962,PCWorx,,Poland,West Pomerania,Szczecin,53.43,14.5201999999999
@@ -671,7 +671,7 @@ IP [Hidden],port,service,banner,country,regname,city,latitude,longitude
 670,1962,PCWorx,,Turkey,,,41.0214,28.9948
 671,1962,PCWorx,,Spain,Segovia,Segovia,40.9481,-4.1184
 672,1962,PCWorx,,Poland,West Pomerania,Szczecin,53.43,14.5201999999999
-673,1962,PCWorx,,Sweden,V盲stra G枚taland,Goetene,58.5282,13.4946
+673,1962,PCWorx,,Sweden,Västra Götaland,Goetene,58.5282,13.4946
 674,1962,PCWorx,,United Kingdom,,,51.4964,-0.1224
 675,1962,PCWorx,,Turkey,Istanbul,Istanbul,41.0214,28.9684
 676,1962,PCWorx,,Italy,Provincia di Perugia,Gubbio,43.35,12.5731
@@ -682,10 +682,10 @@ IP [Hidden],port,service,banner,country,regname,city,latitude,longitude
 681,1962,PCWorx,,United States,Maryland,College Park,38.9807,-76.9369
 682,1962,PCWorx,,Spain,Barcelona,Barcelona,41.3984,2.1741
 683,1962,PCWorx,,Poland,,,52.2394,21.0362
-684,1962,PCWorx,,Germany,Baden-W眉rttemberg Region,Heidelberg,49.4062,8.6868
+684,1962,PCWorx,,Germany,Baden-Württemberg Region,Heidelberg,49.4062,8.6868
 685,1962,PCWorx,,Poland,West Pomerania,Reptowo,53.3667,14.8639
 686,1962,PCWorx,,Spain,,,40.4172,-3.684
-687,1962,PCWorx,,Sweden,Sk氓ne,Tyringe,56.1667,13.5833
+687,1962,PCWorx,,Sweden,Skåne,Tyringe,56.1667,13.5833
 688,1962,PCWorx,,Belgium,East Flanders Province,Deinze,50.9833,3.5333
 689,1962,PCWorx,,Spain,Salamanca,Salamanca,40.9688,-5.6639
 690,1962,PCWorx,,Italy,,,43.1479,12.1097
@@ -749,10 +749,10 @@ IP [Hidden],port,service,banner,country,regname,city,latitude,longitude
 748,161,snmp,,Angola,Luanda Province,Luanda,-8.8368,13.2332
 749,161,snmp,,Oman,,,21,57
 750,161,snmp,,Oman,,,21,57
-751,161,SNMP,,Oman,Muscat,Muscat,23.6133,58.5933
+751,161,snmp,,Oman,Muscat,Muscat,23.6133,58.5933
 752,161,snmp,,Palestine,,,32,35.25
 753,161,snmp,,Brazil,Bahia,Salvador,-12.9833,-38.5167
-754,161,SNMP,,Bosnia and Herzegovina,,,44,18
+754,161,snmp,,Bosnia and Herzegovina,,,44,18
 755,161,snmp,,Botswana,,,-22,24
 756,161,snmp,,Botswana,,,-22,24
 757,161,snmp,,Burkina Faso,Kadiogo Province,Ouagadougou,12.3703,-1.5247
@@ -803,7 +803,7 @@ IP [Hidden],port,service,banner,country,regname,city,latitude,longitude
 802,8089,SOAP,,United States,California,Irvine,33.691,-117.7882
 803,8089,SOAP,,China,Shanghai,Shanghai,31.1667,121.4167
 804,8089,SOAP,,United States,California,North Hills,34.2387,-118.4772
-805,8089,SOAP,,Hungary,Gy艖r-Moson-Sopron,Himod,47.5167,17.0167
+805,8089,SOAP,,Hungary,Győr-Moson-Sopron,Himod,47.5167,17.0167
 806,8089,SOAP,,China,Sichuan,,30.6667,104.0667
 807,8089,SOAP,,Brazil,Santa Catarina,Joinville,-26.3,-48.8333
 808,8089,SOAP,,China,,,34.7725,113.7266
