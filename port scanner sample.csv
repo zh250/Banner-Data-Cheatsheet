@@ -135,7 +135,14 @@ IP [Hidden],port,service,banner,country,regname,city,latitude,longitude
 134,10001,ATGs Devices,,United States,Illinois,Chicago,41.8119,-87.6873
 135,10001,ATGs Devices,,Germany,Saxony-Anhalt,Bad Lauchstaedt,51.3865,11.8696
 136,10001,ATGs Devices,,Germany,Brandenburg,Rangsdorf,52.2913,13.4195
-137,47808,BACnet,,Switzerland,Valais,Sion,46.2274,7.3556
+137,47808,BACnet,"Vendor ID: Contemporary Control Systems Inc.(245)
+Vendor Name: Tridium
+Firmware: 2.6.13FSG
+Application Software: 414
+Object Name: 
+Model Name: Building Operation Automation Server
+Description: 
+Location:  G r e e t i n g s   f r o m   w w w ,   s t u x n e t   i s   w a t c h i n g   U   : - O",Switzerland,Valais,Sion,46.2274,7.3556
 138,47808,BACnet,,Switzerland,Valais,Ravoire,46.1007,7.0458
 139,47808,BACnet,,Switzerland,Valais,Ravoire,46.1007,7.0458
 140,47808,BACnet,,Switzerland,Zurich,Winterthur,47.5056,8.7241
