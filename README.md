@@ -1,7 +1,5 @@
 # Information of Some Protocols' Banner
 
-## Acknowledgement: Raw data is provided and authorized by [Dictecting](https://www.ditecting.com)
-
 ## 1. Basic information about Protocols in the Dataset
 
 ### IT Ｐrotocols
@@ -131,3 +129,6 @@
   - under construction
 
 ## 2. Others: Under construction
+
+
+Acknowledgement: Raw data is provided and authorized by [Dictecting](https://www.ditecting.com)
