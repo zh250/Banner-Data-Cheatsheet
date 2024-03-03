@@ -1,8 +1,8 @@
-![image](https://github.com/zh250/Banner-Data-Cheatsheet/assets/15869482/3ba84e61-0406-404e-95a7-d5ae441f2105)![image](https://github.com/zh250/Banner-Data-Cheatsheet/assets/15869482/c5a1601e-5081-4c70-b7b4-50b5b254365f)# Information of Some Capatured ICS and IoT Protocols' Banner
+# Information of Some Capatured ICS and IoT Protocols' Banner
 
 ## Acknowledgement: Raw data is provided and authorized by [Dictecting](https://www.ditecting.com)
 
-## Basic information about Protocols in the Dataset
+## 1. Basic information about Protocols in the Dataset
 
 ### IT Ｐrotocols
 
@@ -130,4 +130,4 @@
   - under construction
   - under construction
 
-## Others: Under construction
+## 2. Others: Under construction
