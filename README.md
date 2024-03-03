@@ -1,4 +1,22 @@
-# Information of Some Protocols' Banner
+# Explanations of Some Protocols' Banner
+
+## Introduction
+
+- What is Banner grabbing
+  - [Wikipedia](https://en.wikipedia.org/wiki/Banner_grabbing)
+  - It is also a key technology of [Shodan](https://www.shodan.io/), according [here](https://help.shodan.io/the-basics/what-is-shodan)
+- Plan
+  - Due to some uncontrolled factors, there is a high probability that the raw data will not be updated
+  - All existing data will be processed soon
+- How to process dataset
+  - [ ] For good demonstration effects in CSV, some banners will be processed
+  - [ ] while some banners will remain NULL until find a good way to demonstrate
+  - [ ] dataset in other format will be provided in the future (but readability for both human and machine may not as good as CSV)
+- Issues surrouding the dataset
+  - Raw dataset's readability is a disaster, because:
+    - Banners in some protocols are HTML/XML-like structures
+    - Some of remains are highly unstructured heterogeneous data
+  - Office software like LibreOffice also cannot display correctly sometimes
 
 ## 1. Basic information about Protocols in the Dataset
 
