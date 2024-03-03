@@ -135,14 +135,7 @@ IP [Hidden],port,service,banner,country,regname,city,latitude,longitude
 134,10001,ATGs Devices,,United States,Illinois,Chicago,41.8119,-87.6873
 135,10001,ATGs Devices,,Germany,Saxony-Anhalt,Bad Lauchstaedt,51.3865,11.8696
 136,10001,ATGs Devices,,Germany,Brandenburg,Rangsdorf,52.2913,13.4195
-137,47808,BACnet,"Vendor ID: Contemporary Control Systems Inc.(245)
-Vendor Name: Tridium
-Firmware: 2.6.13FSG
-Application Software: 414
-Object Name: 
-Model Name: Building Operation Automation Server
-Description: 
-Location:  G r e e t i n g s   f r o m   w w w ,   s t u x n e t   i s   w a t c h i n g   U   : - O",Switzerland,Valais,Sion,46.2274,7.3556
+137,47808,BACnet,,Switzerland,Valais,Sion,46.2274,7.3556
 138,47808,BACnet,,Switzerland,Valais,Ravoire,46.1007,7.0458
 139,47808,BACnet,,Switzerland,Valais,Ravoire,46.1007,7.0458
 140,47808,BACnet,,Switzerland,Zurich,Winterthur,47.5056,8.7241
@@ -169,79 +162,79 @@ Location:  G r e e t i n g s   f r o m   w w w ,   s t u x n e t   i s   w a t c
 161,2455,CoDeSyS,,Norway,,,59.95,10.75
 162,1200,CoDeSyS,,Portugal,Porto,Vila Nova de Gaia,41.1336,-8.6174
 163,1200,CoDeSyS,,Portugal,,,38.7139,-9.1394
-164,2222,CSPV4,,Germany,,,51.2993,9.491
-165,2222,CSPV4,,Canada,Alberta,Viking,53.0727,-111.5816
-166,2222,CSPV4,,Canada,,,43.6319,-79.3716
-167,2222,CSPV4,,Finland,Northern Ostrobothnia,Kempele,64.906,25.5647
-168,2222,CSPV4,,Mexico,Sonora,Coyoacan,28.9667,-111.6667
-169,2222,CSPV4,,Mexico,Jalisco,Guadalajara,20.6668,-103.3918
-170,2222,CSPV4,,Mexico,Estado de Mexico,Toluca,19.2873,-99.645
-171,2222,CSPV4,,Peru,Lima,Lima,-12.05,-77.05
-172,2222,CSPV4,,Spain,Burgos,Burgos,42.3502,-3.6753
-173,2222,CSPV4,,Spain,Madrid,Madrid,40.4167,-3.6838
-174,2222,CSPV4,,Spain,,,40.4172,-3.684
-175,2222,CSPV4,,Spain,,,40.4172,-3.684
-176,2222,CSPV4,,Italy,Provincia di Ancona,Genga,43.4389,12.9034
-177,2222,CSPV4,,China,Guangxi,Nanning,22.8167,108.3167
-178,2222,CSPV4,,United States,Massachusetts,Lynn,42.4733,-70.9419
-179,2222,CSPV4,,United States,Minnesota,Forest Lake,45.2673,-93.0196
-180,2222,CSPV4,,Republic of Korea,Incheon,Incheon,37.4536,126.7317
-181,2222,CSPV4,,United States,Minnesota,Pine City,45.8427,-92.9077
-182,2222,CSPV4,,Republic of Korea,Chungcheongnam-do,,36.1338,127.4806
-183,2222,CSPV4,,Brazil,Minas Gerais,Belo Horizonte,-19.9016999999999,-43.9642
-184,2222,CSPV4,,Republic of Korea,Incheon,Incheon,37.4536,126.7317
-185,2222,CSPV4,,Australia,Victoria,Melbourne,-37.8396,144.9423
-186,2222,CSPV4,,United States,Florida,Lakeland,28.0395,-81.9498
-187,2222,CSPV4,,United States,Minnesota,Sauk Centre,45.7265,-94.9847
-188,2222,CSPV4,,United States,Washington,Woodinville,47.757,-122.0928
-189,2222,CSPV4,,United States,Washington,Vashon,47.4206,-122.4509
-190,2222,CSPV4,,United States,West Virginia,Stephenson,37.5598,-81.3304
-191,2222,CSPV4,,Taiwan,Taipei City,Taipei,25.0478,121.5318
-192,2222,CSPV4,,Taiwan,Taichung City,Taichung,24.1469,120.6839
-193,2222,CSPV4,,United States,Pennsylvania,State College,40.7849,-77.847
-194,2222,CSPV4,,United States,Minnesota,Buffalo,45.1845,-93.8397
-195,2222,CSPV4,,United States,Alaska,King Cove,55.085,-162.322
-196,2222,CSPV4,,Canada,Alberta,Calgary,51.0833,-114.0833
-197,2222,CSPV4,,Hong Kong,,Central District,22.291,114.15
-198,2222,CSPV4,,United States,Oregon,Cascade Locks,45.6145,-121.8474
-199,2222,CSPV4,,Republic of Korea,Busan,Busan,35.1028,129.0403
-200,2222,CSPV4,,Canada,Ontario,Oakville,43.4881,-79.7098
-201,2222,CSPV4,,United States,Pennsylvania,Lancaster,40.0052,-76.3246
-202,2222,CSPV4,,Canada,Ontario,Belleville,44.1667,-77.3833
-203,2222,CSPV4,,Canada,Quebec,Rimouski,48.416,-68.5979
-204,2222,CSPV4,,United States,South Dakota,Chamberlain,43.7887,-99.314
-205,2222,CSPV4,,Slovakia,Trnava,Vahovce,48.2492,17.7854
-206,2222,CSPV4,,United States,Minnesota,Minneapolis,44.9014,-93.2882
-207,2222,CSPV4,,United States,California,San Francisco,37.7957,-122.4209
-208,2222,CSPV4,,United States,Texas,Houston,29.9845,-95.525
-209,2222,CSPV4,,Mexico,Jalisco,Guadalajara,20.6668,-103.3918
-210,2222,CSPV4,,Poland,Warmia-Masuria,Lipowo,53.378,20.2731
-211,2222,CSPV4,,China,Beijing,,39.9289,116.3883
-212,2222,CSPV4,,United States,Florida,Tampa,28.0898,-82.576
-213,2222,CSPV4,,Canada,British Columbia,Vancouver,49.2866,-123.1158
-214,2222,CSPV4,,Canada,Alberta,Edmonton,53.4914,-113.4802
-215,2222,CSPV4,,United States,Idaho,Preston,42.2074,-111.746
-216,2222,CSPV4,,Malaysia,Selangor,Petaling Jaya,3.1097,101.6171
-217,2222,CSPV4,,France,Saône-et-Loire,Chalon-sur-Saône,46.7888,4.8488
-218,2222,CSPV4,,Canada,Saskatchewan,Regina,50.4855,-104.6163
-219,2222,CSPV4,,Australia,Victoria,Melbourne,-37.8103,144.9544
-220,2222,CSPV4,,Czechia,Chrudim District,Chrudim,49.9472,15.7875
-221,2222,CSPV4,,United States,Idaho,Lewiston,46.1683,-116.9204
-222,2222,CSPV4,,United States,Minnesota,Sauk Centre,45.7265,-94.9847
-223,2222,CSPV4,,Italy,Provincia di Lodi,Casalpusterlengo,45.1792,9.6483
-224,2222,CSPV4,,United States,Arizona,Teec Nos Pos,36.9211,-109.0857
-225,2222,CSPV4,,United States,Washington,Woodinville,47.757,-122.0928
-226,2222,CSPV4,,United States,Wyoming,Lander,42.6501,-108.4242
-227,2222,CSPV4,,Spain,Toledo,Toledo,39.8673,-4.0298
-228,2222,CSPV4,,United States,Minnesota,Minneapolis,44.9014,-93.2882
-229,2222,CSPV4,,United States,Alaska,Valdez,61.4065,-145.667
-230,2222,CSPV4,,United States,Minnesota,Sandstone,46.1501,-92.4231
-231,2222,CSPV4,,United Kingdom,Lewisham,Lewisham,51.45,-0.0167
-232,2222,CSPV4,,United States,New Jersey,Bloomfield,40.8086,-74.1869
-233,2222,CSPV4,,Romania,Judetul Bacau,Comanesti,46.4214,26.4365
-234,2222,CSPV4,,United States,Oklahoma,Ringwood,36.3319,-98.2743
-235,2222,CSPV4,,Republic of Korea,Seoul,Seoul,37.5985,126.9783
-236,2222,CSPV4,,Hong Kong,,Central District,22.291,114.15
+164,2222,CSPV4,"Session ID:-372200655",Germany,,,51.2993,9.491
+165,2222,CSPV4,Session ID:16849664,Canada,Alberta,Viking,53.0727,-111.5816
+166,2222,CSPV4,Session ID:50429184,Canada,,,43.6319,-79.3716
+167,2222,CSPV4,Session ID:84148224,Finland,Northern Ostrobothnia,Kempele,64.906,25.5647
+168,2222,CSPV4,"Session ID:16777216",Mexico,Sonora,Coyoacan,28.9667,-111.6667
+169,2222,CSPV4,"Session ID:263398208",Mexico,Jalisco,Guadalajara,20.6668,-103.3918
+170,2222,CSPV4,"Session ID:16845056",Mexico,Estado de Mexico,Toluca,19.2873,-99.645
+171,2222,CSPV4,"Session ID:222909584",Peru,Lima,Lima,-12.05,-77.05
+172,2222,CSPV4,"Session ID:16886016",Spain,Burgos,Burgos,42.3502,-3.6753
+173,2222,CSPV4,"Session ID:16844544",Spain,Madrid,Madrid,40.4167,-3.6838
+174,2222,CSPV4,"Session ID:33682707",Spain,,,40.4172,-3.684
+175,2222,CSPV4,"Session ID:67328",Spain,,,40.4172,-3.684
+176,2222,CSPV4,"Session ID:100735232",Italy,Provincia di Ancona,Genga,43.4389,12.9034
+177,2222,CSPV4,"Session ID:61472648",China,Guangxi,Nanning,22.8167,108.3167
+178,2222,CSPV4,"Session ID:66048",United States,Massachusetts,Lynn,42.4733,-70.9419
+179,2222,CSPV4,"Session ID:16860416",United States,Minnesota,Forest Lake,45.2673,-93.0196
+180,2222,CSPV4,"Session ID:15025408",Republic of Korea,Incheon,Incheon,37.4536,126.7317
+181,2222,CSPV4,"Session ID:318963712",United States,Minnesota,Pine City,45.8427,-92.9077
+182,2222,CSPV4,"Session ID:16850944",Republic of Korea,Chungcheongnam-do,,36.1338,127.4806
+183,2222,CSPV4,"Session ID:14464608",Brazil,Minas Gerais,Belo Horizonte,-19.9016999999999,-43.9642
+184,2222,CSPV4,"Session ID:71094000",Republic of Korea,Incheon,Incheon,37.4536,126.7317
+185,2222,CSPV4,"Session ID:35376864",Australia,Victoria,Melbourne,-37.8396,144.9423
+186,2222,CSPV4,"Session ID:33636864",United States,Florida,Lakeland,28.0395,-81.9498
+187,2222,CSPV4,"Session ID:67175168",United States,Minnesota,Sauk Centre,45.7265,-94.9847
+188,2222,CSPV4,"Session ID:115712",United States,Washington,Woodinville,47.757,-122.0928
+189,2222,CSPV4,"Session ID:98048",United States,Washington,Vashon,47.4206,-122.4509
+190,2222,CSPV4,"Session ID:30467656",United States,West Virginia,Stephenson,37.5598,-81.3304
+191,2222,CSPV4,"Session ID:16877056",Taiwan,Taipei City,Taipei,25.0478,121.5318
+192,2222,CSPV4,"Session ID:15408088",Taiwan,Taichung City,Taichung,24.1469,120.6839
+193,2222,CSPV4,"Session ID:35167928",United States,Pennsylvania,State College,40.7849,-77.847
+194,2222,CSPV4,"Session ID:117522432",United States,Minnesota,Buffalo,45.1845,-93.8397
+195,2222,CSPV4,"Session ID:67180547",United States,Alaska,King Cove,55.085,-162.322
+196,2222,CSPV4,"Session ID:98823",Canada,Alberta,Calgary,51.0833,-114.0833
+197,2222,CSPV4,"Session ID:50445568",Hong Kong,,Central District,22.291,114.15
+198,2222,CSPV4,"Session ID:33639424",United States,Oregon,Cascade Locks,45.6145,-121.8474
+199,2222,CSPV4,"Session ID:70144",Republic of Korea,Busan,Busan,35.1028,129.0403
+200,2222,CSPV4,"Session ID:66560",Canada,Ontario,Oakville,43.4881,-79.7098
+201,2222,CSPV4,"Session ID:14511616",United States,Pennsylvania,Lancaster,40.0052,-76.3246
+202,2222,CSPV4,"Session ID:1291845632",Canada,Ontario,Belleville,44.1667,-77.3833
+203,2222,CSPV4,"Session ID:179634272",Canada,Quebec,Rimouski,48.416,-68.5979
+204,2222,CSPV4,"Session ID:33645824",United States,South Dakota,Chamberlain,43.7887,-99.314
+205,2222,CSPV4,"Session ID:167977064",Slovakia,Trnava,Vahovce,48.2492,17.7854
+206,2222,CSPV4,"Session ID:-352190464",United States,Minnesota,Minneapolis,44.9014,-93.2882
+207,2222,CSPV4,"Session ID:16842752",United States,California,San Francisco,37.7957,-122.4209
+208,2222,CSPV4,"Session ID:66560",United States,Texas,Houston,29.9845,-95.525
+209,2222,CSPV4,"Session ID:263398208",Mexico,Jalisco,Guadalajara,20.6668,-103.3918
+210,2222,CSPV4,"Session ID:-396141748",Poland,Warmia-Masuria,Lipowo,53.378,20.2731
+211,2222,CSPV4,"Session ID:16874497",China,Beijing,,39.9289,116.3883
+212,2222,CSPV4,"Session ID:20163256",United States,Florida,Tampa,28.0898,-82.576
+213,2222,CSPV4,"Session ID:36544896",Canada,British Columbia,Vancouver,49.2866,-123.1158
+214,2222,CSPV4,"Session ID:14696456",Canada,Alberta,Edmonton,53.4914,-113.4802
+215,2222,CSPV4,"Session ID:14472848",United States,Idaho,Preston,42.2074,-111.746
+216,2222,CSPV4,"Session ID:88602880",Malaysia,Selangor,Petaling Jaya,3.1097,101.6171
+217,2222,CSPV4,"Session ID:1691955461",France,Saône-et-Loire,Chalon-sur-Saône,46.7888,4.8488
+218,2222,CSPV4,"Session ID:-1190199296",Canada,Saskatchewan,Regina,50.4855,-104.6163
+219,2222,CSPV4,"Session ID:16843520",Australia,Victoria,Melbourne,-37.8103,144.9544
+220,2222,CSPV4,"Session ID:768",Czechia,Chrudim District,Chrudim,49.9472,15.7875
+221,2222,CSPV4,"Session ID:82944",United States,Idaho,Lewiston,46.1683,-116.9204
+222,2222,CSPV4,"Session ID:67182848",United States,Minnesota,Sauk Centre,45.7265,-94.9847
+223,2222,CSPV4,"Session ID:81627896",Italy,Provincia di Lodi,Casalpusterlengo,45.1792,9.6483
+224,2222,CSPV4,"Session ID:92673",United States,Arizona,Teec Nos Pos,36.9211,-109.0857
+225,2222,CSPV4,"Session ID:115968",United States,Washington,Woodinville,47.757,-122.0928
+226,2222,CSPV4,"Session ID:16843008",United States,Wyoming,Lander,42.6501,-108.4242
+227,2222,CSPV4,"Session ID:25557296",Spain,Toledo,Toledo,39.8673,-4.0298
+228,2222,CSPV4,"Session ID:16879616",United States,Minnesota,Minneapolis,44.9014,-93.2882
+229,2222,CSPV4,"Session ID:33620480",United States,Alaska,Valdez,61.4065,-145.667
+230,2222,CSPV4,"Session ID:16843264",United States,Minnesota,Sandstone,46.1501,-92.4231
+231,2222,CSPV4,"Session ID:84148224",United Kingdom,Lewisham,Lewisham,51.45,-0.0167
+232,2222,CSPV4,"Session ID:66816",United States,New Jersey,Bloomfield,40.8086,-74.1869
+233,2222,CSPV4,"Session ID:78788400",Romania,Judetul Bacau,Comanesti,46.4214,26.4365
+234,2222,CSPV4,"Session ID:77824",United States,Oklahoma,Ringwood,36.3319,-98.2743
+235,2222,CSPV4,"Session ID:14956472",Republic of Korea,Seoul,Seoul,37.5985,126.9783
+236,2222,CSPV4,"Session ID:50455054",Hong Kong,,Central District,22.291,114.15
 237,37777,Dahua Dvr,,Switzerland,Aargau,Buchs,47.3878,8.0735
 238,37777,Dahua Dvr,,Switzerland,Bern,Bern,46.9481,7.4474
 239,37777,Dahua Dvr,,Switzerland,Saint Gallen,Wattwil,47.2996,9.0866
