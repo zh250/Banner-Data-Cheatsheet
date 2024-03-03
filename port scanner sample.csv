@@ -1,19 +1,19 @@
 IP [Hidden],port,service,banner,country,regname,city,latitude,longitude
-1,5672,AMQP,,Albania,Tirana District,Tirana,41.3275,19.8189
-2,5672,AMQP,,Albania,,,41,20
-3,5672,AMQP,,Switzerland,Zurich,Zurich,47.3667,8.55
-4,5672,AMQP,,Austria,Lower Austria,Krems,48.4174,15.5625
-5,5672,AMQP,,Afghanistan,,,33,65
-6,5672,AMQP,,Argentina,Buenos Aires,La Plata,-34.9314,-57.9489
-7,5672,AMQP,,Chile,Region del Biobio,Concepción,-36.8333,-73.05
-8,5672,AMQP,,Pakistan,Punjab,Lahore,31.4888,74.3686
-9,5672,AMQP,,Congo,,,,25
-10,5672,AMQP,,Libya,,,25,17
-11,5672,AMQP,,Kyrgyzstan,,,41,75
-12,5672,AMQP,,Finland,,,60.1708,24.9375
-13,5672,AMQP,,France,,,48.8582,2.3387
-14,5672,AMQP,,France,,,48.8582,2.3387
-15,5672,AMQP,,Kuwait,,,29.3375,47.6581
+1,5672,AMQP,"AMQP",Albania,Tirana District,Tirana,41.3275,19.8189
+2,5672,AMQP,"AMQP_x0001__x0001_ ",Albania,,,41,20
+3,5672,AMQP,"AMQP",Switzerland,Zurich,Zurich,47.3667,8.55
+4,5672,AMQP,"AMQP_x0001__x0001_ ",Austria,Lower Austria,Krems,48.4174,15.5625
+5,5672,AMQP,"AMQP   _x0001_",Afghanistan,,,33,65
+6,5672,AMQP,"AMQP_x0001__x0001_ ",Argentina,Buenos Aires,La Plata,-34.9314,-57.9489
+7,5672,AMQP,"AMQP   _x0001_",Chile,Region del Biobio,Concepción,-36.8333,-73.05
+8,5672,AMQP,"AMQP_x0001__x0001_",Pakistan,Punjab,Lahore,31.4888,74.3686
+9,5672,AMQP,"AMQP_x0001__x0001_",Congo,,,,25
+10,5672,AMQP,"AMQP_x0001__x0001_",Libya,,,25,17
+11,5672,AMQP,"AMQP _x0001_",Kyrgyzstan,,,41,75
+12,5672,AMQP,"AMQP   _x0001_",Finland,,,60.1708,24.9375
+13,5672,AMQP,"",France,,,48.8582,2.3387
+14,5672,AMQP,"AMQP   _x0001_",France,,,48.8582,2.3387
+15,5672,AMQP,"AMQP _x0001_",Kuwait,,,29.3375,47.6581
 16,10001,ATGs Devices,,Switzerland,,,47.1449,8.1551
 17,10001,ATGs Devices,,Switzerland,,,47.1449,8.1551
 18,10001,ATGs Devices,,Switzerland,Ticino,Ascona,46.1545,8.7733
