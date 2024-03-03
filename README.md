@@ -35,7 +35,7 @@
   - under construction
   - under construction
 
-### IP Cam Protocols
+#### Proprietary IP Cam Protocols
 
 - Dahua Dvr
   - under construction
@@ -108,7 +108,7 @@
   - under construction
   - under construction
   - under construction
-- Siemens S7 or s7comm
+- Siemens S7 or S7comm
   - under construction
   - under construction
   - under construction
@@ -123,7 +123,7 @@
 
 ### Unknown
 
-- DDP
+- DDP (*Distributed Data Protocol* or *Datagram Delivery Protocol*, not sure which of them)
   - under construction
   - under construction
   - under construction
