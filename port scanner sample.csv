@@ -317,12 +317,12 @@ IP [Hidden],port,service,banner,country,regname,city,latitude,longitude
 316,37777,Dahua Dvr,,Zimbabwe,Harare,Harare,-17.8178,31.0447
 317,37777,Dahua Dvr,,Qatar,,,25.5,51.25
 318,37777,Dahua Dvr,,Mexico,Tamaulipas,El Bienestar,26,-98.3333
-319,5002,DDP,,China,Sichuan,,30.6667,104.0667
-320,5002,DDP,,China,Sichuan,Chengdu,30.6667,104.0667
-321,5002,DDP,,China,Sichuan,Chengdu,30.6667,104.0667
-322,5002,DDP,,China,Sichuan,,30.6667,104.0667
-323,10001,DDP,,China,Sichuan,Chengdu,30.6667,104.0667
-324,51960,DDP,,China,Sichuan,Chengdu,30.6667,104.0667
+319,5002,DDP,"Register : Successful | Logout : Successful ",China,Sichuan,,30.6667,104.0667
+320,5002,DDP,"Register : Successful | Logout : Successful ",China,Sichuan,Chengdu,30.6667,104.0667
+321,5002,DDP,"Register : Successful | Logout : Successful ",China,Sichuan,Chengdu,30.6667,104.0667
+322,5002,DDP,"Register : Successful | Logout : Successful ",China,Sichuan,,30.6667,104.0667
+323,10001,DDP,"Invalid command or protocol package",China,Sichuan,Chengdu,30.6667,104.0667
+324,51960,DDP,"Invalid command or protocol package",China,Sichuan,Chengdu,30.6667,104.0667
 325,20000,DNP3,,Congo,,,,25
 326,20000,DNP3,,Germany,Land Berlin,Berlin,52.5167,13.4
 327,20000,DNP3,,Canada,,,43.6319,-79.3716
@@ -340,8 +340,8 @@ IP [Hidden],port,service,banner,country,regname,city,latitude,longitude
 339,44818,EtherNet/IP,,Canada,British Columbia,Vancouver,49.262,-123.0923
 340,44818,EtherNet/IP,,Japan,Niigata,Niigata,37.8967,139.0019
 341,44818,EtherNet/IP,,Republic of Korea,Seoul,Seoul,37.5111,126.9743
-342,44818,EtherNet/IP,,Finland,Satakunta,Pori,61.4708,21.811
-343,44818,EtherNet/IP,,France,,,48.8582,2.3387
+342,44818,EtherNet/IP,"",Finland,Satakunta,Pori,61.4708,21.811
+343,44818,EtherNet/IP,"",France,,,48.8582,2.3387
 344,18245,GE SRTP,,Germany,Land Berlin,Berlin,52.5155,13.4062
 345,18245,GE SRTP,,Canada,Ontario,Toronto,43.6966,-79.412
 346,18245,GE SRTP,,Canada,Ontario,Windsor,42.2949,-83.052
@@ -474,21 +474,21 @@ IP [Hidden],port,service,banner,country,regname,city,latitude,longitude
 473,1628,ilon Smartserver,,Italy,Provincia di Udine,Udine,46.0664,13.2569
 474,1629,ilon Smartserver,,Denmark,Zealand,Glumso,55.3568,11.6856
 475,1628,ilon Smartserver,,Canada,British Columbia,Burnaby,49.274,-123.0074
-476,5006,MELSEC-Q,,Japan,Kanagawa,Yokohama,35.4757,139.5899
-477,5007,MELSEC-Q,,Japan,Kanagawa,Yokohama,35.4757,139.5899
-478,5006,MELSEC-Q,,Japan,Kanagawa,Yokohama,35.4757,139.5899
-479,5007,MELSEC-Q,,Italy,Provincia di Treviso,Vittorio Veneto,45.9803,12.3006
-480,5007,MELSEC-Q,,Taiwan,Taipei City,Taipei,25.0478,121.5318
-481,5007,MELSEC-Q,,Japan,Kanagawa,Kawasaki,35.6181,139.4638
-482,5007,MELSEC-Q,,Japan,Kagoshima,Sendai,31.6014,130.6122
-483,5007,MELSEC-Q,,Canada,Ontario,Deep River,45.6606,-77.5886
-484,5007,MELSEC-Q,,Japan,Chiba,Narashino,35.6838,140.0471
-485,5007,MELSEC-Q,,Japan,Kanagawa,Sakurakabu,35.45,139.4667
-486,5007,MELSEC-Q,,Canada,Ontario,Deep River,45.6606,-77.5886
-487,5006,MELSEC-Q,,Japan,Tokyo,Machida,35.5418,139.4509
-488,5007,MELSEC-Q,,Italy,Provincia di Treviso,Vittorio Veneto,45.9803,12.3006
-489,5007,MELSEC-Q,,Taiwan,Taoyuan,Shenzhen,24.9569,121.0122
-490,5006,MELSEC-Q,,Taiwan,Taoyuan,Shenzhen,24.9569,121.0122
+476,5006,MELSEC-Q,"CPUINFO:RCPU      ",Japan,Kanagawa,Yokohama,35.4757,139.5899
+477,5007,MELSEC-Q,"CPUINFO : CPU       ",Japan,Kanagawa,Yokohama,35.4757,139.5899
+478,5006,MELSEC-Q,"CPUINFO:RCPU      ",Japan,Kanagawa,Yokohama,35.4757,139.5899
+479,5007,MELSEC-Q,"CPUINFO : 03UDECPU  ",Italy,Provincia di Treviso,Vittorio Veneto,45.9803,12.3006
+480,5007,MELSEC-Q,"CPUINFO : 06UDEHCPU ",Taiwan,Taipei City,Taipei,25.0478,121.5318
+481,5007,MELSEC-Q,"CPUINFO : 04UDEHCPU ",Japan,Kanagawa,Kawasaki,35.6181,139.4638
+482,5007,MELSEC-Q,"CPUINFO : 04UDEHCPU ",Japan,Kagoshima,Sendai,31.6014,130.6122
+483,5007,MELSEC-Q,"CPUINFO : 02CPU     ",Canada,Ontario,Deep River,45.6606,-77.5886
+484,5007,MELSEC-Q,"CPUINFO : 03UDECPU  ",Japan,Chiba,Narashino,35.6838,140.0471
+485,5007,MELSEC-Q,"CPUINFO : 12DCCPU-V ",Japan,Kanagawa,Sakurakabu,35.45,139.4667
+486,5007,MELSEC-Q,"CPUINFO : 02CPU     ",Canada,Ontario,Deep River,45.6606,-77.5886
+487,5006,MELSEC-Q,"CPUINFO:Q12DCCPU-V",Japan,Tokyo,Machida,35.5418,139.4509
+488,5007,MELSEC-Q,"CPUINFO : 03UDECPU  ",Italy,Provincia di Treviso,Vittorio Veneto,45.9803,12.3006
+489,5007,MELSEC-Q,"CPUINFO : 03UDECPU  ",Taiwan,Taoyuan,Shenzhen,24.9569,121.0122
+490,5006,MELSEC-Q,"CPUINFO:Q03UDECPU ",Taiwan,Taoyuan,Shenzhen,24.9569,121.0122
 491,502,Modbus,,Switzerland,,,47.1449,8.1551
 492,502,Modbus,,,,,,
 493,502,Modbus,,Switzerland,Zurich,Horgen,47.2573,8.6042
