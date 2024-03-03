@@ -1,4 +1,4 @@
-# Information of Some Capatured ICS and IoT Protocols' Banner
+# Information of Some Protocols' Banner
 
 ## Acknowledgement: Raw data is provided and authorized by [Dictecting](https://www.ditecting.com)
 
