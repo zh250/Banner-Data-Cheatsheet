@@ -11,13 +11,23 @@
 - How to process dataset
   - [ ] For good demonstration effects in CSV, some banners in the dataset will be processed
   - [ ] Some banners will remain NULL until find a good way to demonstrate
-  - [ ] Dataset in other file format will be provided in the future (but readability for both human and machine may not as good as CSV)
+  - [ ] Dataset in other file format will be provided in the future (but readability for either human or machine may not as good as CSV)
 - Issues surrouding the dataset
   - Raw dataset's readability is a disaster, because:
-    - Banners in some protocols are HTML/XML-like structures
+    - Banners in some protocols are HTML/XML-like structures, but CSV file cannot demonstrate them correctly
     - Some of remains are highly unstructured heterogeneous data
   - Office software like LibreOffice also cannot display correctly sometimes
-  - GitHub cannot recognize and demonstrate the CSV file 
+  - GitHub cannot recognize and demonstrate the CSV file with these constructs
+
+## The Methodology of Data Acquisition
+
+Take S7Comm as an example, the steps are as below:
+
+1. Scan the port 102 in the whole IPv4 space with [ZMap](https://zmap.io/)
+2. Filter IP which do not open 102 port (The default port for S7Comm)
+3. Try to screen remained IP in S7Comm protocol's way (through specialized port scanning tools)
+
+There is no guarantee that the all acquired data is corrcet without omission, because some devices may use non-default port and some devices may communciate with port scanning tools even if without corresponding portocol. However, the method is an effective and efficient way yet.
 
 ## 1. Basic information about Protocols in the Dataset
 
@@ -26,6 +36,9 @@
 - Simple Network Management Protocol (SNMP)
 
   A standard IT procotol, and it is also integrated in many interconnected devices
+  
+  *It is a Management Protocol for Simple Networks not a Simple Protocol for Management of Networks* -- Luis Ontanon, a developer of Wireshark
+  
   - [Wikipedia](https://en.wikipedia.org/wiki/Simple_Network_Management_Protocol)
   - [SNMP - Wireshark](https://wiki.wireshark.org/SNMP)
   - Main RFC(s): SNMPv1: RFC [1157](https://datatracker.ietf.org/doc/html/rfc1157) | SNMPv2c: RFC [1901](https://datatracker.ietf.org/doc/html/rfc1901) to RFC [1908](https://datatracker.ietf.org/doc/html/rfc1908) | SNMPv3: RFC [3411](https://datatracker.ietf.org/doc/html/rfc3411) to RFC [3418](https://datatracker.ietf.org/doc/html/rfc3418)
@@ -33,17 +46,29 @@
 ### IoT Protocols
 
 - Advanced Message Queuing Protocol (AMQP)
+
+  Originally, it is the standard protocol for interoperability between all messaging middleware
+
   - [Official Website](https://www.amqp.org/)
   - [Wikipedia](https://en.wikipedia.org/wiki/Advanced_Message_Queuing_Protocol)
   - [AMQP - Wireshark](https://wiki.wireshark.org/amqp)
 - MQ Telemetry Transport (MQTT)
+
+  It is a lightweight and efficient protocol for messaging between device to cloud and cloud to device in the IoTs
+
   - [Official Website](https://mqtt.org/)
   - [Wikipedia](https://en.wikipedia.org/wiki/MQTT)
   - [Official IoT Use Cases](https://mqtt.org/use-cases/)
 - Simple Object Access Protocol (SOAP)
+
+  It is a lightweight protocol intended for exchanging structured information in a decentralized, distributed environment, using XML technologies, an extensible messaging framework containing a message construct that can be exchanged over a variety of underlying protocols
+
   - [Official Documentations in W3C](https://www.w3.org/TR/soap/)
   - [Wikipedia](https://en.wikipedia.org/wiki/SOAP)
 - Extensible Messaging and Presence Protocol (XMPP)
+
+  It is an open and independent standard for messaging and presence that powers emerging technologies like IoT, WebRTC, and social media
+
   - [Official Website](https://xmpp.org/)
   - [Wikipedia](https://en.wikipedia.org/wiki/XMPP)
   - [Official Webpage - Tech pages/IoT systems](https://wiki.xmpp.org/web/Tech_pages/IoT_systems)
