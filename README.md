@@ -9,6 +9,7 @@
   - Due to some uncontrolled factors, there is a high probability that the raw data will not be updated
   - All existing data will be processed soon
 - How to process dataset
+  - [ ] Make a documentation for all protocols in the dataset
   - [ ] For good demonstration effects in CSV, some banners in the dataset will be processed
   - [ ] Some banners will remain NULL until find a good way to demonstrate
   - [ ] Dataset in other file format will be provided in the future (but readability for either human or machine may not as good as CSV)
@@ -78,6 +79,9 @@ There is no guarantee that the all acquired data is corrcet without omission, be
 #### Open Standard Protocols
 
 - Open Network Video Interface Forum (ONVIF)
+
+  It is an open industry forum that provides and promotes standardized interfaces for effective interoperability of IP-based physical security products
+  
   - [Official Website](https://www.onvif.org/)
   - [Wikipedia](https://en.wikipedia.org/wiki/ONVIF)
 
