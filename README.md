@@ -182,10 +182,19 @@ There is no guarantee that the all acquired data is corrcet without omission, be
   - under construction
   - under construction
 
-## 2. Others: Under construction
+### Limitation
+
+No autonomous vehicles protocol has been acquired
 
 
-Acknowledgement: Raw data is provided and authorized by [Dictecting](https://www.ditecting.com)
+## 2. Others
+
+Under construction
+
+
+## Acknowledgement
+
+Raw data is provided and authorized by [Dictecting](https://www.ditecting.com)
 
 
 ## References
