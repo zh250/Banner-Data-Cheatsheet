@@ -1,876 +1,876 @@
 IP [Hidden],port,service,banner,country,regname,city,latitude,longitude,note
-1,5672,AMQP,"AMQP",Albania,Tirana District,Tirana,41.3275,19.8189
-2,5672,AMQP,"AMQP_x0001__x0001_ ",Albania,,,41,20
-3,5672,AMQP,"AMQP",Switzerland,Zurich,Zurich,47.3667,8.55
-4,5672,AMQP,"AMQP_x0001__x0001_ ",Austria,Lower Austria,Krems,48.4174,15.5625
-5,5672,AMQP,"AMQP   _x0001_",Afghanistan,,,33,65
-6,5672,AMQP,"AMQP_x0001__x0001_ ",Argentina,Buenos Aires,La Plata,-34.9314,-57.9489
-7,5672,AMQP,"AMQP   _x0001_",Chile,Region del Biobio,Concepción,-36.8333,-73.05
-8,5672,AMQP,"AMQP_x0001__x0001_",Pakistan,Punjab,Lahore,31.4888,74.3686
-9,5672,AMQP,"AMQP_x0001__x0001_",Congo,,,,25
-10,5672,AMQP,"AMQP_x0001__x0001_",Libya,,,25,17
-11,5672,AMQP,"AMQP _x0001_",Kyrgyzstan,,,41,75
-12,5672,AMQP,"AMQP   _x0001_",Finland,,,60.1708,24.9375
+1,5672,AMQP,"AMQP",Albania,Tirana District,Tirana,41.3275,19.8189,
+2,5672,AMQP,"AMQP_x0001__x0001_ ",Albania,,,41,20,
+3,5672,AMQP,"AMQP",Switzerland,Zurich,Zurich,47.3667,8.55,
+4,5672,AMQP,"AMQP_x0001__x0001_ ",Austria,Lower Austria,Krems,48.4174,15.5625,
+5,5672,AMQP,"AMQP   _x0001_",Afghanistan,,,33,65,
+6,5672,AMQP,"AMQP_x0001__x0001_ ",Argentina,Buenos Aires,La Plata,-34.9314,-57.9489,
+7,5672,AMQP,"AMQP   _x0001_",Chile,Region del Biobio,Concepción,-36.8333,-73.05,
+8,5672,AMQP,"AMQP_x0001__x0001_",Pakistan,Punjab,Lahore,31.4888,74.3686,
+9,5672,AMQP,"AMQP_x0001__x0001_",Congo,,,,25,
+10,5672,AMQP,"AMQP_x0001__x0001_",Libya,,,25,17,
+11,5672,AMQP,"AMQP _x0001_",Kyrgyzstan,,,41,75,
+12,5672,AMQP,"AMQP   _x0001_",Finland,,,60.1708,24.9375,
 13,5672,AMQP,"",France,,,48.8582,2.3387,banner is NULL
-14,5672,AMQP,"AMQP   _x0001_",France,,,48.8582,2.3387
-15,5672,AMQP,"AMQP _x0001_",Kuwait,,,29.3375,47.6581
-16,10001,ATGs Devices,,Switzerland,,,47.1449,8.1551
-17,10001,ATGs Devices,,Switzerland,,,47.1449,8.1551
-18,10001,ATGs Devices,,Switzerland,Ticino,Ascona,46.1545,8.7733
-19,10001,ATGs Devices,,Argentina,San Luis,San Luis,-33.3,-66.35
-20,10001,ATGs Devices,,Belgium,Flemish Brabant Province,Overijse,50.7667,4.5333
-21,10001,ATGs Devices,,Germany,,,51.2993,9.491
-22,10001,ATGs Devices,,Germany,Schleswig-Holstein,Kellinghusen,53.952,9.7196
-23,10001,ATGs Devices,,Germany,Hamburg,Hamburg,53.5512,9.9662
-24,10001,ATGs Devices,,Canada,Ontario,Sault Ste. Marie,46.5168,-84.3333
-25,10001,ATGs Devices,,Canada,British Columbia,Cranbrook,49.4999,-115.7688
-26,10001,ATGs Devices,,Republic of Korea,,,37.5112,126.9741
-27,10001,ATGs Devices,,Finland,,,60.1708,24.9375
-28,10001,ATGs Devices,,France,,,48.8582,2.3387
-29,10001,ATGs Devices,,France,,,48.8582,2.3387
-30,10001,ATGs Devices,,France,,,48.8582,2.3387
-31,10001,ATGs Devices,,Spain,,,40.4172,-3.684
-32,10001,ATGs Devices,,United States,Georgia,Covington,33.5968,-83.8602
-33,10001,ATGs Devices,,Australia,New South Wales,Abbotsford,-33.8489,151.128
-34,10001,ATGs Devices,,Belgium,West Flanders Province,Koekelare,51.0833,2.9667
-35,10001,ATGs Devices,,United States,Tennessee,Oneida,36.5101,-84.4693
-36,10001,ATGs Devices,,Germany,Hesse,Weiterstadt,49.9039,8.5887
-37,10001,ATGs Devices,,Australia,New South Wales,Sans Souci,-33.9979,151.1293
-38,10001,ATGs Devices,,Spain,Madrid,Madrid,40.4167,-3.68379999999999
-39,10001,ATGs Devices,,Germany,Bavaria,Aschaffenburg,49.9751,9.1314
-40,10001,ATGs Devices,,Spain,Saragossa,Zaragoza,41.6561,-0.8773
-41,10001,ATGs Devices,,Canada,Ontario,Barrie,44.3572,-79.6929
-42,10001,ATGs Devices,,Germany,Bavaria,Kempten (Allgaeu),47.7229,10.3288
-43,10001,ATGs Devices,,Turkey,Istanbul,Istanbul,41.0186,28.9647
-44,10001,ATGs Devices,,Canada,,,43.6319,-79.3716
-45,10001,ATGs Devices,,Germany,Baden-Württemberg Region,Freiburg,47.9809,7.8327
-46,10001,ATGs Devices,,United States,Mississippi,Vicksburg,32.2224,-90.8293
-47,10001,ATGs Devices,,Israel,Central District,Netanya,32.3329,34.8599
-48,10001,ATGs Devices,,Canada,British Columbia,Vernon,50.084,-118.938
-49,10001,ATGs Devices,,Australia,Queensland,Wellington Point,-27.4833,153.25
-50,10001,ATGs Devices,,Belgium,Antwerp Province,Herenthout,51.15,4.7667
-51,10001,ATGs Devices,,Austria,Vienna,Vienna,48.2,16.3667
-52,10001,ATGs Devices,,Spain,A Coruña,A Coruña,43.3666,-8.4068
-53,10001,ATGs Devices,,United States,California,Patterson,37.4957,-121.2546
-54,10001,ATGs Devices,,Spain,Ciudad Real,Ciudad Real,38.9863,-3.9291
-55,10001,ATGs Devices,,Italy,Provincia di Brescia,Desenzano del Garda,45.4667,10.5333
-56,10001,ATGs Devices,,New Zealand,Marlborough,Blenheim,-41.5456,173.9572
-57,10001,ATGs Devices,,Germany,Baden-Württemberg Region,Bietigheim-Bissingen,48.9441,9.1175
-58,10001,ATGs Devices,,United States,Delaware,Wilmington,39.7472,-75.5918
-59,10001,ATGs Devices,,Belgium,Antwerp Province,Deurne,51.2167,4.4667
-60,10001,ATGs Devices,,United States,Missouri,Chesterfield,38.6353,-90.6673
-61,10001,ATGs Devices,,United States,Florida,,28.6344,-81.6221
-62,10001,ATGs Devices,,Canada,Ontario,Toronto,43.7113,-79.4195
-63,10001,ATGs Devices,,United States,New York,Yonkers,40.9513,-73.8773
-64,10001,ATGs Devices,,United States,North Carolina,New Bern,35.1427,-77.163
-65,10001,ATGs Devices,,Germany,Bavaria,Marzling,48.409,11.7938
-66,10001,ATGs Devices,,Turkey,Istanbul,Istanbul,41.0186,28.9647
-67,10001,ATGs Devices,,Germany,Lower Saxony,Diepenau,52.4187,8.7176
-68,10001,ATGs Devices,,United States,North Carolina,Waynesville,35.6346,-83.023
-69,10001,ATGs Devices,,Spain,Valencia,Valencia,39.4667,-0.3667
-70,10001,ATGs Devices,,Brazil,,,-22.8305,-43.2192
-71,10001,ATGs Devices,,China,Gansu,,36.0564,103.7922
-72,10001,ATGs Devices,,China,,,34.7725,113.7266
-73,10001,ATGs Devices,,Italy,Provincia di Treviso,Mogliano Veneto,45.5559,12.2429
-74,10001,ATGs Devices,,China,Guangdong,,23.1167,113.25
-75,10001,ATGs Devices,,United States,,,37.751,-97.822
-76,10001,ATGs Devices,,United States,California,Corona,33.9096,-117.6123
-77,10001,ATGs Devices,,Brazil,Parana,Palmas,-26.4057,-51.8203
-78,10001,ATGs Devices,,Germany,Bavaria,Marzling,48.409,11.7938
-79,10001,ATGs Devices,,Peru,Lima,Lima,-12.05,-77.05
-80,10001,ATGs Devices,,China,Zhejiang,,30.2936,120.1614
-81,10001,ATGs Devices,,Poland,Greater Poland,Poznan,52.4529,16.9476
-82,10001,ATGs Devices,,Portugal,Évora,Evora,38.5667,-7.9
-83,10001,ATGs Devices,,Germany,Thuringia,Soemmerda,51.1591,11.1152
-84,10001,ATGs Devices,,Belgium,Flemish Brabant Province,Kapelle-op-den-Bos,50.9412,4.386
-85,10001,ATGs Devices,,Germany,North Rhine-Westphalia,Dortmund,51.5251,7.5475
-86,10001,ATGs Devices,,Germany,Bavaria,Munich,48.15,11.5833
-87,10001,ATGs Devices,,Spain,Tarragona,Reus,41.1561,1.1069
-88,10001,ATGs Devices,,Italy,Milan,Milan,45.4667,9.2
-89,10001,ATGs Devices,,United States,Nebraska,Lincoln,40.8057,-96.6444
-90,10001,ATGs Devices,,United States,Georgia,Covington,33.5968,-83.8602
-91,10001,ATGs Devices,,United States,Michigan,Hastings,42.6318,-85.2931
-92,10001,ATGs Devices,,Turkey,Kayseri,Kayseri,38.6323,35.8791
-93,10001,ATGs Devices,,Austria,,,48.2,16.3667
-94,10001,ATGs Devices,,Belgium,Limburg Province,Hasselt,50.9333,5.3333
-95,10001,ATGs Devices,,United States,Mississippi,Southaven,34.9489,-89.9665
-96,10001,ATGs Devices,,United States,West Virginia,West Hamlin,38.2883,-82.1173
-97,10001,ATGs Devices,,Canada,,,43.6319,-79.3716
-98,10001,ATGs Devices,,Germany,North Rhine-Westphalia,Bochum,51.4833,7.2167
-99,10001,ATGs Devices,,Germany,,,51.2993,9.491
-100,10001,ATGs Devices,,Spain,Valencia,Valencia,39.4667,-0.3667
-101,10001,ATGs Devices,,Germany,Land Berlin,Berlin,52.5305,13.4053
-102,10001,ATGs Devices,,Poland,Mazovia,Nowy Dwor Mazowiecki,52.4325,20.718
-103,10001,ATGs Devices,,Canada,,,43.6319,-79.3716
-104,10001,ATGs Devices,,Germany,Thuringia,Altenburg,50.9876,12.4368
-105,10001,ATGs Devices,,Germany,Hesse,Giessen,50.6167,8.65
-106,10001,ATGs Devices,,United States,North Carolina,Durham,36.0378,-78.9858
-107,10001,ATGs Devices,,United States,,,37.751,-97.822
-108,10001,ATGs Devices,,United States,,,37.751,-97.822
-109,10001,ATGs Devices,,United States,,,37.751,-97.822
-110,10001,ATGs Devices,,United States,,,37.751,-97.822
-111,10001,ATGs Devices,,United States,North Carolina,Statesville,35.725,-80.9069
-112,10001,ATGs Devices,,Germany,Hesse,Frankfurt am Main,50.1039,8.6886
-113,10001,ATGs Devices,,United States,,,37.751,-97.822
-114,10001,ATGs Devices,,Russia,St.-Petersburg,St Petersburg,59.8944,30.2642
-115,10001,ATGs Devices,,Germany,North Rhine-Westphalia,Lichtenau,51.6171,8.8967
-116,10001,ATGs Devices,,China,,,34.7725,113.7266
-117,10001,ATGs Devices,,Turkey,Istanbul,Istanbul,41.0165,28.9785
-118,10001,ATGs Devices,,Belgium,Antwerp Province,Edegem,51.15,4.45
-119,10001,ATGs Devices,,Canada,,,43.6319,-79.3716
-120,10001,ATGs Devices,,Slovenia,,,46,15
-121,10001,ATGs Devices,,Bahamas,New Providence District,Nassau,25.0833,-77.35
-122,10001,ATGs Devices,,United States,New York,Staten Island,40.566,-74.1258
-123,10001,ATGs Devices,,Russia,St.-Petersburg,St Petersburg,59.8944,30.2642
-124,10001,ATGs Devices,,Germany,North Rhine-Westphalia,Lichtenau,51.6171,8.8967
-125,10001,ATGs Devices,,China,,,34.7725,113.7266
-126,10001,ATGs Devices,,Turkey,Istanbul,Istanbul,41.0165,28.9785
-127,10001,ATGs Devices,,Belgium,Antwerp Province,Edegem,51.15,4.45
-128,10001,ATGs Devices,,Canada,,,43.6319,-79.3716
-129,10001,ATGs Devices,,Slovenia,,,46,15
-130,10001,ATGs Devices,,Bahamas,New Providence District,Nassau,25.0833,-77.35
-131,10001,ATGs Devices,,United States,New York,Staten Island,40.566,-74.1258
-132,10001,ATGs Devices,,Brazil,Parana,Candoi,-25.5131,-52.0224
-133,10001,ATGs Devices,,Germany,,,51.2993,9.491
-134,10001,ATGs Devices,,United States,Illinois,Chicago,41.8119,-87.6873
-135,10001,ATGs Devices,,Germany,Saxony-Anhalt,Bad Lauchstaedt,51.3865,11.8696
-136,10001,ATGs Devices,,Germany,Brandenburg,Rangsdorf,52.2913,13.4195
-137,47808,BACnet,,Switzerland,Valais,Sion,46.2274,7.3556
-138,47808,BACnet,,Switzerland,Valais,Ravoire,46.1007,7.0458
-139,47808,BACnet,,Switzerland,Valais,Ravoire,46.1007,7.0458
-140,47808,BACnet,,Switzerland,Zurich,Winterthur,47.5056,8.7241
-141,47808,BACnet,,Austria,Vienna,Vienna,48.1433,16.2934
-142,47808,BACnet,,Austria,Vienna,Vienna,48.1433,16.2934
-143,47808,BACnet,,Belgium,Brussels Capital,Brussels,50.8466,4.3528
-144,47808,BACnet,,Belgium,Namur Province,Gembloux,50.5667,4.6833
-145,47808,BACnet,,Belgium,,,50.85,4.35
-146,47808,BACnet,,Germany,Bavaria,Attenkirchen,48.5047,11.7597
-147,47808,BACnet,,Canada,British Columbia,Kamloops,50.8869,-120.7357
-148,47808,BACnet,,Canada,British Columbia,Kamloops,50.8869,-120.7357
-149,47808,BACnet,,Canada,Quebec,Rouyn-Noranda,48.2855,-78.8234
-150,47808,BACnet,,Republic of Korea,Seoul,Seoul,37.5111,126.9743
-151,47808,BACnet,,Finland,Uusimaa,Sipoo,60.3667,25.2667
-152,47808,BACnet,,France,Paris,Paris,48.8628,2.3292
-153,47808,BACnet,,France,Seine-Maritime,Croix-Mare,49.5995,0.8528
-154,2455,CoDeSyS,,Germany,,,51.2993,9.491
-155,2455,CoDeSyS,,Canada,Ontario,Newmarket,44.058,-79.4526
-156,1200,CoDeSyS,,Finland,,,60.1708,24.9375
-157,2455,CoDeSyS,,Finland,,,60.1708,24.9375
-158,2455,CoDeSyS,,France,,,48.8582,2.3387
-159,2455,CoDeSyS,,France,,,48.8582,2.3387
-160,2455,CoDeSyS,,Zimbabwe,Harare,Harare,-17.8178,31.0447
-161,2455,CoDeSyS,,Norway,,,59.95,10.75
-162,1200,CoDeSyS,,Portugal,Porto,Vila Nova de Gaia,41.1336,-8.6174
-163,1200,CoDeSyS,,Portugal,,,38.7139,-9.1394
-164,2222,CSPV4,"Session ID:-372200655",Germany,,,51.2993,9.491
-165,2222,CSPV4,Session ID:16849664,Canada,Alberta,Viking,53.0727,-111.5816
-166,2222,CSPV4,Session ID:50429184,Canada,,,43.6319,-79.3716
-167,2222,CSPV4,Session ID:84148224,Finland,Northern Ostrobothnia,Kempele,64.906,25.5647
-168,2222,CSPV4,"Session ID:16777216",Mexico,Sonora,Coyoacan,28.9667,-111.6667
-169,2222,CSPV4,"Session ID:263398208",Mexico,Jalisco,Guadalajara,20.6668,-103.3918
-170,2222,CSPV4,"Session ID:16845056",Mexico,Estado de Mexico,Toluca,19.2873,-99.645
-171,2222,CSPV4,"Session ID:222909584",Peru,Lima,Lima,-12.05,-77.05
-172,2222,CSPV4,"Session ID:16886016",Spain,Burgos,Burgos,42.3502,-3.6753
-173,2222,CSPV4,"Session ID:16844544",Spain,Madrid,Madrid,40.4167,-3.6838
-174,2222,CSPV4,"Session ID:33682707",Spain,,,40.4172,-3.684
-175,2222,CSPV4,"Session ID:67328",Spain,,,40.4172,-3.684
-176,2222,CSPV4,"Session ID:100735232",Italy,Provincia di Ancona,Genga,43.4389,12.9034
-177,2222,CSPV4,"Session ID:61472648",China,Guangxi,Nanning,22.8167,108.3167
-178,2222,CSPV4,"Session ID:66048",United States,Massachusetts,Lynn,42.4733,-70.9419
-179,2222,CSPV4,"Session ID:16860416",United States,Minnesota,Forest Lake,45.2673,-93.0196
-180,2222,CSPV4,"Session ID:15025408",Republic of Korea,Incheon,Incheon,37.4536,126.7317
-181,2222,CSPV4,"Session ID:318963712",United States,Minnesota,Pine City,45.8427,-92.9077
-182,2222,CSPV4,"Session ID:16850944",Republic of Korea,Chungcheongnam-do,,36.1338,127.4806
-183,2222,CSPV4,"Session ID:14464608",Brazil,Minas Gerais,Belo Horizonte,-19.9016999999999,-43.9642
-184,2222,CSPV4,"Session ID:71094000",Republic of Korea,Incheon,Incheon,37.4536,126.7317
-185,2222,CSPV4,"Session ID:35376864",Australia,Victoria,Melbourne,-37.8396,144.9423
-186,2222,CSPV4,"Session ID:33636864",United States,Florida,Lakeland,28.0395,-81.9498
-187,2222,CSPV4,"Session ID:67175168",United States,Minnesota,Sauk Centre,45.7265,-94.9847
-188,2222,CSPV4,"Session ID:115712",United States,Washington,Woodinville,47.757,-122.0928
-189,2222,CSPV4,"Session ID:98048",United States,Washington,Vashon,47.4206,-122.4509
-190,2222,CSPV4,"Session ID:30467656",United States,West Virginia,Stephenson,37.5598,-81.3304
-191,2222,CSPV4,"Session ID:16877056",Taiwan,Taipei City,Taipei,25.0478,121.5318
-192,2222,CSPV4,"Session ID:15408088",Taiwan,Taichung City,Taichung,24.1469,120.6839
-193,2222,CSPV4,"Session ID:35167928",United States,Pennsylvania,State College,40.7849,-77.847
-194,2222,CSPV4,"Session ID:117522432",United States,Minnesota,Buffalo,45.1845,-93.8397
-195,2222,CSPV4,"Session ID:67180547",United States,Alaska,King Cove,55.085,-162.322
-196,2222,CSPV4,"Session ID:98823",Canada,Alberta,Calgary,51.0833,-114.0833
-197,2222,CSPV4,"Session ID:50445568",Hong Kong,,Central District,22.291,114.15
-198,2222,CSPV4,"Session ID:33639424",United States,Oregon,Cascade Locks,45.6145,-121.8474
-199,2222,CSPV4,"Session ID:70144",Republic of Korea,Busan,Busan,35.1028,129.0403
-200,2222,CSPV4,"Session ID:66560",Canada,Ontario,Oakville,43.4881,-79.7098
-201,2222,CSPV4,"Session ID:14511616",United States,Pennsylvania,Lancaster,40.0052,-76.3246
-202,2222,CSPV4,"Session ID:1291845632",Canada,Ontario,Belleville,44.1667,-77.3833
-203,2222,CSPV4,"Session ID:179634272",Canada,Quebec,Rimouski,48.416,-68.5979
-204,2222,CSPV4,"Session ID:33645824",United States,South Dakota,Chamberlain,43.7887,-99.314
-205,2222,CSPV4,"Session ID:167977064",Slovakia,Trnava,Vahovce,48.2492,17.7854
-206,2222,CSPV4,"Session ID:-352190464",United States,Minnesota,Minneapolis,44.9014,-93.2882
-207,2222,CSPV4,"Session ID:16842752",United States,California,San Francisco,37.7957,-122.4209
-208,2222,CSPV4,"Session ID:66560",United States,Texas,Houston,29.9845,-95.525
-209,2222,CSPV4,"Session ID:263398208",Mexico,Jalisco,Guadalajara,20.6668,-103.3918
-210,2222,CSPV4,"Session ID:-396141748",Poland,Warmia-Masuria,Lipowo,53.378,20.2731
-211,2222,CSPV4,"Session ID:16874497",China,Beijing,,39.9289,116.3883
-212,2222,CSPV4,"Session ID:20163256",United States,Florida,Tampa,28.0898,-82.576
-213,2222,CSPV4,"Session ID:36544896",Canada,British Columbia,Vancouver,49.2866,-123.1158
-214,2222,CSPV4,"Session ID:14696456",Canada,Alberta,Edmonton,53.4914,-113.4802
-215,2222,CSPV4,"Session ID:14472848",United States,Idaho,Preston,42.2074,-111.746
-216,2222,CSPV4,"Session ID:88602880",Malaysia,Selangor,Petaling Jaya,3.1097,101.6171
-217,2222,CSPV4,"Session ID:1691955461",France,Saône-et-Loire,Chalon-sur-Saône,46.7888,4.8488
-218,2222,CSPV4,"Session ID:-1190199296",Canada,Saskatchewan,Regina,50.4855,-104.6163
-219,2222,CSPV4,"Session ID:16843520",Australia,Victoria,Melbourne,-37.8103,144.9544
-220,2222,CSPV4,"Session ID:768",Czechia,Chrudim District,Chrudim,49.9472,15.7875
-221,2222,CSPV4,"Session ID:82944",United States,Idaho,Lewiston,46.1683,-116.9204
-222,2222,CSPV4,"Session ID:67182848",United States,Minnesota,Sauk Centre,45.7265,-94.9847
-223,2222,CSPV4,"Session ID:81627896",Italy,Provincia di Lodi,Casalpusterlengo,45.1792,9.6483
-224,2222,CSPV4,"Session ID:92673",United States,Arizona,Teec Nos Pos,36.9211,-109.0857
-225,2222,CSPV4,"Session ID:115968",United States,Washington,Woodinville,47.757,-122.0928
-226,2222,CSPV4,"Session ID:16843008",United States,Wyoming,Lander,42.6501,-108.4242
-227,2222,CSPV4,"Session ID:25557296",Spain,Toledo,Toledo,39.8673,-4.0298
-228,2222,CSPV4,"Session ID:16879616",United States,Minnesota,Minneapolis,44.9014,-93.2882
-229,2222,CSPV4,"Session ID:33620480",United States,Alaska,Valdez,61.4065,-145.667
-230,2222,CSPV4,"Session ID:16843264",United States,Minnesota,Sandstone,46.1501,-92.4231
-231,2222,CSPV4,"Session ID:84148224",United Kingdom,Lewisham,Lewisham,51.45,-0.0167
-232,2222,CSPV4,"Session ID:66816",United States,New Jersey,Bloomfield,40.8086,-74.1869
-233,2222,CSPV4,"Session ID:78788400",Romania,Judetul Bacau,Comanesti,46.4214,26.4365
-234,2222,CSPV4,"Session ID:77824",United States,Oklahoma,Ringwood,36.3319,-98.2743
-235,2222,CSPV4,"Session ID:14956472",Republic of Korea,Seoul,Seoul,37.5985,126.9783
-236,2222,CSPV4,"Session ID:50455054",Hong Kong,,Central District,22.291,114.15
-237,37777,Dahua Dvr,"Default passwd and  Serial Number:4H02A68PAZBCF",Switzerland,Aargau,Buchs,47.3878,8.0735
-238,37777,Dahua Dvr,"No default passwd and Serial Number:PZC3BV0170014",Switzerland,Bern,Bern,46.9481,7.4474
-239,37777,Dahua Dvr,"Default passwd and  Serial Number:",Switzerland,Saint Gallen,Wattwil,47.2996,9.0866
-240,37777,Dahua Dvr,"No default passwd and Serial Number:",Switzerland,Bern,Wabern,46.9299,7.4508
-241,37777,Dahua Dvr,"",Switzerland,,,47.1449,8.1551
-242,37777,Dahua Dvr,"Default passwd and  Serial Number:",Austria,,,48.2,16.3667
+14,5672,AMQP,"AMQP   _x0001_",France,,,48.8582,2.3387,
+15,5672,AMQP,"AMQP _x0001_",Kuwait,,,29.3375,47.6581,
+16,10001,ATGs Devices,,Switzerland,,,47.1449,8.1551,
+17,10001,ATGs Devices,,Switzerland,,,47.1449,8.1551,
+18,10001,ATGs Devices,,Switzerland,Ticino,Ascona,46.1545,8.7733,
+19,10001,ATGs Devices,,Argentina,San Luis,San Luis,-33.3,-66.35,
+20,10001,ATGs Devices,,Belgium,Flemish Brabant Province,Overijse,50.7667,4.5333,
+21,10001,ATGs Devices,,Germany,,,51.2993,9.491,
+22,10001,ATGs Devices,,Germany,Schleswig-Holstein,Kellinghusen,53.952,9.7196,
+23,10001,ATGs Devices,,Germany,Hamburg,Hamburg,53.5512,9.9662,
+24,10001,ATGs Devices,,Canada,Ontario,Sault Ste. Marie,46.5168,-84.3333,
+25,10001,ATGs Devices,,Canada,British Columbia,Cranbrook,49.4999,-115.7688,
+26,10001,ATGs Devices,,Republic of Korea,,,37.5112,126.9741,
+27,10001,ATGs Devices,,Finland,,,60.1708,24.9375,
+28,10001,ATGs Devices,,France,,,48.8582,2.3387,
+29,10001,ATGs Devices,,France,,,48.8582,2.3387,
+30,10001,ATGs Devices,,France,,,48.8582,2.3387,
+31,10001,ATGs Devices,,Spain,,,40.4172,-3.684,
+32,10001,ATGs Devices,,United States,Georgia,Covington,33.5968,-83.8602,
+33,10001,ATGs Devices,,Australia,New South Wales,Abbotsford,-33.8489,151.128,
+34,10001,ATGs Devices,,Belgium,West Flanders Province,Koekelare,51.0833,2.9667,
+35,10001,ATGs Devices,,United States,Tennessee,Oneida,36.5101,-84.4693,
+36,10001,ATGs Devices,,Germany,Hesse,Weiterstadt,49.9039,8.5887,
+37,10001,ATGs Devices,,Australia,New South Wales,Sans Souci,-33.9979,151.1293,
+38,10001,ATGs Devices,,Spain,Madrid,Madrid,40.4167,-3.68379999999999,
+39,10001,ATGs Devices,,Germany,Bavaria,Aschaffenburg,49.9751,9.1314,
+40,10001,ATGs Devices,,Spain,Saragossa,Zaragoza,41.6561,-0.8773,
+41,10001,ATGs Devices,,Canada,Ontario,Barrie,44.3572,-79.6929,
+42,10001,ATGs Devices,,Germany,Bavaria,Kempten (Allgaeu),47.7229,10.3288,
+43,10001,ATGs Devices,,Turkey,Istanbul,Istanbul,41.0186,28.9647,
+44,10001,ATGs Devices,,Canada,,,43.6319,-79.3716,
+45,10001,ATGs Devices,,Germany,Baden-Württemberg Region,Freiburg,47.9809,7.8327,
+46,10001,ATGs Devices,,United States,Mississippi,Vicksburg,32.2224,-90.8293,
+47,10001,ATGs Devices,,Israel,Central District,Netanya,32.3329,34.8599,
+48,10001,ATGs Devices,,Canada,British Columbia,Vernon,50.084,-118.938,
+49,10001,ATGs Devices,,Australia,Queensland,Wellington Point,-27.4833,153.25,
+50,10001,ATGs Devices,,Belgium,Antwerp Province,Herenthout,51.15,4.7667,
+51,10001,ATGs Devices,,Austria,Vienna,Vienna,48.2,16.3667,
+52,10001,ATGs Devices,,Spain,A Coruña,A Coruña,43.3666,-8.4068,
+53,10001,ATGs Devices,,United States,California,Patterson,37.4957,-121.2546,
+54,10001,ATGs Devices,,Spain,Ciudad Real,Ciudad Real,38.9863,-3.9291,
+55,10001,ATGs Devices,,Italy,Provincia di Brescia,Desenzano del Garda,45.4667,10.5333,
+56,10001,ATGs Devices,,New Zealand,Marlborough,Blenheim,-41.5456,173.9572,
+57,10001,ATGs Devices,,Germany,Baden-Württemberg Region,Bietigheim-Bissingen,48.9441,9.1175,
+58,10001,ATGs Devices,,United States,Delaware,Wilmington,39.7472,-75.5918,
+59,10001,ATGs Devices,,Belgium,Antwerp Province,Deurne,51.2167,4.4667,
+60,10001,ATGs Devices,,United States,Missouri,Chesterfield,38.6353,-90.6673,
+61,10001,ATGs Devices,,United States,Florida,,28.6344,-81.6221,
+62,10001,ATGs Devices,,Canada,Ontario,Toronto,43.7113,-79.4195,
+63,10001,ATGs Devices,,United States,New York,Yonkers,40.9513,-73.8773,
+64,10001,ATGs Devices,,United States,North Carolina,New Bern,35.1427,-77.163,
+65,10001,ATGs Devices,,Germany,Bavaria,Marzling,48.409,11.7938,
+66,10001,ATGs Devices,,Turkey,Istanbul,Istanbul,41.0186,28.9647,
+67,10001,ATGs Devices,,Germany,Lower Saxony,Diepenau,52.4187,8.7176,
+68,10001,ATGs Devices,,United States,North Carolina,Waynesville,35.6346,-83.023,
+69,10001,ATGs Devices,,Spain,Valencia,Valencia,39.4667,-0.3667,
+70,10001,ATGs Devices,,Brazil,,,-22.8305,-43.2192,
+71,10001,ATGs Devices,,China,Gansu,,36.0564,103.7922,
+72,10001,ATGs Devices,,China,,,34.7725,113.7266,
+73,10001,ATGs Devices,,Italy,Provincia di Treviso,Mogliano Veneto,45.5559,12.2429,
+74,10001,ATGs Devices,,China,Guangdong,,23.1167,113.25,
+75,10001,ATGs Devices,,United States,,,37.751,-97.822,
+76,10001,ATGs Devices,,United States,California,Corona,33.9096,-117.6123,
+77,10001,ATGs Devices,,Brazil,Parana,Palmas,-26.4057,-51.8203,
+78,10001,ATGs Devices,,Germany,Bavaria,Marzling,48.409,11.7938,
+79,10001,ATGs Devices,,Peru,Lima,Lima,-12.05,-77.05,
+80,10001,ATGs Devices,,China,Zhejiang,,30.2936,120.1614,
+81,10001,ATGs Devices,,Poland,Greater Poland,Poznan,52.4529,16.9476,
+82,10001,ATGs Devices,,Portugal,Évora,Evora,38.5667,-7.9,
+83,10001,ATGs Devices,,Germany,Thuringia,Soemmerda,51.1591,11.1152,
+84,10001,ATGs Devices,,Belgium,Flemish Brabant Province,Kapelle-op-den-Bos,50.9412,4.386,
+85,10001,ATGs Devices,,Germany,North Rhine-Westphalia,Dortmund,51.5251,7.5475,
+86,10001,ATGs Devices,,Germany,Bavaria,Munich,48.15,11.5833,
+87,10001,ATGs Devices,,Spain,Tarragona,Reus,41.1561,1.1069,
+88,10001,ATGs Devices,,Italy,Milan,Milan,45.4667,9.2,
+89,10001,ATGs Devices,,United States,Nebraska,Lincoln,40.8057,-96.6444,
+90,10001,ATGs Devices,,United States,Georgia,Covington,33.5968,-83.8602,
+91,10001,ATGs Devices,,United States,Michigan,Hastings,42.6318,-85.2931,
+92,10001,ATGs Devices,,Turkey,Kayseri,Kayseri,38.6323,35.8791,
+93,10001,ATGs Devices,,Austria,,,48.2,16.3667,
+94,10001,ATGs Devices,,Belgium,Limburg Province,Hasselt,50.9333,5.3333,
+95,10001,ATGs Devices,,United States,Mississippi,Southaven,34.9489,-89.9665,
+96,10001,ATGs Devices,,United States,West Virginia,West Hamlin,38.2883,-82.1173,
+97,10001,ATGs Devices,,Canada,,,43.6319,-79.3716,
+98,10001,ATGs Devices,,Germany,North Rhine-Westphalia,Bochum,51.4833,7.2167,
+99,10001,ATGs Devices,,Germany,,,51.2993,9.491,
+100,10001,ATGs Devices,,Spain,Valencia,Valencia,39.4667,-0.3667,
+101,10001,ATGs Devices,,Germany,Land Berlin,Berlin,52.5305,13.4053,
+102,10001,ATGs Devices,,Poland,Mazovia,Nowy Dwor Mazowiecki,52.4325,20.718,
+103,10001,ATGs Devices,,Canada,,,43.6319,-79.3716,
+104,10001,ATGs Devices,,Germany,Thuringia,Altenburg,50.9876,12.4368,
+105,10001,ATGs Devices,,Germany,Hesse,Giessen,50.6167,8.65,
+106,10001,ATGs Devices,,United States,North Carolina,Durham,36.0378,-78.9858,
+107,10001,ATGs Devices,,United States,,,37.751,-97.822,
+108,10001,ATGs Devices,,United States,,,37.751,-97.822,
+109,10001,ATGs Devices,,United States,,,37.751,-97.822,
+110,10001,ATGs Devices,,United States,,,37.751,-97.822,
+111,10001,ATGs Devices,,United States,North Carolina,Statesville,35.725,-80.9069,
+112,10001,ATGs Devices,,Germany,Hesse,Frankfurt am Main,50.1039,8.6886,
+113,10001,ATGs Devices,,United States,,,37.751,-97.822,
+114,10001,ATGs Devices,,Russia,St.-Petersburg,St Petersburg,59.8944,30.2642,
+115,10001,ATGs Devices,,Germany,North Rhine-Westphalia,Lichtenau,51.6171,8.8967,
+116,10001,ATGs Devices,,China,,,34.7725,113.7266,
+117,10001,ATGs Devices,,Turkey,Istanbul,Istanbul,41.0165,28.9785,
+118,10001,ATGs Devices,,Belgium,Antwerp Province,Edegem,51.15,4.45,
+119,10001,ATGs Devices,,Canada,,,43.6319,-79.3716,
+120,10001,ATGs Devices,,Slovenia,,,46,15,
+121,10001,ATGs Devices,,Bahamas,New Providence District,Nassau,25.0833,-77.35,
+122,10001,ATGs Devices,,United States,New York,Staten Island,40.566,-74.1258,
+123,10001,ATGs Devices,,Russia,St.-Petersburg,St Petersburg,59.8944,30.2642,
+124,10001,ATGs Devices,,Germany,North Rhine-Westphalia,Lichtenau,51.6171,8.8967,
+125,10001,ATGs Devices,,China,,,34.7725,113.7266,
+126,10001,ATGs Devices,,Turkey,Istanbul,Istanbul,41.0165,28.9785,
+127,10001,ATGs Devices,,Belgium,Antwerp Province,Edegem,51.15,4.45,
+128,10001,ATGs Devices,,Canada,,,43.6319,-79.3716,
+129,10001,ATGs Devices,,Slovenia,,,46,15,
+130,10001,ATGs Devices,,Bahamas,New Providence District,Nassau,25.0833,-77.35,
+131,10001,ATGs Devices,,United States,New York,Staten Island,40.566,-74.1258,
+132,10001,ATGs Devices,,Brazil,Parana,Candoi,-25.5131,-52.0224,
+133,10001,ATGs Devices,,Germany,,,51.2993,9.491,
+134,10001,ATGs Devices,,United States,Illinois,Chicago,41.8119,-87.6873,
+135,10001,ATGs Devices,,Germany,Saxony-Anhalt,Bad Lauchstaedt,51.3865,11.8696,
+136,10001,ATGs Devices,,Germany,Brandenburg,Rangsdorf,52.2913,13.4195,
+137,47808,BACnet,,Switzerland,Valais,Sion,46.2274,7.3556,
+138,47808,BACnet,,Switzerland,Valais,Ravoire,46.1007,7.0458,
+139,47808,BACnet,,Switzerland,Valais,Ravoire,46.1007,7.0458,
+140,47808,BACnet,,Switzerland,Zurich,Winterthur,47.5056,8.7241,
+141,47808,BACnet,,Austria,Vienna,Vienna,48.1433,16.2934,
+142,47808,BACnet,,Austria,Vienna,Vienna,48.1433,16.2934,
+143,47808,BACnet,,Belgium,Brussels Capital,Brussels,50.8466,4.3528,
+144,47808,BACnet,,Belgium,Namur Province,Gembloux,50.5667,4.6833,
+145,47808,BACnet,,Belgium,,,50.85,4.35,
+146,47808,BACnet,,Germany,Bavaria,Attenkirchen,48.5047,11.7597,
+147,47808,BACnet,,Canada,British Columbia,Kamloops,50.8869,-120.7357,
+148,47808,BACnet,,Canada,British Columbia,Kamloops,50.8869,-120.7357,
+149,47808,BACnet,,Canada,Quebec,Rouyn-Noranda,48.2855,-78.8234,
+150,47808,BACnet,,Republic of Korea,Seoul,Seoul,37.5111,126.9743,
+151,47808,BACnet,,Finland,Uusimaa,Sipoo,60.3667,25.2667,
+152,47808,BACnet,,France,Paris,Paris,48.8628,2.3292,
+153,47808,BACnet,,France,Seine-Maritime,Croix-Mare,49.5995,0.8528,
+154,2455,CoDeSyS,,Germany,,,51.2993,9.491,
+155,2455,CoDeSyS,,Canada,Ontario,Newmarket,44.058,-79.4526,
+156,1200,CoDeSyS,,Finland,,,60.1708,24.9375,
+157,2455,CoDeSyS,,Finland,,,60.1708,24.9375,
+158,2455,CoDeSyS,,France,,,48.8582,2.3387,
+159,2455,CoDeSyS,,France,,,48.8582,2.3387,
+160,2455,CoDeSyS,,Zimbabwe,Harare,Harare,-17.8178,31.0447,
+161,2455,CoDeSyS,,Norway,,,59.95,10.75,
+162,1200,CoDeSyS,,Portugal,Porto,Vila Nova de Gaia,41.1336,-8.6174,
+163,1200,CoDeSyS,,Portugal,,,38.7139,-9.1394,
+164,2222,CSPV4,"Session ID:-372200655",Germany,,,51.2993,9.491,
+165,2222,CSPV4,Session ID:16849664,Canada,Alberta,Viking,53.0727,-111.5816,
+166,2222,CSPV4,Session ID:50429184,Canada,,,43.6319,-79.3716,
+167,2222,CSPV4,Session ID:84148224,Finland,Northern Ostrobothnia,Kempele,64.906,25.5647,
+168,2222,CSPV4,"Session ID:16777216",Mexico,Sonora,Coyoacan,28.9667,-111.6667,
+169,2222,CSPV4,"Session ID:263398208",Mexico,Jalisco,Guadalajara,20.6668,-103.3918,
+170,2222,CSPV4,"Session ID:16845056",Mexico,Estado de Mexico,Toluca,19.2873,-99.645,
+171,2222,CSPV4,"Session ID:222909584",Peru,Lima,Lima,-12.05,-77.05,
+172,2222,CSPV4,"Session ID:16886016",Spain,Burgos,Burgos,42.3502,-3.6753,
+173,2222,CSPV4,"Session ID:16844544",Spain,Madrid,Madrid,40.4167,-3.6838,
+174,2222,CSPV4,"Session ID:33682707",Spain,,,40.4172,-3.684,
+175,2222,CSPV4,"Session ID:67328",Spain,,,40.4172,-3.684,
+176,2222,CSPV4,"Session ID:100735232",Italy,Provincia di Ancona,Genga,43.4389,12.9034,
+177,2222,CSPV4,"Session ID:61472648",China,Guangxi,Nanning,22.8167,108.3167,
+178,2222,CSPV4,"Session ID:66048",United States,Massachusetts,Lynn,42.4733,-70.9419,
+179,2222,CSPV4,"Session ID:16860416",United States,Minnesota,Forest Lake,45.2673,-93.0196,
+180,2222,CSPV4,"Session ID:15025408",Republic of Korea,Incheon,Incheon,37.4536,126.7317,
+181,2222,CSPV4,"Session ID:318963712",United States,Minnesota,Pine City,45.8427,-92.9077,
+182,2222,CSPV4,"Session ID:16850944",Republic of Korea,Chungcheongnam-do,,36.1338,127.4806,
+183,2222,CSPV4,"Session ID:14464608",Brazil,Minas Gerais,Belo Horizonte,-19.9016999999999,-43.9642,
+184,2222,CSPV4,"Session ID:71094000",Republic of Korea,Incheon,Incheon,37.4536,126.7317,
+185,2222,CSPV4,"Session ID:35376864",Australia,Victoria,Melbourne,-37.8396,144.9423,
+186,2222,CSPV4,"Session ID:33636864",United States,Florida,Lakeland,28.0395,-81.9498,
+187,2222,CSPV4,"Session ID:67175168",United States,Minnesota,Sauk Centre,45.7265,-94.9847,
+188,2222,CSPV4,"Session ID:115712",United States,Washington,Woodinville,47.757,-122.0928,
+189,2222,CSPV4,"Session ID:98048",United States,Washington,Vashon,47.4206,-122.4509,
+190,2222,CSPV4,"Session ID:30467656",United States,West Virginia,Stephenson,37.5598,-81.3304,
+191,2222,CSPV4,"Session ID:16877056",Taiwan,Taipei City,Taipei,25.0478,121.5318,
+192,2222,CSPV4,"Session ID:15408088",Taiwan,Taichung City,Taichung,24.1469,120.6839,
+193,2222,CSPV4,"Session ID:35167928",United States,Pennsylvania,State College,40.7849,-77.847,
+194,2222,CSPV4,"Session ID:117522432",United States,Minnesota,Buffalo,45.1845,-93.8397,
+195,2222,CSPV4,"Session ID:67180547",United States,Alaska,King Cove,55.085,-162.322,
+196,2222,CSPV4,"Session ID:98823",Canada,Alberta,Calgary,51.0833,-114.0833,
+197,2222,CSPV4,"Session ID:50445568",Hong Kong,,Central District,22.291,114.15,
+198,2222,CSPV4,"Session ID:33639424",United States,Oregon,Cascade Locks,45.6145,-121.8474,
+199,2222,CSPV4,"Session ID:70144",Republic of Korea,Busan,Busan,35.1028,129.0403,
+200,2222,CSPV4,"Session ID:66560",Canada,Ontario,Oakville,43.4881,-79.7098,
+201,2222,CSPV4,"Session ID:14511616",United States,Pennsylvania,Lancaster,40.0052,-76.3246,
+202,2222,CSPV4,"Session ID:1291845632",Canada,Ontario,Belleville,44.1667,-77.3833,
+203,2222,CSPV4,"Session ID:179634272",Canada,Quebec,Rimouski,48.416,-68.5979,
+204,2222,CSPV4,"Session ID:33645824",United States,South Dakota,Chamberlain,43.7887,-99.314,
+205,2222,CSPV4,"Session ID:167977064",Slovakia,Trnava,Vahovce,48.2492,17.7854,
+206,2222,CSPV4,"Session ID:-352190464",United States,Minnesota,Minneapolis,44.9014,-93.2882,
+207,2222,CSPV4,"Session ID:16842752",United States,California,San Francisco,37.7957,-122.4209,
+208,2222,CSPV4,"Session ID:66560",United States,Texas,Houston,29.9845,-95.525,
+209,2222,CSPV4,"Session ID:263398208",Mexico,Jalisco,Guadalajara,20.6668,-103.3918,
+210,2222,CSPV4,"Session ID:-396141748",Poland,Warmia-Masuria,Lipowo,53.378,20.2731,
+211,2222,CSPV4,"Session ID:16874497",China,Beijing,,39.9289,116.3883,
+212,2222,CSPV4,"Session ID:20163256",United States,Florida,Tampa,28.0898,-82.576,
+213,2222,CSPV4,"Session ID:36544896",Canada,British Columbia,Vancouver,49.2866,-123.1158,
+214,2222,CSPV4,"Session ID:14696456",Canada,Alberta,Edmonton,53.4914,-113.4802,
+215,2222,CSPV4,"Session ID:14472848",United States,Idaho,Preston,42.2074,-111.746,
+216,2222,CSPV4,"Session ID:88602880",Malaysia,Selangor,Petaling Jaya,3.1097,101.6171,
+217,2222,CSPV4,"Session ID:1691955461",France,Saône-et-Loire,Chalon-sur-Saône,46.7888,4.8488,
+218,2222,CSPV4,"Session ID:-1190199296",Canada,Saskatchewan,Regina,50.4855,-104.6163,
+219,2222,CSPV4,"Session ID:16843520",Australia,Victoria,Melbourne,-37.8103,144.9544,
+220,2222,CSPV4,"Session ID:768",Czechia,Chrudim District,Chrudim,49.9472,15.7875,
+221,2222,CSPV4,"Session ID:82944",United States,Idaho,Lewiston,46.1683,-116.9204,
+222,2222,CSPV4,"Session ID:67182848",United States,Minnesota,Sauk Centre,45.7265,-94.9847,
+223,2222,CSPV4,"Session ID:81627896",Italy,Provincia di Lodi,Casalpusterlengo,45.1792,9.6483,
+224,2222,CSPV4,"Session ID:92673",United States,Arizona,Teec Nos Pos,36.9211,-109.0857,
+225,2222,CSPV4,"Session ID:115968",United States,Washington,Woodinville,47.757,-122.0928,
+226,2222,CSPV4,"Session ID:16843008",United States,Wyoming,Lander,42.6501,-108.4242,
+227,2222,CSPV4,"Session ID:25557296",Spain,Toledo,Toledo,39.8673,-4.0298,
+228,2222,CSPV4,"Session ID:16879616",United States,Minnesota,Minneapolis,44.9014,-93.2882,
+229,2222,CSPV4,"Session ID:33620480",United States,Alaska,Valdez,61.4065,-145.667,
+230,2222,CSPV4,"Session ID:16843264",United States,Minnesota,Sandstone,46.1501,-92.4231,
+231,2222,CSPV4,"Session ID:84148224",United Kingdom,Lewisham,Lewisham,51.45,-0.0167,
+232,2222,CSPV4,"Session ID:66816",United States,New Jersey,Bloomfield,40.8086,-74.1869,
+233,2222,CSPV4,"Session ID:78788400",Romania,Judetul Bacau,Comanesti,46.4214,26.4365,
+234,2222,CSPV4,"Session ID:77824",United States,Oklahoma,Ringwood,36.3319,-98.2743,
+235,2222,CSPV4,"Session ID:14956472",Republic of Korea,Seoul,Seoul,37.5985,126.9783,
+236,2222,CSPV4,"Session ID:50455054",Hong Kong,,Central District,22.291,114.15,
+237,37777,Dahua Dvr,"Default passwd and  Serial Number:4H02A68PAZBCF",Switzerland,Aargau,Buchs,47.3878,8.0735,
+238,37777,Dahua Dvr,"No default passwd and Serial Number:PZC3BV0170014",Switzerland,Bern,Bern,46.9481,7.4474,
+239,37777,Dahua Dvr,"Default passwd and  Serial Number:",Switzerland,Saint Gallen,Wattwil,47.2996,9.0866,
+240,37777,Dahua Dvr,"No default passwd and Serial Number:",Switzerland,Bern,Wabern,46.9299,7.4508,
+241,37777,Dahua Dvr,"",Switzerland,,,47.1449,8.1551,
+242,37777,Dahua Dvr,"Default passwd and  Serial Number:",Austria,,,48.2,16.3667,
 243,37777,Dahua Dvr,"Default passwd and  Serial Number:Realm:Login to dfd4551a34214cd8793ffdce90087a31_x000D_
-R",Austria,,,48.2,16.3667
-244,37777,Dahua Dvr,"Default passwd and  Serial Number:2E002FFPAYB7D",Austria,,,48.2,16.3667
-245,37777,Dahua Dvr,"Default passwd and  Serial Number:PA2DA00201438",Afghanistan,,,33,65
-246,37777,Dahua Dvr,"Default passwd and  Serial Number:DG1MF04701084",Argentina,,,-34.6033,-58.3817
+R",Austria,,,48.2,16.3667,
+244,37777,Dahua Dvr,"Default passwd and  Serial Number:2E002FFPAYB7D",Austria,,,48.2,16.3667,
+245,37777,Dahua Dvr,"Default passwd and  Serial Number:PA2DA00201438",Afghanistan,,,33,65,
+246,37777,Dahua Dvr,"Default passwd and  Serial Number:DG1MF04701084",Argentina,,,-34.6033,-58.3817,
 247,37777,Dahua Dvr,"Default passwd and  Serial Number:Realm:Login to 3F05B0APAZHKSHZ_x000D_
-Random:625605629_x000D_",Angola,Luanda Province,Luanda,-8.8368,13.2332
-248,37777,Dahua Dvr,"Default passwd and  Serial Number:PA3AF02300563",Chile,Santiago Metropolitan,Santiago,-33.45,-70.6667
-249,37777,Dahua Dvr,"Default passwd and  Serial Number:2F048AAPAETP7",Chile,Region de la Araucania,Temuco,-38.7333,-72.6
-250,37777,Dahua Dvr,"Default passwd and  Serial Number:",Oman,Muscat,Muscat,23.6133,58.5933
-251,37777,Dahua Dvr,"Default passwd and  Serial Number:3D0336APAZY64",Pakistan,,,30,70
-252,37777,Dahua Dvr,"Default passwd and  Serial Number:3L02C4BPAP348",Palestine,Ramallah,Ramallah,31.9,35.2
-253,37777,Dahua Dvr,"Default passwd and  Serial Number:1L04FCEPALMPZ",Palestine,,Nablus,32.2211,35.2544
-254,37777,Dahua Dvr,"Default passwd and  Serial Number:PA2DF09001456",Brazil,Rio Grande do Norte,Natal,-5.7833,-35.2167
-255,37777,Dahua Dvr,"",Brazil,Minas Gerais,Contagem,-19.9167,-44.1
-256,37777,Dahua Dvr,"Default passwd and  Serial Number:",Brazil,Rio de Janeiro,Rio de Janeiro,-22.8751,-43.2775
-257,37777,Dahua Dvr,"Default passwd and  Serial Number:",Brazil,Amazonas,Manaus,-3.1133,-60.0253
-258,37777,Dahua Dvr,"Default passwd and  Serial Number:PA2HA01902383",Brazil,Sao Paulo,Maua,-23.6667,-46.45
-259,37777,Dahua Dvr,"Default passwd and  Serial Number:",Belarus,Minsk City,Minsk,53.9,27.5667
-260,37777,Dahua Dvr,"Default passwd and  Serial Number:2H00D7APAPG2Z",Belarus,,,53,28
-261,37777,Dahua Dvr,"Default passwd and  Serial Number:",Belarus,,,53,28
-262,37777,Dahua Dvr,"Default passwd and  Serial Number:PA1GF03500346",Benin,,,9.5,2.25
-263,37777,Dahua Dvr,"Default passwd and  Serial Number:TZA4JM436WLN3",Benin,,,9.5,2.25
-264,37777,Dahua Dvr,"Default passwd and  Serial Number:",Benin,,,9.5,2.25
-265,37777,Dahua Dvr,"Default passwd and  Serial Number:",Belgium,,,50.85,4.35
-266,37777,Dahua Dvr,"",Belgium,,,50.85,4.35
-267,37777,Dahua Dvr,"Default passwd and  Serial Number:PA3FF04900916",Belgium,,,50.85,4.35
-268,37777,Dahua Dvr,"Default passwd and  Serial Number:",Belgium,,,50.85,4.35
-269,37777,Dahua Dvr,"Default passwd and  Serial Number:TZA4FY087WNOD",Belgium,Antwerp Province,Zwijndrecht,51.2167,4.3333
-270,37777,Dahua Dvr,"Default passwd and  Serial Number:",Belgium,Liège Province,Liège,50.6412,5.5718
-271,37777,Dahua Dvr,"No default passwd and Serial Number:PZC4HA147W000",Iceland,,,65,-18
-272,37777,Dahua Dvr,"Default passwd and  Serial Number:",Iceland,Northeast,Akureyri,65.6835,-18.0878
-273,37777,Dahua Dvr,"Default passwd and  Serial Number:1A01C23PAF013",Bosnia and Herzegovina,,,44,18
-274,37777,Dahua Dvr,"Default passwd and  Serial Number:1C02D28PAP024",Bosnia and Herzegovina,Sarajevo Canton,Sarajevo,43.85,18.3833
-275,37777,Dahua Dvr,"Default passwd and  Serial Number:PA3GP08500178",Bosnia and Herzegovina,Sarajevo Canton,Sarajevo,43.85,18.3833
-276,37777,Dahua Dvr,"Default passwd and  Serial Number:PA3GP03900595",Bosnia and Herzegovina,,,44,18
-277,37777,Dahua Dvr,"Default passwd and  Serial Number:PA3MP001W0146",Bosnia and Herzegovina,,,44,18
-278,37777,Dahua Dvr,"Default passwd and  Serial Number:1C0040BPAF015",Bosnia and Herzegovina,,,44,18
-279,37777,Dahua Dvr,"Default passwd and  Serial Number:PA3MP019W0146",Bosnia and Herzegovina,,,44,18
-280,37777,Dahua Dvr,"Default passwd and  Serial Number:PA1MF11000786",Bosnia and Herzegovina,,,44,18
-281,37777,Dahua Dvr,"Default passwd and  Serial Number:2A00571PAPS59",Botswana,Gaborone,Gaborone,-24.6464,25.9119
-282,37777,Dahua Dvr,"Default passwd and  Serial Number:PA2MP01900856",Botswana,Gaborone,Gaborone,-24.6464,25.9119
-283,37777,Dahua Dvr,"Default passwd and  Serial Number:PA0CF02501211",Republic of the Congo,Pointe-Noire,Loandjili,-4.7561,11.8578
-284,37777,Dahua Dvr,"Default passwd and  Serial Number:PA0CF02500832",Republic of the Congo,Pointe-Noire,Loandjili,-4.7561,11.8578
-285,37777,Dahua Dvr,"Default passwd and  Serial Number:PA3DU04300692",Congo,,,,25
-286,37777,Dahua Dvr,"Default passwd and  Serial Number:PA1KA04801257",Congo,,,,25
-287,37777,Dahua Dvr,"Default passwd and  Serial Number:TZA4KE054WPJ2",Greenland,,,72,-40
-288,37777,Dahua Dvr,"Default passwd and  Serial Number:TZA4KE054WNMD",Greenland,,,72,-40
-289,37777,Dahua Dvr,"Default passwd and  Serial Number:",Yemen,,,15,48
-290,37777,Dahua Dvr,"Default passwd and  Serial Number:",Syria,,,35,38
-291,37777,Dahua Dvr,"Default passwd and  Serial Number:PZA4HL051WC74",Syria,,,35,38
-292,37777,Dahua Dvr,"Default passwd and  Serial Number:TZA4HM046WQ43",Somalia,,,10,49
-293,37777,Dahua Dvr,"Default passwd and  Serial Number:2A0362EPAYU39",Somalia,,,10,49
-294,37777,Dahua Dvr,"Default passwd and  Serial Number:",Myanmar,,,22,98
-295,37777,Dahua Dvr,"Default passwd and  Serial Number:PA3EF08900087",Libya,,,25,17
-296,37777,Dahua Dvr,"Default passwd and  Serial Number:PA3EF08900087",Libya,,,25,17
+Random:625605629_x000D_",Angola,Luanda Province,Luanda,-8.8368,13.2332,
+248,37777,Dahua Dvr,"Default passwd and  Serial Number:PA3AF02300563",Chile,Santiago Metropolitan,Santiago,-33.45,-70.6667,
+249,37777,Dahua Dvr,"Default passwd and  Serial Number:2F048AAPAETP7",Chile,Region de la Araucania,Temuco,-38.7333,-72.6,
+250,37777,Dahua Dvr,"Default passwd and  Serial Number:",Oman,Muscat,Muscat,23.6133,58.5933,
+251,37777,Dahua Dvr,"Default passwd and  Serial Number:3D0336APAZY64",Pakistan,,,30,70,
+252,37777,Dahua Dvr,"Default passwd and  Serial Number:3L02C4BPAP348",Palestine,Ramallah,Ramallah,31.9,35.2,
+253,37777,Dahua Dvr,"Default passwd and  Serial Number:1L04FCEPALMPZ",Palestine,,Nablus,32.2211,35.2544,
+254,37777,Dahua Dvr,"Default passwd and  Serial Number:PA2DF09001456",Brazil,Rio Grande do Norte,Natal,-5.7833,-35.2167,
+255,37777,Dahua Dvr,"",Brazil,Minas Gerais,Contagem,-19.9167,-44.1,
+256,37777,Dahua Dvr,"Default passwd and  Serial Number:",Brazil,Rio de Janeiro,Rio de Janeiro,-22.8751,-43.2775,
+257,37777,Dahua Dvr,"Default passwd and  Serial Number:",Brazil,Amazonas,Manaus,-3.1133,-60.0253,
+258,37777,Dahua Dvr,"Default passwd and  Serial Number:PA2HA01902383",Brazil,Sao Paulo,Maua,-23.6667,-46.45,
+259,37777,Dahua Dvr,"Default passwd and  Serial Number:",Belarus,Minsk City,Minsk,53.9,27.5667,
+260,37777,Dahua Dvr,"Default passwd and  Serial Number:2H00D7APAPG2Z",Belarus,,,53,28,
+261,37777,Dahua Dvr,"Default passwd and  Serial Number:",Belarus,,,53,28,
+262,37777,Dahua Dvr,"Default passwd and  Serial Number:PA1GF03500346",Benin,,,9.5,2.25,
+263,37777,Dahua Dvr,"Default passwd and  Serial Number:TZA4JM436WLN3",Benin,,,9.5,2.25,
+264,37777,Dahua Dvr,"Default passwd and  Serial Number:",Benin,,,9.5,2.25,
+265,37777,Dahua Dvr,"Default passwd and  Serial Number:",Belgium,,,50.85,4.35,
+266,37777,Dahua Dvr,"",Belgium,,,50.85,4.35,
+267,37777,Dahua Dvr,"Default passwd and  Serial Number:PA3FF04900916",Belgium,,,50.85,4.35,
+268,37777,Dahua Dvr,"Default passwd and  Serial Number:",Belgium,,,50.85,4.35,
+269,37777,Dahua Dvr,"Default passwd and  Serial Number:TZA4FY087WNOD",Belgium,Antwerp Province,Zwijndrecht,51.2167,4.3333,
+270,37777,Dahua Dvr,"Default passwd and  Serial Number:",Belgium,Liège Province,Liège,50.6412,5.5718,
+271,37777,Dahua Dvr,"No default passwd and Serial Number:PZC4HA147W000",Iceland,,,65,-18,
+272,37777,Dahua Dvr,"Default passwd and  Serial Number:",Iceland,Northeast,Akureyri,65.6835,-18.0878,
+273,37777,Dahua Dvr,"Default passwd and  Serial Number:1A01C23PAF013",Bosnia and Herzegovina,,,44,18,
+274,37777,Dahua Dvr,"Default passwd and  Serial Number:1C02D28PAP024",Bosnia and Herzegovina,Sarajevo Canton,Sarajevo,43.85,18.3833,
+275,37777,Dahua Dvr,"Default passwd and  Serial Number:PA3GP08500178",Bosnia and Herzegovina,Sarajevo Canton,Sarajevo,43.85,18.3833,
+276,37777,Dahua Dvr,"Default passwd and  Serial Number:PA3GP03900595",Bosnia and Herzegovina,,,44,18,
+277,37777,Dahua Dvr,"Default passwd and  Serial Number:PA3MP001W0146",Bosnia and Herzegovina,,,44,18,
+278,37777,Dahua Dvr,"Default passwd and  Serial Number:1C0040BPAF015",Bosnia and Herzegovina,,,44,18,
+279,37777,Dahua Dvr,"Default passwd and  Serial Number:PA3MP019W0146",Bosnia and Herzegovina,,,44,18,
+280,37777,Dahua Dvr,"Default passwd and  Serial Number:PA1MF11000786",Bosnia and Herzegovina,,,44,18,
+281,37777,Dahua Dvr,"Default passwd and  Serial Number:2A00571PAPS59",Botswana,Gaborone,Gaborone,-24.6464,25.9119,
+282,37777,Dahua Dvr,"Default passwd and  Serial Number:PA2MP01900856",Botswana,Gaborone,Gaborone,-24.6464,25.9119,
+283,37777,Dahua Dvr,"Default passwd and  Serial Number:PA0CF02501211",Republic of the Congo,Pointe-Noire,Loandjili,-4.7561,11.8578,
+284,37777,Dahua Dvr,"Default passwd and  Serial Number:PA0CF02500832",Republic of the Congo,Pointe-Noire,Loandjili,-4.7561,11.8578,
+285,37777,Dahua Dvr,"Default passwd and  Serial Number:PA3DU04300692",Congo,,,,25,
+286,37777,Dahua Dvr,"Default passwd and  Serial Number:PA1KA04801257",Congo,,,,25,
+287,37777,Dahua Dvr,"Default passwd and  Serial Number:TZA4KE054WPJ2",Greenland,,,72,-40,
+288,37777,Dahua Dvr,"Default passwd and  Serial Number:TZA4KE054WNMD",Greenland,,,72,-40,
+289,37777,Dahua Dvr,"Default passwd and  Serial Number:",Yemen,,,15,48,
+290,37777,Dahua Dvr,"Default passwd and  Serial Number:",Syria,,,35,38,
+291,37777,Dahua Dvr,"Default passwd and  Serial Number:PZA4HL051WC74",Syria,,,35,38,
+292,37777,Dahua Dvr,"Default passwd and  Serial Number:TZA4HM046WQ43",Somalia,,,10,49,
+293,37777,Dahua Dvr,"Default passwd and  Serial Number:2A0362EPAYU39",Somalia,,,10,49,
+294,37777,Dahua Dvr,"Default passwd and  Serial Number:",Myanmar,,,22,98,
+295,37777,Dahua Dvr,"Default passwd and  Serial Number:PA3EF08900087",Libya,,,25,17,
+296,37777,Dahua Dvr,"Default passwd and  Serial Number:PA3EF08900087",Libya,,,25,17,
 297,37777,Dahua Dvr,"Default passwd and  Serial Number:Realm:Login to 5A05A7DPAZ00002_x000D_
-Random:2869112138_x000D_",Germany,Schleswig-Holstein,Braak,53.6167,10.25
-298,37777,Dahua Dvr,"Default passwd and  Serial Number:",Germany,Bavaria,Bogen,48.9112,12.6896
-299,37777,Dahua Dvr,"Default passwd and  Serial Number:",Canada,Ontario,Ottawa,45.3438,-75.7157
-300,37777,Dahua Dvr,"Default passwd and  Serial Number:2D041ACPBM000",Kyrgyzstan,,,41,75
-301,37777,Dahua Dvr,"Default passwd and  Serial Number:",Japan,Kumamoto,Kumamoto,32.7897,130.7417
-302,37777,Dahua Dvr,"Default passwd and  Serial Number:",Republic of Korea,Seoul,Seoul,37.5111,126.9743
+Random:2869112138_x000D_",Germany,Schleswig-Holstein,Braak,53.6167,10.25,
+298,37777,Dahua Dvr,"Default passwd and  Serial Number:",Germany,Bavaria,Bogen,48.9112,12.6896,
+299,37777,Dahua Dvr,"Default passwd and  Serial Number:",Canada,Ontario,Ottawa,45.3438,-75.7157,
+300,37777,Dahua Dvr,"Default passwd and  Serial Number:2D041ACPBM000",Kyrgyzstan,,,41,75,
+301,37777,Dahua Dvr,"Default passwd and  Serial Number:",Japan,Kumamoto,Kumamoto,32.7897,130.7417,
+302,37777,Dahua Dvr,"Default passwd and  Serial Number:",Republic of Korea,Seoul,Seoul,37.5111,126.9743,
 303,37777,Dahua Dvr,"Default passwd and  Serial Number:Realm:Login to 9855ce358cfa33426bbb3741fa6c76f7_x000D_
-R",Republic of Korea,Seoul,Seoul,37.5985,126.9783
-304,37777,Dahua Dvr,"Default passwd and  Serial Number:",Finland,North Karelia,Liperi,62.5333,29.3667
-305,37777,Dahua Dvr,"Default passwd and  Serial Number:PA2AQ06700095",France,,,48.8582,2.3387
-306,37777,Dahua Dvr,"Default passwd and  Serial Number:PA4KF028W0004",France,Paris,Paris,48.8628,2.3292
-307,37777,Dahua Dvr,"",France,,,48.8582,2.3387
-308,37777,Dahua Dvr,"Default passwd and  Serial Number:1A01217PAYU2D",France,Bouches-du-Rhône,Senas,43.7438,5.078
-309,37777,Dahua Dvr,"Default passwd and  Serial Number:",France,,,48.8582,2.3387
-310,37777,Dahua Dvr,"Default passwd and  Serial Number:1D01B46PALR5M",Kuwait,Al Asimah,Kuwait City,29.3697,47.9783
-311,37777,Dahua Dvr,"Default passwd and  Serial Number:",Kuwait,Al Asimah,Kuwait City,29.3697,47.9783
-312,37777,Dahua Dvr,"Default passwd and  Serial Number:1M03F52PAPRG4",Kuwait,Al Asimah,Kuwait City,29.3697,47.9783
+R",Republic of Korea,Seoul,Seoul,37.5985,126.9783,
+304,37777,Dahua Dvr,"Default passwd and  Serial Number:",Finland,North Karelia,Liperi,62.5333,29.3667,
+305,37777,Dahua Dvr,"Default passwd and  Serial Number:PA2AQ06700095",France,,,48.8582,2.3387,
+306,37777,Dahua Dvr,"Default passwd and  Serial Number:PA4KF028W0004",France,Paris,Paris,48.8628,2.3292,
+307,37777,Dahua Dvr,"",France,,,48.8582,2.3387,
+308,37777,Dahua Dvr,"Default passwd and  Serial Number:1A01217PAYU2D",France,Bouches-du-Rhône,Senas,43.7438,5.078,
+309,37777,Dahua Dvr,"Default passwd and  Serial Number:",France,,,48.8582,2.3387,
+310,37777,Dahua Dvr,"Default passwd and  Serial Number:1D01B46PALR5M",Kuwait,Al Asimah,Kuwait City,29.3697,47.9783,
+311,37777,Dahua Dvr,"Default passwd and  Serial Number:",Kuwait,Al Asimah,Kuwait City,29.3697,47.9783,
+312,37777,Dahua Dvr,"Default passwd and  Serial Number:1M03F52PAPRG4",Kuwait,Al Asimah,Kuwait City,29.3697,47.9783,
 313,37777,Dahua Dvr,"Default passwd and  Serial Number:Realm:Login to 4L05150PAJBA3BD_x000D_
-Random:1184584523_x000D_",Kuwait,,,29.3375,47.6581
-314,37777,Dahua Dvr,"Default passwd and  Serial Number:1C029A2PALN34",Zimbabwe,,,-20,30
-315,37777,Dahua Dvr,"Default passwd and  Serial Number:PA2EQ14900252",Zimbabwe,Harare,Harare,-17.8178,31.0447
-316,37777,Dahua Dvr,"Default passwd and  Serial Number:PA3HF06600039",Zimbabwe,Harare,Harare,-17.8178,31.0447
-317,37777,Dahua Dvr,"Default passwd and  Serial Number:TZA4EM341W913",Qatar,,,25.5,51.25
-318,37777,Dahua Dvr,"Default passwd and  Serial Number:",Mexico,Tamaulipas,El Bienestar,26,-98.3333
-319,5002,DDP,"Register : Successful | Logout : Successful ",China,Sichuan,,30.6667,104.0667
-320,5002,DDP,"Register : Successful | Logout : Successful ",China,Sichuan,Chengdu,30.6667,104.0667
-321,5002,DDP,"Register : Successful | Logout : Successful ",China,Sichuan,Chengdu,30.6667,104.0667
-322,5002,DDP,"Register : Successful | Logout : Successful ",China,Sichuan,,30.6667,104.0667
-323,10001,DDP,"Invalid command or protocol package",China,Sichuan,Chengdu,30.6667,104.0667
-324,51960,DDP,"Invalid command or protocol package",China,Sichuan,Chengdu,30.6667,104.0667
-325,20000,DNP3,,Congo,,,,25
-326,20000,DNP3,,Germany,Land Berlin,Berlin,52.5167,13.4
-327,20000,DNP3,,Canada,,,43.6319,-79.3716
-328,20000,DNP3,,Japan,Chiba,Chiba,35.6047,140.1233
-329,20000,DNP3,,Japan,Aichi,Nagoya,35.1802,136.9067
-330,20000,DNP3,,Japan,Chiba,Chiba,35.6047,140.1233
-331,20000,DNP3,,Japan,,,35.69,139.69
-332,20000,DNP3,,Japan,,,35.69,139.69
-333,20000,DNP3,,Republic of Korea,,,37.5112,126.9741
-334,20000,DNP3,,France,Paris,Paris,48.8628,2.3292
-335,20000,DNP3,,Norway,Vestfold,Asgardstrand,59.3489,10.4675
-336,20000,DNP3,,Portugal,,,38.7139,-9.1394
-337,44818,EtherNet/IP,,Germany,,,51.2993,9.491
-338,44818,EtherNet/IP,,Canada,Ontario,,43.6667,-79.4167
-339,44818,EtherNet/IP,,Canada,British Columbia,Vancouver,49.262,-123.0923
-340,44818,EtherNet/IP,,Japan,Niigata,Niigata,37.8967,139.0019
-341,44818,EtherNet/IP,,Republic of Korea,Seoul,Seoul,37.5111,126.9743
-342,44818,EtherNet/IP,"",Finland,Satakunta,Pori,61.4708,21.811
-343,44818,EtherNet/IP,"",France,,,48.8582,2.3387
-344,18245,GE SRTP,,Germany,Land Berlin,Berlin,52.5155,13.4062
-345,18245,GE SRTP,,Canada,Ontario,Toronto,43.6966,-79.412
-346,18245,GE SRTP,,Canada,Ontario,Windsor,42.2949,-83.052
-347,18245,GE SRTP,,Canada,Saskatchewan,Swift Current,50.2834,-107.8013
-348,18245,GE SRTP,,Republic of Korea,Gyeongsangbuk-do,Pohang,36.0322,129.365
-349,18245,GE SRTP,,Republic of Korea,Gyeongsangbuk-do,Pohang,36.0322,129.365
-350,18245,GE SRTP,,France,,,48.8582,2.3387
-351,18245,GE SRTP,,Mexico,Chihuahua,Ciudad Juárez,31.7202,-106.4608
-352,18245,GE SRTP,,Israel,,,31.5,34.75
-353,18245,GE SRTP,,Italy,Provincia di Treviso,Treviso,45.6667,12.2416
-354,18245,GE SRTP,,United States,Pennsylvania,Havertown,39.9752,-75.3122
-355,18245,GE SRTP,,United States,Washington,Port Ludlow,47.8981,-122.6999
-356,18245,GE SRTP,,Taiwan,Kaohsiung,Kaohsiung City,22.6163,120.3133
-357,18245,GE SRTP,,United States,Missouri,Rolla,37.9265,-91.7791
-358,18245,GE SRTP,,United States,Missouri,Rolla,37.9265,-91.7791
-359,18245,GE SRTP,,Canada,Ontario,Toronto,43.6966,-79.412
-360,18245,GE SRTP,,United States,Washington,Pasco,46.4182,-118.9003
-361,18245,GE SRTP,,Republic of Korea,Jeju-do,Jeju City,33.4557999999999,126.5393
-362,18245,GE SRTP,,United States,Missouri,Kansas City,39.2108,-94.6304
-363,18245,GE SRTP,,United States,New Jersey,Teaneck,40.8889,-74.0119
-364,18245,GE SRTP,,Australia,South Australia,Adelaide,-34.9287,138.5986
-365,18245,GE SRTP,,Poland,Kujawsko-Pomorskie,Solec Kujawski,53.0751,18.2249
-366,18245,GE SRTP,,Republic of Korea,Jeju-do,Jeju City,33.4557999999999,126.5393
-367,18245,GE SRTP,,United States,Colorado,Crestone,37.9964,-105.6997
-368,18245,GE SRTP,,United States,California,Goleta,34.5021,-120.1287
-369,18245,GE SRTP,,Republic of Korea,Jeju-do,Jeju City,33.4557999999999,126.5393
-370,18245,GE SRTP,,Republic of Korea,Chungcheongnam-do,Gongju,36.4556,127.1247
-371,18245,GE SRTP,,United States,New York,Freeport,40.6489,-73.5825
-372,18245,GE SRTP,,Canada,Ontario,Toronto,43.6966,-79.412
-373,18245,GE SRTP,,Canada,Quebec,Montreal,45.504,-73.5747
-374,18245,GE SRTP,,Republic of Korea,Gyeongsangbuk-do,Pohang,36.0322,129.365
-375,18245,GE SRTP,,Switzerland,Vaud,Prangins,46.3952,6.2496
-376,18245,GE SRTP,,United Kingdom,Leicester,Leicester,52.6333,-1.1333
-377,18245,GE SRTP,,Switzerland,Vaud,Prangins,46.3952,6.2496
-378,18245,GE SRTP,,Republic of Korea,Jeju-do,Jeju City,33.4557999999999,126.5393
-379,18245,GE SRTP,,Canada,Saskatchewan,Swift Current,50.2834,-107.8013
-380,18245,GE SRTP,,United States,Colorado,Crestone,37.9964,-105.6997
-381,18245,GE SRTP,,United States,California,Goleta,34.5021,-120.1287
-382,18245,GE SRTP,,Taiwan,Taichung City,Taichung,24.1469,120.6839
-383,18245,GE SRTP,,Poland,Lower Silesia,Jezow Sudecki,50.9316,15.7432
-384,18245,GE SRTP,,United States,Washington,Seattle,47.5407,-122.2712
-385,18245,GE SRTP,,United States,Pennsylvania,Philadelphia,40.0393,-75.0667
-386,18245,GE SRTP,,United States,Arkansas,Charleston,35.3175,-94.0108
-387,18245,GE SRTP,,Republic of Korea,Jeju-do,Jeju City,33.4557999999999,126.5393
-388,18245,GE SRTP,,Republic of Korea,Chungcheongnam-do,Gongju,36.4556,127.1247
-389,18245,GE SRTP,,United Kingdom,Leicester,Leicester,52.6333,-1.1333
-390,18245,GE SRTP,,Canada,Saskatchewan,Swift Current,50.2834,-107.8013
-391,81,hikvision,,China,Jiangsu,Nanjing,32.0617,118.7778
-392,81,hikvision,,China,Shanghai,Shanghai,31.0456,121.3997
-393,81,hikvision,,China,Sichuan,Mianyang,31.4593,104.7542
-394,81,hikvision,,China,Jiangsu,Nanjing,32.0617,118.7778
-395,81,hikvision,,China,Henan,Luoyang,34.6836,112.4536
-396,81,hikvision,,China,Zhejiang,Jiaxing,30.7522,120.75
-397,81,hikvision,,China,Anhui,Hefei,31.8639,117.2808
-398,81,hikvision,,China,Hubei,Yidu,30.3925,111.45
-399,81,hikvision,,China,Guangdong,Zhongshan,21.3199,110.5723
-400,81,hikvision,,China,Guangdong,,23.1167,113.25
-401,81,hikvision,,China,Shandong,Zibo,36.7906,118.0633
-402,81,hikvision,,China,Shandong,Weihai,37.5091,122.1136
-403,81,hikvision,,China,Shandong,Jinan,36.6683,116.9972
-404,81,hikvision,,China,Guangdong,Zhongshan,21.3199,110.5723
-405,81,hikvision,,China,Anhui,Hefei,31.8639,117.2808
-406,81,hikvision,,China,Hubei,Ezhou,30.3961,114.8865
-407,81,hikvision,,China,Gansu,,36.0564,103.7922
-408,82,hikvision,,China,Shandong,Jinan,36.6683,116.9972
-409,89,hikvision,,China,Guangdong,Shenzhen,22.5333,114.1333
-410,90,hikvision,,China,Guangdong,Shenzhen,22.5333,114.1333
-411,8000,hikvision,,China,Guangdong,,23.1167,113.25
-412,8000,hikvision,,China,Chongqing,Chongqing,29.5628,106.5528
-413,8000,hikvision,,China,Shanghai,Xinchenglu,31.3886,121.2631
-414,8000,hikvision,,China,Heilongjiang,,45.75,126.65
-415,8000,hikvision,,China,Zhejiang,Wenzhou,27.9994,120.6668
-416,8000,hikvision,,China,Zhejiang,Wenzhou,27.9994,120.6668
-417,8000,hikvision,,China,Guangdong,Foshan,23.0268,113.1315
-418,81,hikvision,,China,Shandong,Yantai,37.5333,121.4
-419,8080,hikvision,,China,Guangdong,Zhongshan,21.3199,110.5723
-420,8080,hikvision,,China,Guangdong,Zhongshan,21.3199,110.5723
-421,2404,IEC 60870-5-104,,Benin,Littoral,Cotonou,6.3654,2.4183
-422,2404,IEC 60870-5-104,,Botswana,South-East,Tlokweng,-24.6686,25.9711
-423,2404,IEC 60870-5-104,,Burkina Faso,,,13,-2
-424,2404,IEC 60870-5-104,,Yemen,,,15,48
-425,2404,IEC 60870-5-104,,Somalia,,,10,49
-426,2404,IEC 60870-5-104,,Somalia,,,10,49
-427,2404,IEC 60870-5-104,,Germany,Bavaria,Mindelheim,48.043,10.4949
-428,2404,IEC 60870-5-104,,Japan,Miyazaki,Miyakonojo,31.7333,131.0667
-429,2404,IEC 60870-5-104,,Republic of Korea,,,37.5112,126.9741
-430,2404,IEC 60870-5-104,,Norway,Akershus,Baerums verk,59.9415,10.5027
-431,2404,IEC 60870-5-104,,Portugal,,,38.7139,-9.1394
-432,2404,IEC 60870-5-104,,Mexico,Mexico City,Mexico City,19.4342,-99.1386
-433,1628,ilon Smartserver,,Germany,Baden-Württemberg Region,Eppingen,49.1364,8.9123
-434,1629,ilon Smartserver,,Canada,Quebec,Montreal,45.504,-73.5747
-435,1628,ilon Smartserver,,Canada,Alberta,Spruce Grove,53.4184,-113.8097
-436,1628,ilon Smartserver,,Japan,,,35.69,139.69
-437,1628,ilon Smartserver,,Norway,,,59.95,10.75
-438,1629,ilon Smartserver,,Norway,,,59.95,10.75
-439,1628,ilon Smartserver,,United States,New York,Garden City,40.7276,-73.6344
-440,1628,ilon Smartserver,,United States,Arizona,San Carlos,33.4158,-110.1113
-441,1628,ilon Smartserver,,United States,New Jersey,Union,40.6945,-74.269
-442,1628,ilon Smartserver,,United States,California,Los Angeles,33.7866,-118.2987
-443,1628,ilon Smartserver,,Canada,Ontario,Kitchener,43.426,-80.5438
-444,1628,ilon Smartserver,,Canada,Ontario,Kitchener,43.426,-80.5438
-445,1628,ilon Smartserver,,United States,California,Los Angeles,33.7866,-118.2987
-446,1628,ilon Smartserver,,Spain,Malaga,Marbella,36.5154,-4.8858
-447,1628,ilon Smartserver,,Sweden,,,59.3247,18.056
-448,1628,ilon Smartserver,,Spain,Navarre,Mutilva Baja,42.7709,-1.5735
-449,1628,ilon Smartserver,,Canada,Ontario,Guelph,43.5184,-80.2257
-450,1628,ilon Smartserver,,Italy,Provincia di Sassari,Bonnanaro,40.5326,8.7639
-451,1628,ilon Smartserver,,United States,California,Los Angeles,33.7866,-118.2987
-452,1628,ilon Smartserver,,United States,California,Los Angeles,34.0764,-118.2626
-453,1628,ilon Smartserver,,Canada,British Columbia,Vancouver,49.2833,-123.1298
-454,1628,ilon Smartserver,,United States,California,Los Angeles,33.7866,-118.2987
-455,1628,ilon Smartserver,,Spain,Madrid,Madrid,40.4165,-3.7026
-456,1628,ilon Smartserver,,United States,Oklahoma,Tulsa,36.0617,-95.9442
-457,1628,ilon Smartserver,,United States,Rhode Island,Middletown,41.5171,-71.2789
-458,1628,ilon Smartserver,,United States,California,Los Angeles,34.0887,-118.3278
-459,1628,ilon Smartserver,,Canada,Ontario,Kitchener,43.426,-80.5438
-460,1628,ilon Smartserver,,Canada,Ontario,Kitchener,43.426,-80.5438
-461,1628,ilon Smartserver,,United States,Oregon,Lake Oswego,45.4093,-122.6799
-462,1628,ilon Smartserver,,Canada,Ontario,Kitchener,43.426,-80.5438
-463,1628,ilon Smartserver,,Canada,Ontario,Kitchener,43.426,-80.5438
-464,1628,ilon Smartserver,,Canada,Ontario,Kitchener,43.4182,-80.4451
-465,1628,ilon Smartserver,,United States,Utah,Logan,41.7048,-111.8709
-466,1628,ilon Smartserver,,United States,Texas,Houston,29.7702,-95.3628
-467,1628,ilon Smartserver,,Japan,Tokyo,Tokyo,35.6427,139.7677
-468,1628,ilon Smartserver,,United States,Arizona,San Carlos,33.4158,-110.1113
-469,1628,ilon Smartserver,,United States,California,Santa Monica,34.0119,-118.4682
-470,1628,ilon Smartserver,,United States,New Jersey,Garfield,40.8775,-74.1105
-471,1629,ilon Smartserver,,United States,,,37.751,-97.822
-472,1628,ilon Smartserver,,Denmark,North Denmark,Aalborg,56.9733,9.9233
-473,1628,ilon Smartserver,,Italy,Provincia di Udine,Udine,46.0664,13.2569
-474,1629,ilon Smartserver,,Denmark,Zealand,Glumso,55.3568,11.6856
-475,1628,ilon Smartserver,,Canada,British Columbia,Burnaby,49.274,-123.0074
-476,5006,MELSEC-Q,"CPUINFO:RCPU      ",Japan,Kanagawa,Yokohama,35.4757,139.5899
-477,5007,MELSEC-Q,"CPUINFO : CPU       ",Japan,Kanagawa,Yokohama,35.4757,139.5899
-478,5006,MELSEC-Q,"CPUINFO:RCPU      ",Japan,Kanagawa,Yokohama,35.4757,139.5899
-479,5007,MELSEC-Q,"CPUINFO : 03UDECPU  ",Italy,Provincia di Treviso,Vittorio Veneto,45.9803,12.3006
-480,5007,MELSEC-Q,"CPUINFO : 06UDEHCPU ",Taiwan,Taipei City,Taipei,25.0478,121.5318
-481,5007,MELSEC-Q,"CPUINFO : 04UDEHCPU ",Japan,Kanagawa,Kawasaki,35.6181,139.4638
-482,5007,MELSEC-Q,"CPUINFO : 04UDEHCPU ",Japan,Kagoshima,Sendai,31.6014,130.6122
-483,5007,MELSEC-Q,"CPUINFO : 02CPU     ",Canada,Ontario,Deep River,45.6606,-77.5886
-484,5007,MELSEC-Q,"CPUINFO : 03UDECPU  ",Japan,Chiba,Narashino,35.6838,140.0471
-485,5007,MELSEC-Q,"CPUINFO : 12DCCPU-V ",Japan,Kanagawa,Sakurakabu,35.45,139.4667
-486,5007,MELSEC-Q,"CPUINFO : 02CPU     ",Canada,Ontario,Deep River,45.6606,-77.5886
-487,5006,MELSEC-Q,"CPUINFO:Q12DCCPU-V",Japan,Tokyo,Machida,35.5418,139.4509
-488,5007,MELSEC-Q,"CPUINFO : 03UDECPU  ",Italy,Provincia di Treviso,Vittorio Veneto,45.9803,12.3006
-489,5007,MELSEC-Q,"CPUINFO : 03UDECPU  ",Taiwan,Taoyuan,Shenzhen,24.9569,121.0122
-490,5006,MELSEC-Q,"CPUINFO:Q03UDECPU ",Taiwan,Taoyuan,Shenzhen,24.9569,121.0122
-491,502,Modbus,,Switzerland,,,47.1449,8.1551
-492,502,Modbus,,,,,,
-493,502,Modbus,,Switzerland,Zurich,Horgen,47.2573,8.6042
-494,502,Modbus,,Austria,Salzburg,Salzburg,47.7994,13.044
-495,502,Modbus,,Austria,Vienna,Vienna,48.2,16.3667
-496,502,Modbus,,,,,,
-497,502,Modbus,,Argentina,Buenos Aires F.D.,Buenos Aires,-34.6033,-58.3816
-498,502,Modbus,,Chile,,,-33.4378,-70.6503
-499,502,Modbus,,Oman,,,21,57
-500,502,Modbus,,Pakistan,,,30,70
-501,502,Modbus,,Palestine,,,32,35.25
-502,502,Modbus,,Palestine,,,32,35.25
-503,502,Modbus,,Brazil,Sao Paulo,Santana de Parnaiba,-23.4455,-46.9145
-504,502,Modbus,,Belarus,Gomel,Svyetlahorsk,52.6329,29.7389
-505,502,Modbus,,Belarus,Minsk City,Minsk,53.9,27.5667
-506,502,Modbus,,Belarus,,,53,28
-507,502,Modbus,,Belarus,,,53,28
-508,503,Modbus,,Iceland,Capital Region,Reykjavik,64.1421,-21.8528
-509,502,Modbus,,Iceland,East,Hofn,64.2539,-15.2121
-510,502,Modbus,,Iceland,,,65,-18
-511,502,Modbus,,Iceland,Capital Region,Kopavogur,64.1107,-21.9391
-512,502,Modbus,,Iceland,South,Selfoss,63.9331,-20.9971
-513,502,Modbus,,Bosnia and Herzegovina,,,44,18
-514,503,Modbus,,Eritrea,Maekel Region,Asmara,15.3333,38.9333
-515,502,Modbus,,Cuba,Provincia de Camagueey,La Habana,21.3614,-78.3361
-516,503,Modbus,,Cuba,Provincia de Camagueey,La Habana,21.3614,-78.3361
-517,503,Modbus,,Liberia,Montserrado County,Monrovia,6.3106,-10.8047
-518,502,Modbus,,Sierra Leone,Western Area,Freetown,8.49,-13.2342
-519,502,Modbus,,Syria,,,35,38
-520,502,Modbus,,Syria,,,35,38
-521,502,Modbus,,Germany,Bavaria,Ingolstadt,48.776,11.4459
-522,502,Modbus,,Germany,,,51.2993,9.491
-523,502,Modbus,,,,,,
-524,502,Modbus,,Germany,,,51.2993,9.491
-525,502,Modbus,,Germany,,,51.2993,9.491
-526,502,Modbus,,Canada,Quebec,Montreal,45.3168,-73.8659
-527,502,Modbus,,Kyrgyzstan,,,41,75
-528,502,Modbus,,Japan,Saitama,Saitama,35.8569,139.6489
-529,503,Modbus,,Japan,Miyagi,Sendai,38.2689,140.8719
-530,502,Modbus,,Japan,,,35.69,139.69
-531,502,Modbus,,Republic of Korea,Gyeonggi-do,Seongnam-si,37.4386,127.1378
-532,502,Modbus,,Finland,Ostrobothnia,Jakobstad,63.6833,22.6667
-533,502,Modbus,,Finland,,,60.1708,24.9375
-534,502,Modbus,,Finland,Lapponia,Tampere,61.6305,23.8813
-535,503,Modbus,,Finland,Southwest Finland,Turku,60.45,22.2833
-536,502,Modbus,,France,,,48.8582,2.3387
-537,502,Modbus,,France,,,48.8582,2.3387
-538,502,Modbus,,France,,,48.8582,2.3387
-539,4800,Moxa Nport,,Germany,,,51.2993,9.491
-540,4800,Moxa Nport,,Germany,,,51.2993,9.491
-541,4800,Moxa Nport,,Germany,Baden-Württemberg Region,Heidelberg,49.4169,8.6764
-542,4800,Moxa Nport,,Japan,Yamaguchi,Yamaguchi,34.1858,131.4714
-543,4800,Moxa Nport,,Japan,Kanagawa,Yokohama,35.4478,139.6425
-544,4800,Moxa Nport,,Japan,Nagasaki,Sasebo,33.1592,129.7228
-545,4800,Moxa Nport,,Japan,Hyōgo,Kobe,34.759,135.2339
-546,4800,Moxa Nport,,Japan,Hyōgo,Kobe,34.759,135.2339
-547,4800,Moxa Nport,,Republic of Korea,Gyeongsangbuk-do,Pohang,36.0322,129.365
-548,4800,Moxa Nport,,Finland,Southwest Finland,Salo,60.3833,23.1333
-549,4800,Moxa Nport,,Finland,,,60.1708,24.9375
-550,4800,Moxa Nport,,Finland,Uusimaa,Helsinki,60.1756,24.9342
-551,4800,Moxa Nport,,France,Rhône,Villefranche-sur-Saône,45.9872,4.7283
-552,4800,Moxa Nport,,France,,,48.8582,2.3387
-553,4800,Moxa Nport,,Kuwait,,,29.3375,47.6581
-554,4800,Moxa Nport,,Norway,,,59.95,10.75
-555,4800,Moxa Nport,,Norway,,,59.95,10.75
-556,4800,Moxa Nport,,Norway,,,59.95,10.75
-557,4800,Moxa Nport,,Portugal,,,38.7139,-9.1394
-558,4800,Moxa Nport,,Portugal,Lisbon,Lisbon,38.7167,-9.1333
-559,1883,MQTT,,Republic of Korea,Seoul,Seoul,37.5111,126.9743
-560,1883,MQTT,,France,,,48.8582,2.3387
-561,9600,OMRON FINS,,Canada,,,43.6319,-79.3716
-562,9600,OMRON FINS,,Japan,Tokyo,Tokyo,35.6226,139.6963
-563,9600,OMRON FINS,,France,,,48.8582,2.3387
-564,9600,OMRON FINS,,Portugal,Leiria,Caldas da Rainha,39.4666,-9.136
-565,3702,ONVIF,,United States,,,37.751,-97.822
-566,3702,ONVIF,,Latvia,Riga,Riga,56.95,24.1
-567,3702,ONVIF,,Cambodia,Phnom Penh,Phnom Penh,11.5625,104.916
-568,3702,ONVIF,,United States,California,San Jose,37.3387,-121.8914
-569,3702,ONVIF,,Greece,,,37.9667,23.7167
-570,3702,ONVIF,,Latvia,Riga,Riga,56.95,24.1
-571,3702,ONVIF,,Cambodia,Phnom Penh,Phnom Penh,11.5625,104.916
-572,3702,ONVIF,,Greece,,,37.9667,23.7167
-573,3702,ONVIF,,Latvia,Riga,Riga,56.95,24.1
-574,3702,ONVIF,,Greece,,,37.9667,23.7167
-575,3702,ONVIF,,Cambodia,Phnom Penh,Phnom Penh,11.5625,104.916
-576,3702,ONVIF,,United States,,,37.751,-97.822
-577,3702,ONVIF,,Latvia,Riga,Riga,56.95,24.1
-578,3702,ONVIF,,Greece,,,37.9667,23.7167
-579,3702,ONVIF,,United States,,,37.751,-97.822
-580,3702,ONVIF,,Cambodia,Phnom Penh,Phnom Penh,11.5625,104.916
-581,3702,ONVIF,,Latvia,Riga,Riga,56.95,24.1
-582,3702,ONVIF,,Greece,,,37.9667,23.7167
-583,3702,ONVIF,,Cambodia,Phnom Penh,Phnom Penh,11.5625,104.916
-584,3702,ONVIF,,United States,,,37.751,-97.822
-585,3702,ONVIF,,Latvia,Riga,Riga,56.95,24.1
-586,3702,ONVIF,,Greece,,,37.9667,23.7167
-587,3702,ONVIF,,United States,,,37.751,-97.822
-588,3702,ONVIF,,United States,California,San Jose,37.3387,-121.8914
-589,3702,ONVIF,,Latvia,Riga,Riga,56.95,24.1
-590,3702,ONVIF,,Greece,,,37.9667,23.7167
-591,4840,opc-ua,,Germany,Bavaria,Garching bei Munchen,48.25,11.65
-592,4840,opc-ua,,Finland,Northern Ostrobothnia,Oulu,65.1198,25.3102
-593,4840,opc-ua,,Italy,Provincia di Pavia,Mezzana Bigli,45.0599,8.8473
-594,4840,opc-ua,,Netherlands,North Holland,Amsterdam,52.35,4.9167
-595,4840,opc-ua,,France,Vaucluse,"L'Isle-sur-la-Sorgue",43.8932,5.1135
-596,4840,opc-ua,,Turkey,Bursa,Bursa,40.2719,29.0983
-597,4840,opc-ua,,United States,Iowa,Des Moines,41.6005,-93.6091
-598,4840,opc-ua,,Finland,Northern Ostrobothnia,Oulu,65.1198,25.3102
-599,4840,opc-ua,,Austria,Vorarlberg,Dornbirn,47.4143,9.742
-600,4840,opc-ua,,Germany,North Rhine-Westphalia,Aachen,50.776,6.0872
-601,4840,opc-ua,,Italy,Provincia di Brescia,Brescia,45.5356,10.2147
-602,4840,opc-ua,,Germany,Bavaria,Garching bei Munchen,48.25,11.65
-603,4840,opc-ua,,Austria,Salzburg,Salzburg,47.7994,13.044
-604,4840,opc-ua,,Austria,Tyrol,Landeck,47.1399,10.5659
-605,4840,opc-ua,,France,,,48.8582,2.3387
-606,4840,opc-ua,,Netherlands,North Holland,Amsterdam,52.35,4.9167
-607,4840,opc-ua,,United States,Texas,Dallas,32.7787,-96.8217
-608,4840,opc-ua,,Germany,Lower Saxony,Wendeburg,52.3296,10.3926
-609,4840,opc-ua,,Austria,,,48.2,16.3667
-610,4840,opc-ua,,United States,Georgia,Decatur,33.7332,-84.2021
-611,4840,opc-ua,,Switzerland,Basel-Landschaft,Aesch,47.471,7.5973
-612,4840,opc-ua,,Switzerland,,,47.1449,8.1551
-613,4840,opc-ua,,Germany,North Rhine-Westphalia,Bochum,51.49,7.2493
-614,4840,opc-ua,,United States,Colorado,Fort Collins,40.524,-105.1396
-615,4840,opc-ua,,Austria,Salzburg,Puch bei Hallein,47.7154,13.093
-616,4840,opc-ua,,France,Vaucluse,"L'Isle-sur-la-Sorgue",43.8932,5.1135
-617,4840,opc-ua,,Switzerland,Basel-Landschaft,Aesch,47.471,7.5973
-618,4840,opc-ua,,United States,Georgia,Atlanta,33.749,-84.388
-619,4840,opc-ua,,Netherlands,North Holland,Amsterdam,52.35,4.9167
-620,4840,opc-ua,,United States,Texas,West,31.7828,-97.1016
-621,1962,PCWorx,,Germany,,,51.2993,9.491
-622,1962,PCWorx,,Canada,Quebec,Montreal,45.498,-73.5472
-623,1962,PCWorx,,Canada,Ontario,North York,43.7797,-79.4156
-624,1962,PCWorx,,Spain,,,40.4172,-3.684
-625,1962,PCWorx,,Spain,Cordoba,Cordova,37.8916,-4.7727
-626,1962,PCWorx,,Spain,,,40.4172,-3.684
-627,1962,PCWorx,,Spain,Navarre,Castejon,42.1691,-1.6895
-628,1962,PCWorx,,Spain,,,40.4172,-3.684
-629,1962,PCWorx,,Italy,Provincia di Asti,Nizza Monferrato,44.7742,8.3578
-630,1962,PCWorx,,Hungary,Heves megye,Gyongyos,47.7833,19.9333
-631,1962,PCWorx,,Italy,Provincia di Rovigo,Porto Viro,45.0222,12.2108
-632,1962,PCWorx,,Canada,Ontario,Kitchener,43.4646,-80.4467
-633,1962,PCWorx,,Spain,,,40.4172,-3.684
-634,1962,PCWorx,,Sweden,Västra Götaland,Gothenburg,57.7167,11.9667
-635,1962,PCWorx,,Italy,Provincia di Vicenza,Marostica,45.7454,11.6624
-636,1962,PCWorx,,Belgium,,,50.85,4.35
-637,1962,PCWorx,,Poland,West Pomerania,Szczecin,53.43,14.5201999999999
-638,1962,PCWorx,,Belgium,Flemish Brabant Province,Berg,50.9333,4.5333
-639,1962,PCWorx,,Netherlands,,,52.3824,4.8995
-640,1962,PCWorx,,Italy,Provincia di Ravenna,Cervia,44.262,12.3481
-641,1962,PCWorx,,Italy,Province of Palermo,Palermo,38.1321,13.3356
-642,1962,PCWorx,,Spain,,,40.4172,-3.684
-643,1962,PCWorx,,Spain,,,40.4172,-3.684
-644,1962,PCWorx,,Sweden,,,59.3247,18.056
-645,1962,PCWorx,,Italy,Provincia di Ravenna,Cervia,44.262,12.3481
-646,1962,PCWorx,,Belgium,West Flanders Province,Tielt,51,3.3167
-647,1962,PCWorx,,Belgium,,,50.85,4.35
-648,1962,PCWorx,,Italy,Province of Arezzo,Arezzo,43.4628,11.8807
-649,1962,PCWorx,,Canada,,,43.6319,-79.3716
-650,1962,PCWorx,,Italy,Provincia di Potenza,Picerno,40.6397,15.6423
-651,1962,PCWorx,,United States,,,37.751,-97.822
-652,1962,PCWorx,,Switzerland,Vaud,Gland,46.4184,6.2696
-653,1962,PCWorx,,Spain,Alicante,Altea,38.6526,0.0206
-654,1962,PCWorx,,United States,Maryland,College Park,38.9807,-76.9369
-655,1962,PCWorx,,United States,New York,Staten Island,40.5453,-74.1786
-656,1962,PCWorx,,Poland,,,52.2394,21.0362
-657,1962,PCWorx,,Germany,Bavaria,Aschaffenburg,49.9751,9.1314
-658,1962,PCWorx,,Germany,North Rhine-Westphalia,Kreuzau,50.747,6.4907
-659,1962,PCWorx,,Switzerland,,,47.1449,8.1551
-660,1962,PCWorx,,Italy,Province of Pisa,Capannoli,43.5886,10.6733
-661,1962,PCWorx,,,,,47,8
-662,1962,PCWorx,,Poland,,,52.2394,21.0362
-663,1962,PCWorx,,Poland,,,52.2394,21.0362
-664,1962,PCWorx,,,,,47,8
-665,1962,PCWorx,,Ukraine,Zaporizhia,Zaporizhia,47.85,35.2833
-666,1962,PCWorx,,Turkey,Istanbul,Istanbul,41.0214,28.9684
-667,1962,PCWorx,,Spain,Barcelona,Sant Cugat del Vallès,41.4667,2.0833
-668,1962,PCWorx,,Turkey,,,41.0214,28.9948
-669,1962,PCWorx,,Ukraine,Zaporizhia,Zaporizhia,47.85,35.2833
-670,1962,PCWorx,,Turkey,,,41.0214,28.9948
-671,1962,PCWorx,,Spain,Segovia,Segovia,40.9481,-4.1184
-672,1962,PCWorx,,Poland,West Pomerania,Szczecin,53.43,14.5201999999999
-673,1962,PCWorx,,Sweden,Västra Götaland,Goetene,58.5282,13.4946
-674,1962,PCWorx,,United Kingdom,,,51.4964,-0.1224
-675,1962,PCWorx,,Turkey,Istanbul,Istanbul,41.0214,28.9684
-676,1962,PCWorx,,Italy,Provincia di Perugia,Gubbio,43.35,12.5731
-677,1962,PCWorx,,United States,,,37.751,-97.822
-678,1962,PCWorx,,Spain,Alicante,Orihuela,38.0848,-0.944
-679,1962,PCWorx,,Italy,Provincia di Ravenna,Ravenna,44.4175,12.2011
-680,1962,PCWorx,,Germany,Lower Saxony,Bergen an der Dumme,52.8897,10.9418
-681,1962,PCWorx,,United States,Maryland,College Park,38.9807,-76.9369
-682,1962,PCWorx,,Spain,Barcelona,Barcelona,41.3984,2.1741
-683,1962,PCWorx,,Poland,,,52.2394,21.0362
-684,1962,PCWorx,,Germany,Baden-Württemberg Region,Heidelberg,49.4062,8.6868
-685,1962,PCWorx,,Poland,West Pomerania,Reptowo,53.3667,14.8639
-686,1962,PCWorx,,Spain,,,40.4172,-3.684
-687,1962,PCWorx,,Sweden,Skåne,Tyringe,56.1667,13.5833
-688,1962,PCWorx,,Belgium,East Flanders Province,Deinze,50.9833,3.5333
-689,1962,PCWorx,,Spain,Salamanca,Salamanca,40.9688,-5.6639
-690,1962,PCWorx,,Italy,,,43.1479,12.1097
-691,20547,ProConOs,,Germany,,,51.2993,9.491
-692,20547,ProConOs,,Japan,Tokyo,Tokyo,35.6427,139.7677
-693,20547,ProConOs,,Japan,,,35.69,139.69
-694,20547,ProConOs,,France,,,48.8582,2.3387
-695,20547,ProConOs,,Mexico,Chihuahua,Cuauhtemoc,28.4167,-106.8667
-696,20547,ProConOs,,Mexico,Chihuahua,Cuauhtemoc,28.4167,-106.8667
-697,20547,ProConOs,,Mexico,Chihuahua,Cuauhtemoc,28.4167,-106.8667
+Random:1184584523_x000D_",Kuwait,,,29.3375,47.6581,
+314,37777,Dahua Dvr,"Default passwd and  Serial Number:1C029A2PALN34",Zimbabwe,,,-20,30,
+315,37777,Dahua Dvr,"Default passwd and  Serial Number:PA2EQ14900252",Zimbabwe,Harare,Harare,-17.8178,31.0447,
+316,37777,Dahua Dvr,"Default passwd and  Serial Number:PA3HF06600039",Zimbabwe,Harare,Harare,-17.8178,31.0447,
+317,37777,Dahua Dvr,"Default passwd and  Serial Number:TZA4EM341W913",Qatar,,,25.5,51.25,
+318,37777,Dahua Dvr,"Default passwd and  Serial Number:",Mexico,Tamaulipas,El Bienestar,26,-98.3333,
+319,5002,DDP,"Register : Successful | Logout : Successful ",China,Sichuan,,30.6667,104.0667,
+320,5002,DDP,"Register : Successful | Logout : Successful ",China,Sichuan,Chengdu,30.6667,104.0667,
+321,5002,DDP,"Register : Successful | Logout : Successful ",China,Sichuan,Chengdu,30.6667,104.0667,
+322,5002,DDP,"Register : Successful | Logout : Successful ",China,Sichuan,,30.6667,104.0667,
+323,10001,DDP,"Invalid command or protocol package",China,Sichuan,Chengdu,30.6667,104.0667,
+324,51960,DDP,"Invalid command or protocol package",China,Sichuan,Chengdu,30.6667,104.0667,
+325,20000,DNP3,,Congo,,,,25,
+326,20000,DNP3,,Germany,Land Berlin,Berlin,52.5167,13.4,
+327,20000,DNP3,,Canada,,,43.6319,-79.3716,
+328,20000,DNP3,,Japan,Chiba,Chiba,35.6047,140.1233,
+329,20000,DNP3,,Japan,Aichi,Nagoya,35.1802,136.9067,
+330,20000,DNP3,,Japan,Chiba,Chiba,35.6047,140.1233,
+331,20000,DNP3,,Japan,,,35.69,139.69,
+332,20000,DNP3,,Japan,,,35.69,139.69,
+333,20000,DNP3,,Republic of Korea,,,37.5112,126.9741,
+334,20000,DNP3,,France,Paris,Paris,48.8628,2.3292,
+335,20000,DNP3,,Norway,Vestfold,Asgardstrand,59.3489,10.4675,
+336,20000,DNP3,,Portugal,,,38.7139,-9.1394,
+337,44818,EtherNet/IP,,Germany,,,51.2993,9.491,
+338,44818,EtherNet/IP,,Canada,Ontario,,43.6667,-79.4167,
+339,44818,EtherNet/IP,,Canada,British Columbia,Vancouver,49.262,-123.0923,
+340,44818,EtherNet/IP,,Japan,Niigata,Niigata,37.8967,139.0019,
+341,44818,EtherNet/IP,,Republic of Korea,Seoul,Seoul,37.5111,126.9743,
+342,44818,EtherNet/IP,"",Finland,Satakunta,Pori,61.4708,21.811,
+343,44818,EtherNet/IP,"",France,,,48.8582,2.3387,
+344,18245,GE SRTP,,Germany,Land Berlin,Berlin,52.5155,13.4062,
+345,18245,GE SRTP,,Canada,Ontario,Toronto,43.6966,-79.412,
+346,18245,GE SRTP,,Canada,Ontario,Windsor,42.2949,-83.052,
+347,18245,GE SRTP,,Canada,Saskatchewan,Swift Current,50.2834,-107.8013,
+348,18245,GE SRTP,,Republic of Korea,Gyeongsangbuk-do,Pohang,36.0322,129.365,
+349,18245,GE SRTP,,Republic of Korea,Gyeongsangbuk-do,Pohang,36.0322,129.365,
+350,18245,GE SRTP,,France,,,48.8582,2.3387,
+351,18245,GE SRTP,,Mexico,Chihuahua,Ciudad Juárez,31.7202,-106.4608,
+352,18245,GE SRTP,,Israel,,,31.5,34.75,
+353,18245,GE SRTP,,Italy,Provincia di Treviso,Treviso,45.6667,12.2416,
+354,18245,GE SRTP,,United States,Pennsylvania,Havertown,39.9752,-75.3122,
+355,18245,GE SRTP,,United States,Washington,Port Ludlow,47.8981,-122.6999,
+356,18245,GE SRTP,,Taiwan,Kaohsiung,Kaohsiung City,22.6163,120.3133,
+357,18245,GE SRTP,,United States,Missouri,Rolla,37.9265,-91.7791,
+358,18245,GE SRTP,,United States,Missouri,Rolla,37.9265,-91.7791,
+359,18245,GE SRTP,,Canada,Ontario,Toronto,43.6966,-79.412,
+360,18245,GE SRTP,,United States,Washington,Pasco,46.4182,-118.9003,
+361,18245,GE SRTP,,Republic of Korea,Jeju-do,Jeju City,33.4557999999999,126.5393,
+362,18245,GE SRTP,,United States,Missouri,Kansas City,39.2108,-94.6304,
+363,18245,GE SRTP,,United States,New Jersey,Teaneck,40.8889,-74.0119,
+364,18245,GE SRTP,,Australia,South Australia,Adelaide,-34.9287,138.5986,
+365,18245,GE SRTP,,Poland,Kujawsko-Pomorskie,Solec Kujawski,53.0751,18.2249,
+366,18245,GE SRTP,,Republic of Korea,Jeju-do,Jeju City,33.4557999999999,126.5393,
+367,18245,GE SRTP,,United States,Colorado,Crestone,37.9964,-105.6997,
+368,18245,GE SRTP,,United States,California,Goleta,34.5021,-120.1287,
+369,18245,GE SRTP,,Republic of Korea,Jeju-do,Jeju City,33.4557999999999,126.5393,
+370,18245,GE SRTP,,Republic of Korea,Chungcheongnam-do,Gongju,36.4556,127.1247,
+371,18245,GE SRTP,,United States,New York,Freeport,40.6489,-73.5825,
+372,18245,GE SRTP,,Canada,Ontario,Toronto,43.6966,-79.412,
+373,18245,GE SRTP,,Canada,Quebec,Montreal,45.504,-73.5747,
+374,18245,GE SRTP,,Republic of Korea,Gyeongsangbuk-do,Pohang,36.0322,129.365,
+375,18245,GE SRTP,,Switzerland,Vaud,Prangins,46.3952,6.2496,
+376,18245,GE SRTP,,United Kingdom,Leicester,Leicester,52.6333,-1.1333,
+377,18245,GE SRTP,,Switzerland,Vaud,Prangins,46.3952,6.2496,
+378,18245,GE SRTP,,Republic of Korea,Jeju-do,Jeju City,33.4557999999999,126.5393,
+379,18245,GE SRTP,,Canada,Saskatchewan,Swift Current,50.2834,-107.8013,
+380,18245,GE SRTP,,United States,Colorado,Crestone,37.9964,-105.6997,
+381,18245,GE SRTP,,United States,California,Goleta,34.5021,-120.1287,
+382,18245,GE SRTP,,Taiwan,Taichung City,Taichung,24.1469,120.6839,
+383,18245,GE SRTP,,Poland,Lower Silesia,Jezow Sudecki,50.9316,15.7432,
+384,18245,GE SRTP,,United States,Washington,Seattle,47.5407,-122.2712,
+385,18245,GE SRTP,,United States,Pennsylvania,Philadelphia,40.0393,-75.0667,
+386,18245,GE SRTP,,United States,Arkansas,Charleston,35.3175,-94.0108,
+387,18245,GE SRTP,,Republic of Korea,Jeju-do,Jeju City,33.4557999999999,126.5393,
+388,18245,GE SRTP,,Republic of Korea,Chungcheongnam-do,Gongju,36.4556,127.1247,
+389,18245,GE SRTP,,United Kingdom,Leicester,Leicester,52.6333,-1.1333,
+390,18245,GE SRTP,,Canada,Saskatchewan,Swift Current,50.2834,-107.8013,
+391,81,hikvision,,China,Jiangsu,Nanjing,32.0617,118.7778,
+392,81,hikvision,,China,Shanghai,Shanghai,31.0456,121.3997,
+393,81,hikvision,,China,Sichuan,Mianyang,31.4593,104.7542,
+394,81,hikvision,,China,Jiangsu,Nanjing,32.0617,118.7778,
+395,81,hikvision,,China,Henan,Luoyang,34.6836,112.4536,
+396,81,hikvision,,China,Zhejiang,Jiaxing,30.7522,120.75,
+397,81,hikvision,,China,Anhui,Hefei,31.8639,117.2808,
+398,81,hikvision,,China,Hubei,Yidu,30.3925,111.45,
+399,81,hikvision,,China,Guangdong,Zhongshan,21.3199,110.5723,
+400,81,hikvision,,China,Guangdong,,23.1167,113.25,
+401,81,hikvision,,China,Shandong,Zibo,36.7906,118.0633,
+402,81,hikvision,,China,Shandong,Weihai,37.5091,122.1136,
+403,81,hikvision,,China,Shandong,Jinan,36.6683,116.9972,
+404,81,hikvision,,China,Guangdong,Zhongshan,21.3199,110.5723,
+405,81,hikvision,,China,Anhui,Hefei,31.8639,117.2808,
+406,81,hikvision,,China,Hubei,Ezhou,30.3961,114.8865,
+407,81,hikvision,,China,Gansu,,36.0564,103.7922,
+408,82,hikvision,,China,Shandong,Jinan,36.6683,116.9972,
+409,89,hikvision,,China,Guangdong,Shenzhen,22.5333,114.1333,
+410,90,hikvision,,China,Guangdong,Shenzhen,22.5333,114.1333,
+411,8000,hikvision,,China,Guangdong,,23.1167,113.25,
+412,8000,hikvision,,China,Chongqing,Chongqing,29.5628,106.5528,
+413,8000,hikvision,,China,Shanghai,Xinchenglu,31.3886,121.2631,
+414,8000,hikvision,,China,Heilongjiang,,45.75,126.65,
+415,8000,hikvision,,China,Zhejiang,Wenzhou,27.9994,120.6668,
+416,8000,hikvision,,China,Zhejiang,Wenzhou,27.9994,120.6668,
+417,8000,hikvision,,China,Guangdong,Foshan,23.0268,113.1315,
+418,81,hikvision,,China,Shandong,Yantai,37.5333,121.4,
+419,8080,hikvision,,China,Guangdong,Zhongshan,21.3199,110.5723,
+420,8080,hikvision,,China,Guangdong,Zhongshan,21.3199,110.5723,
+421,2404,IEC 60870-5-104,,Benin,Littoral,Cotonou,6.3654,2.4183,
+422,2404,IEC 60870-5-104,,Botswana,South-East,Tlokweng,-24.6686,25.9711,
+423,2404,IEC 60870-5-104,,Burkina Faso,,,13,-2,
+424,2404,IEC 60870-5-104,,Yemen,,,15,48,
+425,2404,IEC 60870-5-104,,Somalia,,,10,49,
+426,2404,IEC 60870-5-104,,Somalia,,,10,49,
+427,2404,IEC 60870-5-104,,Germany,Bavaria,Mindelheim,48.043,10.4949,
+428,2404,IEC 60870-5-104,,Japan,Miyazaki,Miyakonojo,31.7333,131.0667,
+429,2404,IEC 60870-5-104,,Republic of Korea,,,37.5112,126.9741,
+430,2404,IEC 60870-5-104,,Norway,Akershus,Baerums verk,59.9415,10.5027,
+431,2404,IEC 60870-5-104,,Portugal,,,38.7139,-9.1394,
+432,2404,IEC 60870-5-104,,Mexico,Mexico City,Mexico City,19.4342,-99.1386,
+433,1628,ilon Smartserver,,Germany,Baden-Württemberg Region,Eppingen,49.1364,8.9123,
+434,1629,ilon Smartserver,,Canada,Quebec,Montreal,45.504,-73.5747,
+435,1628,ilon Smartserver,,Canada,Alberta,Spruce Grove,53.4184,-113.8097,
+436,1628,ilon Smartserver,,Japan,,,35.69,139.69,
+437,1628,ilon Smartserver,,Norway,,,59.95,10.75,
+438,1629,ilon Smartserver,,Norway,,,59.95,10.75,
+439,1628,ilon Smartserver,,United States,New York,Garden City,40.7276,-73.6344,
+440,1628,ilon Smartserver,,United States,Arizona,San Carlos,33.4158,-110.1113,
+441,1628,ilon Smartserver,,United States,New Jersey,Union,40.6945,-74.269,
+442,1628,ilon Smartserver,,United States,California,Los Angeles,33.7866,-118.2987,
+443,1628,ilon Smartserver,,Canada,Ontario,Kitchener,43.426,-80.5438,
+444,1628,ilon Smartserver,,Canada,Ontario,Kitchener,43.426,-80.5438,
+445,1628,ilon Smartserver,,United States,California,Los Angeles,33.7866,-118.2987,
+446,1628,ilon Smartserver,,Spain,Malaga,Marbella,36.5154,-4.8858,
+447,1628,ilon Smartserver,,Sweden,,,59.3247,18.056,
+448,1628,ilon Smartserver,,Spain,Navarre,Mutilva Baja,42.7709,-1.5735,
+449,1628,ilon Smartserver,,Canada,Ontario,Guelph,43.5184,-80.2257,
+450,1628,ilon Smartserver,,Italy,Provincia di Sassari,Bonnanaro,40.5326,8.7639,
+451,1628,ilon Smartserver,,United States,California,Los Angeles,33.7866,-118.2987,
+452,1628,ilon Smartserver,,United States,California,Los Angeles,34.0764,-118.2626,
+453,1628,ilon Smartserver,,Canada,British Columbia,Vancouver,49.2833,-123.1298,
+454,1628,ilon Smartserver,,United States,California,Los Angeles,33.7866,-118.2987,
+455,1628,ilon Smartserver,,Spain,Madrid,Madrid,40.4165,-3.7026,
+456,1628,ilon Smartserver,,United States,Oklahoma,Tulsa,36.0617,-95.9442,
+457,1628,ilon Smartserver,,United States,Rhode Island,Middletown,41.5171,-71.2789,
+458,1628,ilon Smartserver,,United States,California,Los Angeles,34.0887,-118.3278,
+459,1628,ilon Smartserver,,Canada,Ontario,Kitchener,43.426,-80.5438,
+460,1628,ilon Smartserver,,Canada,Ontario,Kitchener,43.426,-80.5438,
+461,1628,ilon Smartserver,,United States,Oregon,Lake Oswego,45.4093,-122.6799,
+462,1628,ilon Smartserver,,Canada,Ontario,Kitchener,43.426,-80.5438,
+463,1628,ilon Smartserver,,Canada,Ontario,Kitchener,43.426,-80.5438,
+464,1628,ilon Smartserver,,Canada,Ontario,Kitchener,43.4182,-80.4451,
+465,1628,ilon Smartserver,,United States,Utah,Logan,41.7048,-111.8709,
+466,1628,ilon Smartserver,,United States,Texas,Houston,29.7702,-95.3628,
+467,1628,ilon Smartserver,,Japan,Tokyo,Tokyo,35.6427,139.7677,
+468,1628,ilon Smartserver,,United States,Arizona,San Carlos,33.4158,-110.1113,
+469,1628,ilon Smartserver,,United States,California,Santa Monica,34.0119,-118.4682,
+470,1628,ilon Smartserver,,United States,New Jersey,Garfield,40.8775,-74.1105,
+471,1629,ilon Smartserver,,United States,,,37.751,-97.822,
+472,1628,ilon Smartserver,,Denmark,North Denmark,Aalborg,56.9733,9.9233,
+473,1628,ilon Smartserver,,Italy,Provincia di Udine,Udine,46.0664,13.2569,
+474,1629,ilon Smartserver,,Denmark,Zealand,Glumso,55.3568,11.6856,
+475,1628,ilon Smartserver,,Canada,British Columbia,Burnaby,49.274,-123.0074,
+476,5006,MELSEC-Q,"CPUINFO:RCPU      ",Japan,Kanagawa,Yokohama,35.4757,139.5899,
+477,5007,MELSEC-Q,"CPUINFO : CPU       ",Japan,Kanagawa,Yokohama,35.4757,139.5899,
+478,5006,MELSEC-Q,"CPUINFO:RCPU      ",Japan,Kanagawa,Yokohama,35.4757,139.5899,
+479,5007,MELSEC-Q,"CPUINFO : 03UDECPU  ",Italy,Provincia di Treviso,Vittorio Veneto,45.9803,12.3006,
+480,5007,MELSEC-Q,"CPUINFO : 06UDEHCPU ",Taiwan,Taipei City,Taipei,25.0478,121.5318,
+481,5007,MELSEC-Q,"CPUINFO : 04UDEHCPU ",Japan,Kanagawa,Kawasaki,35.6181,139.4638,
+482,5007,MELSEC-Q,"CPUINFO : 04UDEHCPU ",Japan,Kagoshima,Sendai,31.6014,130.6122,
+483,5007,MELSEC-Q,"CPUINFO : 02CPU     ",Canada,Ontario,Deep River,45.6606,-77.5886,
+484,5007,MELSEC-Q,"CPUINFO : 03UDECPU  ",Japan,Chiba,Narashino,35.6838,140.0471,
+485,5007,MELSEC-Q,"CPUINFO : 12DCCPU-V ",Japan,Kanagawa,Sakurakabu,35.45,139.4667,
+486,5007,MELSEC-Q,"CPUINFO : 02CPU     ",Canada,Ontario,Deep River,45.6606,-77.5886,
+487,5006,MELSEC-Q,"CPUINFO:Q12DCCPU-V",Japan,Tokyo,Machida,35.5418,139.4509,
+488,5007,MELSEC-Q,"CPUINFO : 03UDECPU  ",Italy,Provincia di Treviso,Vittorio Veneto,45.9803,12.3006,
+489,5007,MELSEC-Q,"CPUINFO : 03UDECPU  ",Taiwan,Taoyuan,Shenzhen,24.9569,121.0122,
+490,5006,MELSEC-Q,"CPUINFO:Q03UDECPU ",Taiwan,Taoyuan,Shenzhen,24.9569,121.0122,
+491,502,Modbus,,Switzerland,,,47.1449,8.1551,
+492,502,Modbus,,,,,,,
+493,502,Modbus,,Switzerland,Zurich,Horgen,47.2573,8.6042,
+494,502,Modbus,,Austria,Salzburg,Salzburg,47.7994,13.044,
+495,502,Modbus,,Austria,Vienna,Vienna,48.2,16.3667,
+496,502,Modbus,,,,,,,
+497,502,Modbus,,Argentina,Buenos Aires F.D.,Buenos Aires,-34.6033,-58.3816,
+498,502,Modbus,,Chile,,,-33.4378,-70.6503,
+499,502,Modbus,,Oman,,,21,57,
+500,502,Modbus,,Pakistan,,,30,70,
+501,502,Modbus,,Palestine,,,32,35.25,
+502,502,Modbus,,Palestine,,,32,35.25,
+503,502,Modbus,,Brazil,Sao Paulo,Santana de Parnaiba,-23.4455,-46.9145,
+504,502,Modbus,,Belarus,Gomel,Svyetlahorsk,52.6329,29.7389,
+505,502,Modbus,,Belarus,Minsk City,Minsk,53.9,27.5667,
+506,502,Modbus,,Belarus,,,53,28,
+507,502,Modbus,,Belarus,,,53,28,
+508,503,Modbus,,Iceland,Capital Region,Reykjavik,64.1421,-21.8528,
+509,502,Modbus,,Iceland,East,Hofn,64.2539,-15.2121,
+510,502,Modbus,,Iceland,,,65,-18,
+511,502,Modbus,,Iceland,Capital Region,Kopavogur,64.1107,-21.9391,
+512,502,Modbus,,Iceland,South,Selfoss,63.9331,-20.9971,
+513,502,Modbus,,Bosnia and Herzegovina,,,44,18,
+514,503,Modbus,,Eritrea,Maekel Region,Asmara,15.3333,38.9333,
+515,502,Modbus,,Cuba,Provincia de Camagueey,La Habana,21.3614,-78.3361,
+516,503,Modbus,,Cuba,Provincia de Camagueey,La Habana,21.3614,-78.3361,
+517,503,Modbus,,Liberia,Montserrado County,Monrovia,6.3106,-10.8047,
+518,502,Modbus,,Sierra Leone,Western Area,Freetown,8.49,-13.2342,
+519,502,Modbus,,Syria,,,35,38,
+520,502,Modbus,,Syria,,,35,38,
+521,502,Modbus,,Germany,Bavaria,Ingolstadt,48.776,11.4459,
+522,502,Modbus,,Germany,,,51.2993,9.491,
+523,502,Modbus,,,,,,,
+524,502,Modbus,,Germany,,,51.2993,9.491,
+525,502,Modbus,,Germany,,,51.2993,9.491,
+526,502,Modbus,,Canada,Quebec,Montreal,45.3168,-73.8659,
+527,502,Modbus,,Kyrgyzstan,,,41,75,
+528,502,Modbus,,Japan,Saitama,Saitama,35.8569,139.6489,
+529,503,Modbus,,Japan,Miyagi,Sendai,38.2689,140.8719,
+530,502,Modbus,,Japan,,,35.69,139.69,
+531,502,Modbus,,Republic of Korea,Gyeonggi-do,Seongnam-si,37.4386,127.1378,
+532,502,Modbus,,Finland,Ostrobothnia,Jakobstad,63.6833,22.6667,
+533,502,Modbus,,Finland,,,60.1708,24.9375,
+534,502,Modbus,,Finland,Lapponia,Tampere,61.6305,23.8813,
+535,503,Modbus,,Finland,Southwest Finland,Turku,60.45,22.2833,
+536,502,Modbus,,France,,,48.8582,2.3387,
+537,502,Modbus,,France,,,48.8582,2.3387,
+538,502,Modbus,,France,,,48.8582,2.3387,
+539,4800,Moxa Nport,,Germany,,,51.2993,9.491,
+540,4800,Moxa Nport,,Germany,,,51.2993,9.491,
+541,4800,Moxa Nport,,Germany,Baden-Württemberg Region,Heidelberg,49.4169,8.6764,
+542,4800,Moxa Nport,,Japan,Yamaguchi,Yamaguchi,34.1858,131.4714,
+543,4800,Moxa Nport,,Japan,Kanagawa,Yokohama,35.4478,139.6425,
+544,4800,Moxa Nport,,Japan,Nagasaki,Sasebo,33.1592,129.7228,
+545,4800,Moxa Nport,,Japan,Hyōgo,Kobe,34.759,135.2339,
+546,4800,Moxa Nport,,Japan,Hyōgo,Kobe,34.759,135.2339,
+547,4800,Moxa Nport,,Republic of Korea,Gyeongsangbuk-do,Pohang,36.0322,129.365,
+548,4800,Moxa Nport,,Finland,Southwest Finland,Salo,60.3833,23.1333,
+549,4800,Moxa Nport,,Finland,,,60.1708,24.9375,
+550,4800,Moxa Nport,,Finland,Uusimaa,Helsinki,60.1756,24.9342,
+551,4800,Moxa Nport,,France,Rhône,Villefranche-sur-Saône,45.9872,4.7283,
+552,4800,Moxa Nport,,France,,,48.8582,2.3387,
+553,4800,Moxa Nport,,Kuwait,,,29.3375,47.6581,
+554,4800,Moxa Nport,,Norway,,,59.95,10.75,
+555,4800,Moxa Nport,,Norway,,,59.95,10.75,
+556,4800,Moxa Nport,,Norway,,,59.95,10.75,
+557,4800,Moxa Nport,,Portugal,,,38.7139,-9.1394,
+558,4800,Moxa Nport,,Portugal,Lisbon,Lisbon,38.7167,-9.1333,
+559,1883,MQTT,,Republic of Korea,Seoul,Seoul,37.5111,126.9743,
+560,1883,MQTT,,France,,,48.8582,2.3387,
+561,9600,OMRON FINS,,Canada,,,43.6319,-79.3716,
+562,9600,OMRON FINS,,Japan,Tokyo,Tokyo,35.6226,139.6963,
+563,9600,OMRON FINS,,France,,,48.8582,2.3387,
+564,9600,OMRON FINS,,Portugal,Leiria,Caldas da Rainha,39.4666,-9.136,
+565,3702,ONVIF,,United States,,,37.751,-97.822,
+566,3702,ONVIF,,Latvia,Riga,Riga,56.95,24.1,
+567,3702,ONVIF,,Cambodia,Phnom Penh,Phnom Penh,11.5625,104.916,
+568,3702,ONVIF,,United States,California,San Jose,37.3387,-121.8914,
+569,3702,ONVIF,,Greece,,,37.9667,23.7167,
+570,3702,ONVIF,,Latvia,Riga,Riga,56.95,24.1,
+571,3702,ONVIF,,Cambodia,Phnom Penh,Phnom Penh,11.5625,104.916,
+572,3702,ONVIF,,Greece,,,37.9667,23.7167,
+573,3702,ONVIF,,Latvia,Riga,Riga,56.95,24.1,
+574,3702,ONVIF,,Greece,,,37.9667,23.7167,
+575,3702,ONVIF,,Cambodia,Phnom Penh,Phnom Penh,11.5625,104.916,
+576,3702,ONVIF,,United States,,,37.751,-97.822,
+577,3702,ONVIF,,Latvia,Riga,Riga,56.95,24.1,
+578,3702,ONVIF,,Greece,,,37.9667,23.7167,
+579,3702,ONVIF,,United States,,,37.751,-97.822,
+580,3702,ONVIF,,Cambodia,Phnom Penh,Phnom Penh,11.5625,104.916,
+581,3702,ONVIF,,Latvia,Riga,Riga,56.95,24.1,
+582,3702,ONVIF,,Greece,,,37.9667,23.7167,
+583,3702,ONVIF,,Cambodia,Phnom Penh,Phnom Penh,11.5625,104.916,
+584,3702,ONVIF,,United States,,,37.751,-97.822,
+585,3702,ONVIF,,Latvia,Riga,Riga,56.95,24.1,
+586,3702,ONVIF,,Greece,,,37.9667,23.7167,
+587,3702,ONVIF,,United States,,,37.751,-97.822,
+588,3702,ONVIF,,United States,California,San Jose,37.3387,-121.8914,
+589,3702,ONVIF,,Latvia,Riga,Riga,56.95,24.1,
+590,3702,ONVIF,,Greece,,,37.9667,23.7167,
+591,4840,opc-ua,,Germany,Bavaria,Garching bei Munchen,48.25,11.65,
+592,4840,opc-ua,,Finland,Northern Ostrobothnia,Oulu,65.1198,25.3102,
+593,4840,opc-ua,,Italy,Provincia di Pavia,Mezzana Bigli,45.0599,8.8473,
+594,4840,opc-ua,,Netherlands,North Holland,Amsterdam,52.35,4.9167,
+595,4840,opc-ua,,France,Vaucluse,"L'Isle-sur-la-Sorgue",43.8932,5.1135,
+596,4840,opc-ua,,Turkey,Bursa,Bursa,40.2719,29.0983,
+597,4840,opc-ua,,United States,Iowa,Des Moines,41.6005,-93.6091,
+598,4840,opc-ua,,Finland,Northern Ostrobothnia,Oulu,65.1198,25.3102,
+599,4840,opc-ua,,Austria,Vorarlberg,Dornbirn,47.4143,9.742,
+600,4840,opc-ua,,Germany,North Rhine-Westphalia,Aachen,50.776,6.0872,
+601,4840,opc-ua,,Italy,Provincia di Brescia,Brescia,45.5356,10.2147,
+602,4840,opc-ua,,Germany,Bavaria,Garching bei Munchen,48.25,11.65,
+603,4840,opc-ua,,Austria,Salzburg,Salzburg,47.7994,13.044,
+604,4840,opc-ua,,Austria,Tyrol,Landeck,47.1399,10.5659,
+605,4840,opc-ua,,France,,,48.8582,2.3387,
+606,4840,opc-ua,,Netherlands,North Holland,Amsterdam,52.35,4.9167,
+607,4840,opc-ua,,United States,Texas,Dallas,32.7787,-96.8217,
+608,4840,opc-ua,,Germany,Lower Saxony,Wendeburg,52.3296,10.3926,
+609,4840,opc-ua,,Austria,,,48.2,16.3667,
+610,4840,opc-ua,,United States,Georgia,Decatur,33.7332,-84.2021,
+611,4840,opc-ua,,Switzerland,Basel-Landschaft,Aesch,47.471,7.5973,
+612,4840,opc-ua,,Switzerland,,,47.1449,8.1551,
+613,4840,opc-ua,,Germany,North Rhine-Westphalia,Bochum,51.49,7.2493,
+614,4840,opc-ua,,United States,Colorado,Fort Collins,40.524,-105.1396,
+615,4840,opc-ua,,Austria,Salzburg,Puch bei Hallein,47.7154,13.093,
+616,4840,opc-ua,,France,Vaucluse,"L'Isle-sur-la-Sorgue",43.8932,5.1135,
+617,4840,opc-ua,,Switzerland,Basel-Landschaft,Aesch,47.471,7.5973,
+618,4840,opc-ua,,United States,Georgia,Atlanta,33.749,-84.388,
+619,4840,opc-ua,,Netherlands,North Holland,Amsterdam,52.35,4.9167,
+620,4840,opc-ua,,United States,Texas,West,31.7828,-97.1016,
+621,1962,PCWorx,,Germany,,,51.2993,9.491,
+622,1962,PCWorx,,Canada,Quebec,Montreal,45.498,-73.5472,
+623,1962,PCWorx,,Canada,Ontario,North York,43.7797,-79.4156,
+624,1962,PCWorx,,Spain,,,40.4172,-3.684,
+625,1962,PCWorx,,Spain,Cordoba,Cordova,37.8916,-4.7727,
+626,1962,PCWorx,,Spain,,,40.4172,-3.684,
+627,1962,PCWorx,,Spain,Navarre,Castejon,42.1691,-1.6895,
+628,1962,PCWorx,,Spain,,,40.4172,-3.684,
+629,1962,PCWorx,,Italy,Provincia di Asti,Nizza Monferrato,44.7742,8.3578,
+630,1962,PCWorx,,Hungary,Heves megye,Gyongyos,47.7833,19.9333,
+631,1962,PCWorx,,Italy,Provincia di Rovigo,Porto Viro,45.0222,12.2108,
+632,1962,PCWorx,,Canada,Ontario,Kitchener,43.4646,-80.4467,
+633,1962,PCWorx,,Spain,,,40.4172,-3.684,
+634,1962,PCWorx,,Sweden,Västra Götaland,Gothenburg,57.7167,11.9667,
+635,1962,PCWorx,,Italy,Provincia di Vicenza,Marostica,45.7454,11.6624,
+636,1962,PCWorx,,Belgium,,,50.85,4.35,
+637,1962,PCWorx,,Poland,West Pomerania,Szczecin,53.43,14.5201999999999,
+638,1962,PCWorx,,Belgium,Flemish Brabant Province,Berg,50.9333,4.5333,
+639,1962,PCWorx,,Netherlands,,,52.3824,4.8995,
+640,1962,PCWorx,,Italy,Provincia di Ravenna,Cervia,44.262,12.3481,
+641,1962,PCWorx,,Italy,Province of Palermo,Palermo,38.1321,13.3356,
+642,1962,PCWorx,,Spain,,,40.4172,-3.684,
+643,1962,PCWorx,,Spain,,,40.4172,-3.684,
+644,1962,PCWorx,,Sweden,,,59.3247,18.056,
+645,1962,PCWorx,,Italy,Provincia di Ravenna,Cervia,44.262,12.3481,
+646,1962,PCWorx,,Belgium,West Flanders Province,Tielt,51,3.3167,
+647,1962,PCWorx,,Belgium,,,50.85,4.35,
+648,1962,PCWorx,,Italy,Province of Arezzo,Arezzo,43.4628,11.8807,
+649,1962,PCWorx,,Canada,,,43.6319,-79.3716,
+650,1962,PCWorx,,Italy,Provincia di Potenza,Picerno,40.6397,15.6423,
+651,1962,PCWorx,,United States,,,37.751,-97.822,
+652,1962,PCWorx,,Switzerland,Vaud,Gland,46.4184,6.2696,
+653,1962,PCWorx,,Spain,Alicante,Altea,38.6526,0.0206,
+654,1962,PCWorx,,United States,Maryland,College Park,38.9807,-76.9369,
+655,1962,PCWorx,,United States,New York,Staten Island,40.5453,-74.1786,
+656,1962,PCWorx,,Poland,,,52.2394,21.0362,
+657,1962,PCWorx,,Germany,Bavaria,Aschaffenburg,49.9751,9.1314,
+658,1962,PCWorx,,Germany,North Rhine-Westphalia,Kreuzau,50.747,6.4907,
+659,1962,PCWorx,,Switzerland,,,47.1449,8.1551,
+660,1962,PCWorx,,Italy,Province of Pisa,Capannoli,43.5886,10.6733,
+661,1962,PCWorx,,,,,47,8,
+662,1962,PCWorx,,Poland,,,52.2394,21.0362,
+663,1962,PCWorx,,Poland,,,52.2394,21.0362,
+664,1962,PCWorx,,,,,47,8,
+665,1962,PCWorx,,Ukraine,Zaporizhia,Zaporizhia,47.85,35.2833,
+666,1962,PCWorx,,Turkey,Istanbul,Istanbul,41.0214,28.9684,
+667,1962,PCWorx,,Spain,Barcelona,Sant Cugat del Vallès,41.4667,2.0833,
+668,1962,PCWorx,,Turkey,,,41.0214,28.9948,
+669,1962,PCWorx,,Ukraine,Zaporizhia,Zaporizhia,47.85,35.2833,
+670,1962,PCWorx,,Turkey,,,41.0214,28.9948,
+671,1962,PCWorx,,Spain,Segovia,Segovia,40.9481,-4.1184,
+672,1962,PCWorx,,Poland,West Pomerania,Szczecin,53.43,14.5201999999999,
+673,1962,PCWorx,,Sweden,Västra Götaland,Goetene,58.5282,13.4946,
+674,1962,PCWorx,,United Kingdom,,,51.4964,-0.1224,
+675,1962,PCWorx,,Turkey,Istanbul,Istanbul,41.0214,28.9684,
+676,1962,PCWorx,,Italy,Provincia di Perugia,Gubbio,43.35,12.5731,
+677,1962,PCWorx,,United States,,,37.751,-97.822,
+678,1962,PCWorx,,Spain,Alicante,Orihuela,38.0848,-0.944,
+679,1962,PCWorx,,Italy,Provincia di Ravenna,Ravenna,44.4175,12.2011,
+680,1962,PCWorx,,Germany,Lower Saxony,Bergen an der Dumme,52.8897,10.9418,
+681,1962,PCWorx,,United States,Maryland,College Park,38.9807,-76.9369,
+682,1962,PCWorx,,Spain,Barcelona,Barcelona,41.3984,2.1741,
+683,1962,PCWorx,,Poland,,,52.2394,21.0362,
+684,1962,PCWorx,,Germany,Baden-Württemberg Region,Heidelberg,49.4062,8.6868,
+685,1962,PCWorx,,Poland,West Pomerania,Reptowo,53.3667,14.8639,
+686,1962,PCWorx,,Spain,,,40.4172,-3.684,
+687,1962,PCWorx,,Sweden,Skåne,Tyringe,56.1667,13.5833,
+688,1962,PCWorx,,Belgium,East Flanders Province,Deinze,50.9833,3.5333,
+689,1962,PCWorx,,Spain,Salamanca,Salamanca,40.9688,-5.6639,
+690,1962,PCWorx,,Italy,,,43.1479,12.1097,
+691,20547,ProConOs,,Germany,,,51.2993,9.491,
+692,20547,ProConOs,,Japan,Tokyo,Tokyo,35.6427,139.7677,
+693,20547,ProConOs,,Japan,,,35.69,139.69,
+694,20547,ProConOs,,France,,,48.8582,2.3387,
+695,20547,ProConOs,,Mexico,Chihuahua,Cuauhtemoc,28.4167,-106.8667,
+696,20547,ProConOs,,Mexico,Chihuahua,Cuauhtemoc,28.4167,-106.8667,
+697,20547,ProConOs,,Mexico,Chihuahua,Cuauhtemoc,28.4167,-106.8667,
 698,20547,ProConOs,,Mexico,Chihuahua,Cuauhtemoc,28.4167,-106.8667
-699,20547,ProConOs,,Italy,Provincia di Ravenna,Bagnacavallo,44.4198,12.0259
-700,20547,ProConOs,,United States,,,37.751,-97.822
-701,20547,ProConOs,,Taiwan,,Taipei,25.0418,121.4966
-702,20547,ProConOs,,Mexico,Chihuahua,Cuauhtemoc,28.4167,-106.8667
-703,20547,ProConOs,,France,,,48.8582,2.3387
-704,20547,ProConOs,,United States,,,37.751,-97.822
-705,20547,ProConOs,,United States,,,37.751,-97.822
-706,20547,ProConOs,,United States,,,37.751,-97.822
-707,20547,ProConOs,,Taiwan,,Taipei,25.0418,121.4966
-708,20547,ProConOs,,Mexico,Chihuahua,Cuauhtemoc,28.4167,-106.8667
-709,20547,ProConOs,,United States,,,37.751,-97.822
-710,20547,ProConOs,,Mexico,Chihuahua,Cuauhtemoc,28.4167,-106.8667
-711,20547,ProConOs,,Italy,,,43.1479,12.1097
-712,20547,ProConOs,,Denmark,Capital Region,Copenhagen,55.6667,12.5833
-713,20547,ProConOs,,Germany,Hesse,Frankfurt am Main,50.1172,8.7281
-714,20547,ProConOs,,Belgium,,,50.85,4.35
-715,20547,ProConOs,,United States,,,37.751,-97.822
-716,20547,ProConOs,,Italy,,,43.1479,12.1097
-717,20547,ProConOs,,United States,,,37.751,-97.822
-718,20547,ProConOs,,Mexico,Chihuahua,Cuauhtemoc,28.4167,-106.8667
-719,20547,ProConOs,,Italy,Provincia di Ravenna,Bagnacavallo,44.4198,12.0259
-720,80,Profinet,,France,Yonne,Appoigny,47.8747,3.5252
-721,80,Profinet,,France,,,48.8582,2.3387
-722,789,Redlion Crimson3,,Portugal,,,38.7139,-9.1394
-723,102,Siemens S7,,Angola,,,-12.5,18.5
-724,102,Siemens S7,,Germany,,,51.2993,9.491
-725,102,Siemens S7,,Germany,,,51.2993,9.491
-726,102,Siemens S7,,Germany,,,51.2993,9.491
-727,102,Siemens S7,,Canada,Quebec,Montreal,45.3168,-73.8659
-728,102,Siemens S7,,Canada,Quebec,Beauharnois,45.3168,-73.8659
-729,102,Siemens S7,,Kyrgyzstan,,,41,75
-730,102,Siemens S7,,Republic of Korea,,,37.5112,126.9741
-731,102,Siemens S7,,Finland,Uusimaa,Hyvinkaeae,60.6333,24.8667
-732,102,Siemens S7,,Finland,,,60.1708,24.9375
-733,102,Siemens S7,,France,,,48.8582,2.3387
-734,102,Siemens S7,,Norway,Oslo County,Oslo,59.905,10.7487
-735,102,Siemens S7,,Norway,,,59.95,10.75
-736,102,Siemens S7,,Norway,Hordaland Fylke,Bergen,60.3366,5.3461
-737,102,Siemens S7,,Portugal,,,38.7139,-9.1394
-738,102,Siemens S7,,Mexico,,,19.4371,-99.0111
-739,162,snmp,,Switzerland,Saint Gallen,St. Gallen,47.4364,9.3886
-740,162,snmp,,Switzerland,,,47.1449,8.1551
-741,161,snmp,,Switzerland,Vaud,Bassins,46.4627,6.2362
-742,161,snmp,,Switzerland,Lucerne,Sursee,47.176,8.105
-743,161,snmp,,Switzerland,Zurich,Bonstetten,47.316,8.4625
-744,161,snmp,,Afghanistan,Kabul,Kabul,34.5167,69.1833
-745,161,snmp,,Afghanistan,Kabul,Kabul,34.5167,69.1833
-746,161,snmp,,Afghanistan,,,33,65
-747,161,snmp,,Argentina,Buenos Aires,San Miguel,-34.5239,-58.7794
-748,161,snmp,,Angola,Luanda Province,Luanda,-8.8368,13.2332
-749,161,snmp,,Oman,,,21,57
-750,161,snmp,,Oman,,,21,57
-751,161,snmp,,Oman,Muscat,Muscat,23.6133,58.5933
-752,161,snmp,,Palestine,,,32,35.25
-753,161,snmp,,Brazil,Bahia,Salvador,-12.9833,-38.5167
-754,161,snmp,,Bosnia and Herzegovina,,,44,18
-755,161,snmp,,Botswana,,,-22,24
-756,161,snmp,,Botswana,,,-22,24
-757,161,snmp,,Burkina Faso,Kadiogo Province,Ouagadougou,12.3703,-1.5247
-758,161,snmp,,Burkina Faso,,,13,-2
-759,161,snmp,,Burkina Faso,,,13,-2
-760,161,snmp,,Burkina Faso,Kadiogo Province,Ouagadougou,12.3703,-1.5247
-761,161,snmp,,Burkina Faso,,,13,-2
-762,161,snmp,,Congo,,,,25
-763,161,snmp,,Congo,,,,25
-764,161,snmp,,Congo,,,,25
-765,161,snmp,,Congo,,,,25
-766,161,snmp,,Guinea-Bissau,,,12,-15
-767,161,snmp,,Greenland,Qeqqata,Sisimiut,66.9333,-53.6833
-768,161,snmp,,Greenland,,,72,-40
-769,161,snmp,,Greenland,,,72,-40
-770,161,snmp,,Liberia,,,6.5,-9.5
-771,161,snmp,,Liberia,,,6.5,-9.5
-772,161,snmp,,Liberia,Montserrado County,Monrovia,6.3106,-10.8047
-773,161,snmp,,Sierra Leone,,,8.5,-11.5
-774,161,snmp,,Yemen,,,15,48
-775,161,snmp,,Yemen,Sanaa,Sanaa,15.3547,44.2067
-776,161,snmp,,Yemen,,,15,48
-777,161,snmp,,Yemen,,,15,48
-778,161,snmp,,Myanmar [Burma],,,22,98
-779,161,snmp,,Myanmar [Burma],,,22,98
-780,162,snmp,,Myanmar [Burma],Yangon Region,Yangon,16.7833,96.1667
-781,161,snmp,,Libya,,,25,17
-782,161,snmp,,Republic of Korea,Seoul,Seoul,37.5111,126.9743
-783,161,snmp,,Republic of Korea,,,37.5112,126.9741
-784,162,snmp,,Zimbabwe,,,-20,30
-785,8089,SOAP,,United States,California,Topanga,34.1049,-118.6089
-786,8089,SOAP,,United States,Florida,Sarasota,27.2585,-82.515
-787,8089,SOAP,,China,Shanghai,Shanghai,31.1667,121.4167
-788,8089,SOAP,,France,Seine-et-Marne,Lognes,48.8354,2.63
-789,8089,SOAP,,United States,Florida,Largo,27.8846,-82.8277
-790,8089,SOAP,,United States,Florida,Sarasota,27.2585,-82.515
-791,8089,SOAP,,United States,Florida,Tampa,28.0822,-82.5239
-792,8089,SOAP,,United States,California,Manhattan Beach,33.8893,-118.401
-793,8089,SOAP,,United States,California,Folsom,38.6729,-121.1488
-794,8089,SOAP,,United States,Texas,Wylie,33.0162,-96.5382
-795,8089,SOAP,,United States,California,Apple Valley,34.5776,-117.1592
-796,8089,SOAP,,United States,Oregon,Terrebonne,44.4171,-121.2948
-797,8089,SOAP,,United States,California,South Gate,33.9485,-118.2017
-798,8089,SOAP,,Republic of Korea,Seoul,Seoul,37.5985,126.9783
-799,8089,SOAP,,United States,California,Tarzana,34.1553,-118.5476
-800,8089,SOAP,,Russia,Bashkortostan Republic,Ufa,54.7852,56.0456
-801,8089,SOAP,,United States,California,Thousand Oaks,34.2133,-118.88
-802,8089,SOAP,,United States,California,Irvine,33.691,-117.7882
-803,8089,SOAP,,China,Shanghai,Shanghai,31.1667,121.4167
-804,8089,SOAP,,United States,California,North Hills,34.2387,-118.4772
-805,8089,SOAP,,Hungary,Győr-Moson-Sopron,Himod,47.5167,17.0167
-806,8089,SOAP,,China,Sichuan,,30.6667,104.0667
-807,8089,SOAP,,Brazil,Santa Catarina,Joinville,-26.3,-48.8333
-808,8089,SOAP,,China,,,34.7725,113.7266
-809,8089,SOAP,,United States,Texas,Keller,32.9346,-97.2517
-810,8089,SOAP,,United States,California,Pacoima,34.2572,-118.4195
-811,8089,SOAP,,Russia,Bashkortostan Republic,Ufa,54.7852,56.0456
-812,8089,SOAP,,China,Sichuan,,30.6667,104.0667
-813,8089,SOAP,,United States,Florida,Palmetto,27.5931,-82.5051
-814,8089,SOAP,,Poland,,,52.2394,21.0362
-815,8089,SOAP,,United States,Texas,Carrollton,33.0341,-96.8705
-816,8089,SOAP,,United States,Florida,Winter Haven,27.9731,-81.6736
-817,8089,SOAP,,United States,Texas,Plano,33.0347,-96.8134
-818,8089,SOAP,,United States,California,Topanga,34.1049,-118.6089
-819,8089,SOAP,,United States,Florida,Tampa,27.9987,-82.5156
-820,8089,SOAP,,United States,California,Pomona,34.039,-117.7548
-821,8089,SOAP,,United States,Florida,Osprey,27.1896,-82.4802
-822,8089,SOAP,,United States,California,Anaheim,33.8468,-117.9573
-823,8089,SOAP,,United States,California,Thousand Oaks,34.2133,-118.88
-824,8089,SOAP,,United States,Florida,Tampa,27.8867,-82.5117
-825,8089,SOAP,,United States,Florida,Sarasota,27.2563,-82.5393
-826,8089,SOAP,,United States,California,Long Beach,33.7816,-118.1859
-827,8089,SOAP,,United States,California,Moreno Valley,33.9719,-117.2526
-828,8089,SOAP,,United States,California,Thousand Oaks,34.1965,-118.8188
-829,4911,ssl/niagara fox,,Afghanistan,,,33,65
-830,4911,ssl/niagara fox,,Pakistan,Balochistan,Quetta,30.199,67.0097
-831,4911,ssl/niagara fox,,Pakistan,,,30,70
-832,4911,ssl/niagara fox,,Myanmar,,,22,98
-833,4911,ssl/niagara fox,,Japan,Kanagawa,Yokohama,35.4478,139.6425
-834,4911,ssl/niagara fox,,Japan,,,35.69,139.69
-835,4911,ssl/niagara fox,,Republic of Korea,,,37.5112,126.9741
-836,4911,ssl/niagara fox,,Republic of Korea,,,37.5112,126.9741
-837,1911,Tridium Niagara Fox,,Switzerland,Bern,Bern,46.9481,7.4474
-838,1911,Tridium Niagara Fox,,Switzerland,Lucerne,Lucerne,47.0505,8.3064
-839,1911,Tridium Niagara Fox,,Austria,Salzburg,Salzburg,47.7994,13.044
-840,1911,Tridium Niagara Fox,,Austria,Salzburg,Salzburg,47.7994,13.044
-841,1911,Tridium Niagara Fox,,Argentina,Buenos Aires,La Plata,-34.9314,-57.9489
-842,1911,Tridium Niagara Fox,,Argentina,Buenos Aires F.D.,Buenos Aires,-34.6033,-58.3816
-843,1911,Tridium Niagara Fox,,Palestine,,,32,35.25
-844,1911,Tridium Niagara Fox,,Brazil,Rio de Janeiro,Rio de Janeiro,-22.8751,-43.2775
-845,1911,Tridium Niagara Fox,,Brazil,Rio de Janeiro,Rio de Janeiro,-22.8751,-43.2775
-846,1911,Tridium Niagara Fox,,Brazil,Sao Paulo,Colombia,-20.293,-48.7233
-847,1911,Tridium Niagara Fox,,Belgium,Brussels Capital,Uccle,50.8,4.3167
-848,1911,Tridium Niagara Fox,,Belgium,,,50.85,4.35
-849,1911,Tridium Niagara Fox,,Belgium,Antwerp Province,Antwerp,51.2167,4.4167
-850,1911,Tridium Niagara Fox,,Iceland,Northeast,Akureyri,65.6835,-18.0878
-851,1911,Tridium Niagara Fox,,Iceland,Northeast,Akureyri,65.6835,-18.0878
-852,1911,Tridium Niagara Fox,,Germany,,,51.2993,9.491
-853,1911,Tridium Niagara Fox,,Germany,,,51.2993,9.491
-854,1911,Tridium Niagara Fox,,Germany,,,51.2993,9.491
-855,1911,Tridium Niagara Fox,,Canada,Quebec,Montreal,45.504,-73.5747
-856,1911,Tridium Niagara Fox,,Republic of Korea,,,37.5112,126.9741
-857,1911,Tridium Niagara Fox,,Finland,,,60.1708,24.9375
-858,1911,Tridium Niagara Fox,,France,,,48.8582,2.3387
-859,1911,Tridium Niagara Fox,,Kuwait,Hawalli,Hawalli,29.3328,48.0286
-860,1911,Tridium Niagara Fox,,France,,,48.8582,2.3387
-861,5222,XMPP,,Myanmar,,,22,98
-862,5222,XMPP,,Kyrgyzstan,Gorod Bishkek,Bishkek,42.8731,74.6003
-863,5222,XMPP,,Japan,,,35.69,139.69
-864,5222,XMPP,,Japan,,,35.69,139.69
-865,5222,XMPP,,Finland,,,60.1708,24.9375
-866,5222,XMPP,,Finland,,,60.1708,24.9375
-867,5222,XMPP,,Kuwait,,,29.3375,47.6581
-868,5222,XMPP,,Qatar,Baladiyat ad Dawhah,Doha,25.2867,51.5333
-869,5222,XMPP,,Portugal,,,38.7139,-9.1394
-870,5222,XMPP,,Mexico,Morelos,Jiutepec,18.8532,-99.1618
+699,20547,ProConOs,,Italy,Provincia di Ravenna,Bagnacavallo,44.4198,12.0259,
+700,20547,ProConOs,,United States,,,37.751,-97.822,
+701,20547,ProConOs,,Taiwan,,Taipei,25.0418,121.4966,
+702,20547,ProConOs,,Mexico,Chihuahua,Cuauhtemoc,28.4167,-106.8667,
+703,20547,ProConOs,,France,,,48.8582,2.3387,
+704,20547,ProConOs,,United States,,,37.751,-97.822,
+705,20547,ProConOs,,United States,,,37.751,-97.822,
+706,20547,ProConOs,,United States,,,37.751,-97.822,
+707,20547,ProConOs,,Taiwan,,Taipei,25.0418,121.4966,
+708,20547,ProConOs,,Mexico,Chihuahua,Cuauhtemoc,28.4167,-106.8667,
+709,20547,ProConOs,,United States,,,37.751,-97.822,
+710,20547,ProConOs,,Mexico,Chihuahua,Cuauhtemoc,28.4167,-106.8667,
+711,20547,ProConOs,,Italy,,,43.1479,12.1097,
+712,20547,ProConOs,,Denmark,Capital Region,Copenhagen,55.6667,12.5833,
+713,20547,ProConOs,,Germany,Hesse,Frankfurt am Main,50.1172,8.7281,
+714,20547,ProConOs,,Belgium,,,50.85,4.35,
+715,20547,ProConOs,,United States,,,37.751,-97.822,
+716,20547,ProConOs,,Italy,,,43.1479,12.1097,
+717,20547,ProConOs,,United States,,,37.751,-97.822,
+718,20547,ProConOs,,Mexico,Chihuahua,Cuauhtemoc,28.4167,-106.8667,
+719,20547,ProConOs,,Italy,Provincia di Ravenna,Bagnacavallo,44.4198,12.0259,
+720,80,Profinet,,France,Yonne,Appoigny,47.8747,3.5252,
+721,80,Profinet,,France,,,48.8582,2.3387,
+722,789,Redlion Crimson3,,Portugal,,,38.7139,-9.1394,
+723,102,Siemens S7,,Angola,,,-12.5,18.5,
+724,102,Siemens S7,,Germany,,,51.2993,9.491,
+725,102,Siemens S7,,Germany,,,51.2993,9.491,
+726,102,Siemens S7,,Germany,,,51.2993,9.491,
+727,102,Siemens S7,,Canada,Quebec,Montreal,45.3168,-73.8659,
+728,102,Siemens S7,,Canada,Quebec,Beauharnois,45.3168,-73.8659,
+729,102,Siemens S7,,Kyrgyzstan,,,41,75,
+730,102,Siemens S7,,Republic of Korea,,,37.5112,126.9741,
+731,102,Siemens S7,,Finland,Uusimaa,Hyvinkaeae,60.6333,24.8667,
+732,102,Siemens S7,,Finland,,,60.1708,24.9375,
+733,102,Siemens S7,,France,,,48.8582,2.3387,
+734,102,Siemens S7,,Norway,Oslo County,Oslo,59.905,10.7487,
+735,102,Siemens S7,,Norway,,,59.95,10.75,
+736,102,Siemens S7,,Norway,Hordaland Fylke,Bergen,60.3366,5.3461,
+737,102,Siemens S7,,Portugal,,,38.7139,-9.1394,
+738,102,Siemens S7,,Mexico,,,19.4371,-99.0111,
+739,162,snmp,,Switzerland,Saint Gallen,St. Gallen,47.4364,9.3886,
+740,162,snmp,,Switzerland,,,47.1449,8.1551,
+741,161,snmp,,Switzerland,Vaud,Bassins,46.4627,6.2362,
+742,161,snmp,,Switzerland,Lucerne,Sursee,47.176,8.105,
+743,161,snmp,,Switzerland,Zurich,Bonstetten,47.316,8.4625,
+744,161,snmp,,Afghanistan,Kabul,Kabul,34.5167,69.1833,
+745,161,snmp,,Afghanistan,Kabul,Kabul,34.5167,69.1833,
+746,161,snmp,,Afghanistan,,,33,65,
+747,161,snmp,,Argentina,Buenos Aires,San Miguel,-34.5239,-58.7794,
+748,161,snmp,,Angola,Luanda Province,Luanda,-8.8368,13.2332,
+749,161,snmp,,Oman,,,21,57,
+750,161,snmp,,Oman,,,21,57,
+751,161,snmp,,Oman,Muscat,Muscat,23.6133,58.5933,
+752,161,snmp,,Palestine,,,32,35.25,
+753,161,snmp,,Brazil,Bahia,Salvador,-12.9833,-38.5167,
+754,161,snmp,,Bosnia and Herzegovina,,,44,18,
+755,161,snmp,,Botswana,,,-22,24,
+756,161,snmp,,Botswana,,,-22,24,
+757,161,snmp,,Burkina Faso,Kadiogo Province,Ouagadougou,12.3703,-1.5247,
+758,161,snmp,,Burkina Faso,,,13,-2,
+759,161,snmp,,Burkina Faso,,,13,-2,
+760,161,snmp,,Burkina Faso,Kadiogo Province,Ouagadougou,12.3703,-1.5247,
+761,161,snmp,,Burkina Faso,,,13,-2,
+762,161,snmp,,Congo,,,,25,
+763,161,snmp,,Congo,,,,25,
+764,161,snmp,,Congo,,,,25,
+765,161,snmp,,Congo,,,,25,
+766,161,snmp,,Guinea-Bissau,,,12,-15,
+767,161,snmp,,Greenland,Qeqqata,Sisimiut,66.9333,-53.6833,
+768,161,snmp,,Greenland,,,72,-40,
+769,161,snmp,,Greenland,,,72,-40,
+770,161,snmp,,Liberia,,,6.5,-9.5,
+771,161,snmp,,Liberia,,,6.5,-9.5,
+772,161,snmp,,Liberia,Montserrado County,Monrovia,6.3106,-10.8047,
+773,161,snmp,,Sierra Leone,,,8.5,-11.5,
+774,161,snmp,,Yemen,,,15,48,
+775,161,snmp,,Yemen,Sanaa,Sanaa,15.3547,44.2067,
+776,161,snmp,,Yemen,,,15,48,
+777,161,snmp,,Yemen,,,15,48,
+778,161,snmp,,Myanmar [Burma],,,22,98,
+779,161,snmp,,Myanmar [Burma],,,22,98,
+780,162,snmp,,Myanmar [Burma],Yangon Region,Yangon,16.7833,96.1667,
+781,161,snmp,,Libya,,,25,17,
+782,161,snmp,,Republic of Korea,Seoul,Seoul,37.5111,126.9743,
+783,161,snmp,,Republic of Korea,,,37.5112,126.9741,
+784,162,snmp,,Zimbabwe,,,-20,30,
+785,8089,SOAP,,United States,California,Topanga,34.1049,-118.6089,
+786,8089,SOAP,,United States,Florida,Sarasota,27.2585,-82.515,
+787,8089,SOAP,,China,Shanghai,Shanghai,31.1667,121.4167,
+788,8089,SOAP,,France,Seine-et-Marne,Lognes,48.8354,2.63,
+789,8089,SOAP,,United States,Florida,Largo,27.8846,-82.8277,
+790,8089,SOAP,,United States,Florida,Sarasota,27.2585,-82.515,
+791,8089,SOAP,,United States,Florida,Tampa,28.0822,-82.5239,
+792,8089,SOAP,,United States,California,Manhattan Beach,33.8893,-118.401,
+793,8089,SOAP,,United States,California,Folsom,38.6729,-121.1488,
+794,8089,SOAP,,United States,Texas,Wylie,33.0162,-96.5382,
+795,8089,SOAP,,United States,California,Apple Valley,34.5776,-117.1592,
+796,8089,SOAP,,United States,Oregon,Terrebonne,44.4171,-121.2948,
+797,8089,SOAP,,United States,California,South Gate,33.9485,-118.2017,
+798,8089,SOAP,,Republic of Korea,Seoul,Seoul,37.5985,126.9783,
+799,8089,SOAP,,United States,California,Tarzana,34.1553,-118.5476,
+800,8089,SOAP,,Russia,Bashkortostan Republic,Ufa,54.7852,56.0456,
+801,8089,SOAP,,United States,California,Thousand Oaks,34.2133,-118.88,
+802,8089,SOAP,,United States,California,Irvine,33.691,-117.7882,
+803,8089,SOAP,,China,Shanghai,Shanghai,31.1667,121.4167,
+804,8089,SOAP,,United States,California,North Hills,34.2387,-118.4772,
+805,8089,SOAP,,Hungary,Győr-Moson-Sopron,Himod,47.5167,17.0167,
+806,8089,SOAP,,China,Sichuan,,30.6667,104.0667,
+807,8089,SOAP,,Brazil,Santa Catarina,Joinville,-26.3,-48.8333,
+808,8089,SOAP,,China,,,34.7725,113.7266,
+809,8089,SOAP,,United States,Texas,Keller,32.9346,-97.2517,
+810,8089,SOAP,,United States,California,Pacoima,34.2572,-118.4195,
+811,8089,SOAP,,Russia,Bashkortostan Republic,Ufa,54.7852,56.0456,
+812,8089,SOAP,,China,Sichuan,,30.6667,104.0667,
+813,8089,SOAP,,United States,Florida,Palmetto,27.5931,-82.5051,
+814,8089,SOAP,,Poland,,,52.2394,21.0362,
+815,8089,SOAP,,United States,Texas,Carrollton,33.0341,-96.8705,
+816,8089,SOAP,,United States,Florida,Winter Haven,27.9731,-81.6736,
+817,8089,SOAP,,United States,Texas,Plano,33.0347,-96.8134,
+818,8089,SOAP,,United States,California,Topanga,34.1049,-118.6089,
+819,8089,SOAP,,United States,Florida,Tampa,27.9987,-82.5156,
+820,8089,SOAP,,United States,California,Pomona,34.039,-117.7548,
+821,8089,SOAP,,United States,Florida,Osprey,27.1896,-82.4802,
+822,8089,SOAP,,United States,California,Anaheim,33.8468,-117.9573,
+823,8089,SOAP,,United States,California,Thousand Oaks,34.2133,-118.88,
+824,8089,SOAP,,United States,Florida,Tampa,27.8867,-82.5117,
+825,8089,SOAP,,United States,Florida,Sarasota,27.2563,-82.5393,
+826,8089,SOAP,,United States,California,Long Beach,33.7816,-118.1859,
+827,8089,SOAP,,United States,California,Moreno Valley,33.9719,-117.2526,
+828,8089,SOAP,,United States,California,Thousand Oaks,34.1965,-118.8188,
+829,4911,ssl/niagara fox,,Afghanistan,,,33,65,
+830,4911,ssl/niagara fox,,Pakistan,Balochistan,Quetta,30.199,67.0097,
+831,4911,ssl/niagara fox,,Pakistan,,,30,70,
+832,4911,ssl/niagara fox,,Myanmar,,,22,98,
+833,4911,ssl/niagara fox,,Japan,Kanagawa,Yokohama,35.4478,139.6425,
+834,4911,ssl/niagara fox,,Japan,,,35.69,139.69,
+835,4911,ssl/niagara fox,,Republic of Korea,,,37.5112,126.9741,
+836,4911,ssl/niagara fox,,Republic of Korea,,,37.5112,126.9741,
+837,1911,Tridium Niagara Fox,,Switzerland,Bern,Bern,46.9481,7.4474,
+838,1911,Tridium Niagara Fox,,Switzerland,Lucerne,Lucerne,47.0505,8.3064,
+839,1911,Tridium Niagara Fox,,Austria,Salzburg,Salzburg,47.7994,13.044,
+840,1911,Tridium Niagara Fox,,Austria,Salzburg,Salzburg,47.7994,13.044,
+841,1911,Tridium Niagara Fox,,Argentina,Buenos Aires,La Plata,-34.9314,-57.9489,
+842,1911,Tridium Niagara Fox,,Argentina,Buenos Aires F.D.,Buenos Aires,-34.6033,-58.3816,
+843,1911,Tridium Niagara Fox,,Palestine,,,32,35.25,
+844,1911,Tridium Niagara Fox,,Brazil,Rio de Janeiro,Rio de Janeiro,-22.8751,-43.2775,
+845,1911,Tridium Niagara Fox,,Brazil,Rio de Janeiro,Rio de Janeiro,-22.8751,-43.2775,
+846,1911,Tridium Niagara Fox,,Brazil,Sao Paulo,Colombia,-20.293,-48.7233,
+847,1911,Tridium Niagara Fox,,Belgium,Brussels Capital,Uccle,50.8,4.3167,
+848,1911,Tridium Niagara Fox,,Belgium,,,50.85,4.35,
+849,1911,Tridium Niagara Fox,,Belgium,Antwerp Province,Antwerp,51.2167,4.4167,
+850,1911,Tridium Niagara Fox,,Iceland,Northeast,Akureyri,65.6835,-18.0878,
+851,1911,Tridium Niagara Fox,,Iceland,Northeast,Akureyri,65.6835,-18.0878,
+852,1911,Tridium Niagara Fox,,Germany,,,51.2993,9.491,
+853,1911,Tridium Niagara Fox,,Germany,,,51.2993,9.491,
+854,1911,Tridium Niagara Fox,,Germany,,,51.2993,9.491,
+855,1911,Tridium Niagara Fox,,Canada,Quebec,Montreal,45.504,-73.5747,
+856,1911,Tridium Niagara Fox,,Republic of Korea,,,37.5112,126.9741,
+857,1911,Tridium Niagara Fox,,Finland,,,60.1708,24.9375,
+858,1911,Tridium Niagara Fox,,France,,,48.8582,2.3387,
+859,1911,Tridium Niagara Fox,,Kuwait,Hawalli,Hawalli,29.3328,48.0286,
+860,1911,Tridium Niagara Fox,,France,,,48.8582,2.3387,
+861,5222,XMPP,,Myanmar,,,22,98,
+862,5222,XMPP,,Kyrgyzstan,Gorod Bishkek,Bishkek,42.8731,74.6003,
+863,5222,XMPP,,Japan,,,35.69,139.69,
+864,5222,XMPP,,Japan,,,35.69,139.69,
+865,5222,XMPP,,Finland,,,60.1708,24.9375,
+866,5222,XMPP,,Finland,,,60.1708,24.9375,
+867,5222,XMPP,,Kuwait,,,29.3375,47.6581,
+868,5222,XMPP,,Qatar,Baladiyat ad Dawhah,Doha,25.2867,51.5333,
+869,5222,XMPP,,Portugal,,,38.7139,-9.1394,
+870,5222,XMPP,,Mexico,Morelos,Jiutepec,18.8532,-99.1618,
