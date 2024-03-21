@@ -1,4 +1,4 @@
-IP [Hidden],port,service,banner,country,regname,city,latitude,longitude,note
+IP [Hidden],port,service,banner,country,regname,city,latitude,longitude,
 1,5672,AMQP,"AMQP",Albania,Tirana District,Tirana,41.3275,19.8189,
 2,5672,AMQP,"AMQP_x0001__x0001_ ",Albania,,,41,20,
 3,5672,AMQP,"AMQP",Switzerland,Zurich,Zurich,47.3667,8.55,
@@ -11,7 +11,7 @@ IP [Hidden],port,service,banner,country,regname,city,latitude,longitude,note
 10,5672,AMQP,"AMQP_x0001__x0001_",Libya,,,25,17,
 11,5672,AMQP,"AMQP _x0001_",Kyrgyzstan,,,41,75,
 12,5672,AMQP,"AMQP   _x0001_",Finland,,,60.1708,24.9375,
-13,5672,AMQP,"",France,,,48.8582,2.3387,banner is NULL
+13,5672,AMQP,"",France,,,48.8582,2.3387,
 14,5672,AMQP,"AMQP   _x0001_",France,,,48.8582,2.3387,
 15,5672,AMQP,"AMQP _x0001_",Kuwait,,,29.3375,47.6581,
 16,10001,ATGs Devices,,Switzerland,,,47.1449,8.1551,
