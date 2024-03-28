@@ -216,5 +216,5 @@ Raw data is provided and authorized by [Dictecting](https://www.ditecting.com)
 3. 
 4. 
 
-[1]: https://www.research.unipd.it/handle/11577/3475902 "F. Turrin, “Cybersecurity of Modern Cyber-Physical Systems,” Doctoral Thesis, University of Padova, Padua, 2023. [Online]. Available: [https://hdl.handle.net/11577/3475902]"
+[1]: https://www.research.unipd.it/handle/11577/3475902 "F. Turrin, “Cybersecurity of Modern Cyber-Physical Systems,” Doctoral Thesis, University of Padova, Padua, 2023. [Online]. Available: https://hdl.handle.net/11577/3475902"
 
