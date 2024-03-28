@@ -7,7 +7,7 @@
   - It is also a key technology of [Shodan](https://www.shodan.io/), according [here](https://help.shodan.io/the-basics/what-is-shodan)
 - Plan
   - Due to some uncontrolled factors, there is a high probability that the raw data will not be updated
-  - All existing data will be processed soon
+  - Some existing data will be processed soon, and others with banners in complex structure will be explained 
 - How to process dataset
   - [x] Dataset in MySQL has been provided
   - [ ] For good demonstration effects in CSV, some banners in the dataset will be processed
@@ -30,15 +30,19 @@ Take S7Comm as an example, the steps are as below:
 
 There is no guarantee that the all acquired data is corrcet without omission, because some devices may use non-default port and some devices may communciate with port scanning tools even if without corresponding portocol. However, the method is an effective and efficient way yet.
 
+Additionally, only TCP traffic has been collected during the acquisition procedure, but literature <sup>[1]</sup> shows some protocols also communicate in UDP or other transport layer protocols
+
 ## 1. Basic information about Protocols in the Dataset
 
-### IT Ｐrotocols
+### IT Protocols
 
 - Simple Network Management Protocol (SNMP)
 
   A standard IT procotol, and it is also integrated in many interconnected devices
   
   *It is a Management Protocol for Simple Networks not a Simple Protocol for Management of Networks* -- Luis Ontanon, a developer of Wireshark
+
+  The banner structure of SNMP is totally free and non-standard. The structure of banner varies depending on the manufacturer, equipment type, service type, purpose, etc.
   
   - [Wikipedia](https://en.wikipedia.org/wiki/Simple_Network_Management_Protocol)
   - [SNMP - Wireshark](https://wiki.wireshark.org/SNMP)
@@ -53,6 +57,7 @@ There is no guarantee that the all acquired data is corrcet without omission, be
   - [Official Website](https://www.amqp.org/)
   - [Wikipedia](https://en.wikipedia.org/wiki/Advanced_Message_Queuing_Protocol)
   - [AMQP - Wireshark](https://wiki.wireshark.org/amqp)
+
 - MQ Telemetry Transport (MQTT)
 
   It is a lightweight and efficient protocol for messaging between device to cloud and cloud to device in the IoTs
@@ -60,15 +65,21 @@ There is no guarantee that the all acquired data is corrcet without omission, be
   - [Official Website](https://mqtt.org/)
   - [Wikipedia](https://en.wikipedia.org/wiki/MQTT)
   - [Official IoT Use Cases](https://mqtt.org/use-cases/)
+
 - Simple Object Access Protocol (SOAP)
 
   It is a lightweight protocol intended for exchanging structured information in a decentralized, distributed environment, using XML technologies, an extensible messaging framework containing a message construct that can be exchanged over a variety of underlying protocols
 
+  The banners of SOAP contain HTTP header-like content, some also follow with a HTML-like structure
+
   - [Official Documentations in W3C](https://www.w3.org/TR/soap/)
   - [Wikipedia](https://en.wikipedia.org/wiki/SOAP)
+
 - Extensible Messaging and Presence Protocol (XMPP)
 
   It is an open and independent standard for messaging and presence that powers emerging technologies like IoT, WebRTC, and social media
+
+  The banners of XMPP is XML-like structure
 
   - [Official Website](https://xmpp.org/)
   - [Wikipedia](https://en.wikipedia.org/wiki/XMPP)
@@ -81,6 +92,8 @@ There is no guarantee that the all acquired data is corrcet without omission, be
 - Open Network Video Interface Forum (ONVIF)
 
   It is an open industry forum that provides and promotes standardized interfaces for effective interoperability of IP-based physical security products
+
+  The banner of ONVIF is XML-like structure
   
   - [Official Website](https://www.onvif.org/)
   - [Wikipedia](https://en.wikipedia.org/wiki/ONVIF)
@@ -198,7 +211,10 @@ Raw data is provided and authorized by [Dictecting](https://www.ditecting.com)
 
 
 ## References
-1. F. Turrin, “Cybersecurity of Modern Cyber-Physical Systems,” Doctoral Thesis, University of Padova, Padua, 2023. [Online]. Available: [https://hdl.handle.net/11577/3475902](https://www.research.unipd.it/handle/11577/3475902)
+1. F. Turrin, “Cybersecurity of Modern Cyber-Physical Systems,” Doctoral Thesis, University of Padova, Padua, 2023. [Online]. Available: https://hdl.handle.net/11577/3475902
 2. 
 3. 
+4. 
+
+[1]: https://www.research.unipd.it/handle/11577/3475902 "F. Turrin, “Cybersecurity of Modern Cyber-Physical Systems,” Doctoral Thesis, University of Padova, Padua, 2023. [Online]. Available: [https://hdl.handle.net/11577/3475902]"
 
