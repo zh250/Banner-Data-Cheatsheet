@@ -197,7 +197,7 @@ Additionally, only TCP traffic has been collected during the acquisition procedu
 
 ### Limitation
 
-No autonomous vehicles protocol has been acquired
+No autonomous vehicles protocol has been acquired, and all banners in the dataset are collected in TCP traffics
 
 
 ## 2. Others
@@ -213,8 +213,6 @@ Raw data is provided and authorized by [Dictecting](https://www.ditecting.com)
 ## References
 1. F. Turrin, “Cybersecurity of Modern Cyber-Physical Systems,” Doctoral Thesis, University of Padova, Padua, 2023. [Online]. Available: https://hdl.handle.net/11577/3475902
 2. 
-3. 
-4. 
 
 [1]: https://www.research.unipd.it/handle/11577/3475902 "F. Turrin, “Cybersecurity of Modern Cyber-Physical Systems,” Doctoral Thesis, University of Padova, Padua, 2023. [Online]. Available: https://hdl.handle.net/11577/3475902"
 
