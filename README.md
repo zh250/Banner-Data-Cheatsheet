@@ -9,16 +9,16 @@
   - Due to some uncontrolled factors, there is a high probability that the raw data will not be updated
   - All existing data will be processed soon
 - How to process dataset
-  - [ ] Make a documentation for all protocols in the dataset
+  - [x] Dataset in MySQL has been provided
   - [ ] For good demonstration effects in CSV, some banners in the dataset will be processed
-  - [ ] Some banners will remain NULL until find a good way to demonstrate
-  - [ ] Dataset in other file format will be provided in the future (but readability for either human or machine may not as good as CSV)
+  - [ ] Some banners in csv will remain NULL due to complex structure
+  - [ ] Make a documentation for all protocols in the dataset
 - Issues surrouding the dataset
   - Raw dataset's readability is a disaster, because:
     - Banners in some protocols are HTML/XML-like structures, but CSV file cannot demonstrate them correctly
     - Some of remains are highly unstructured heterogeneous data
   - Office software like LibreOffice also cannot display correctly sometimes
-  - GitHub cannot recognize and demonstrate the CSV file with these constructs
+  - GitHub cannot recognize and demonstrate the CSV file with these constructs, but SQL seems better
 
 ## The Methodology of Data Acquisition
 
