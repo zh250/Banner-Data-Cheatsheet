@@ -34,6 +34,11 @@ Additionally, only TCP traffic has been collected during the acquisition procedu
 
 ## 1. Basic information about Protocols in the Dataset
 
+The list is too long, but you can unfold any collapsed sections if you want to check them
+
+<details>
+<summary>IT Protocols</summary>
+
 ### IT Protocols
 
 - Simple Network Management Protocol (SNMP)
@@ -47,6 +52,12 @@ Additionally, only TCP traffic has been collected during the acquisition procedu
   - [Wikipedia](https://en.wikipedia.org/wiki/Simple_Network_Management_Protocol)
   - [SNMP - Wireshark](https://wiki.wireshark.org/SNMP)
   - Main RFC(s): SNMPv1: RFC [1157](https://datatracker.ietf.org/doc/html/rfc1157) | SNMPv2c: RFC [1901](https://datatracker.ietf.org/doc/html/rfc1901) to RFC [1908](https://datatracker.ietf.org/doc/html/rfc1908) | SNMPv3: RFC [3411](https://datatracker.ietf.org/doc/html/rfc3411) to RFC [3418](https://datatracker.ietf.org/doc/html/rfc3418)
+
+</details>
+
+
+<details>
+<summary>IoT Protocols</summary>
 
 ### IoT Protocols
 
@@ -85,6 +96,12 @@ Additionally, only TCP traffic has been collected during the acquisition procedu
   - [Wikipedia](https://en.wikipedia.org/wiki/XMPP)
   - [Official Webpage - Tech pages/IoT systems](https://wiki.xmpp.org/web/Tech_pages/IoT_systems)
 
+</details>
+
+
+<details>
+<summary>Digital Audio and Video Protocols</summary>
+
 ### Digital Audio and Video Protocols
 
 #### Open Standard Protocols
@@ -112,6 +129,12 @@ Additionally, only TCP traffic has been collected during the acquisition procedu
   - [Hikvision comprehensive security platform post-penetration exploitation tool (Chinese Document Only!)](https://github.com/wafinfo/Hikvision)
   - [Hikivision-backdoor-scanner-snapshot-saver](https://github.com/haka110/Hikivision-backdoor-scanner-and-snapshot-saver)
   - [HIkvision_Info_Leak (Chinese Document Only)](https://github.com/adeljck/HIkvision_Info_Leak)
+
+</details>
+
+
+<details>
+<summary>ICS Protocols</summary>
 
 ### ICS Protocols
 
@@ -187,6 +210,9 @@ Additionally, only TCP traffic has been collected during the acquisition procedu
   - under construction
   - under construction
   - under construction
+
+</details>
+
 
 ### Unknown
 
