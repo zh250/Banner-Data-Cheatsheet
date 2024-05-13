@@ -154,6 +154,9 @@ The list is too long, but you can unfold any collapsed sections if you want to c
   - under construction
   - under construction
   - under construction
+- DDP (DTU DSC Protocol)
+  - It is a proprietary ICS protocol developed by [Hongdian Corporation](https://www.hongdian.com/en/), and it is commonly utilizied to connnect Data Terminal Unit (DTU) and Data Service Center (DSC)
+  - [Design of OPC/DDP-Based Remote Monitoring System for Environmental Protection of the IoT](https://link.springer.com/content/pdf/10.1007/978-3-319-60753-5_20.pdf)<sup>[2]</sup>
 - DNP3
   - under construction
   - under construction
@@ -214,13 +217,6 @@ The list is too long, but you can unfold any collapsed sections if you want to c
 </details>
 
 
-### Unknown
-
-- DDP (*Distributed Data Protocol* or *Datagram Delivery Protocol*, not sure which of them)
-  - under construction
-  - under construction
-  - under construction
-
 ### Limitation
 
 No autonomous vehicles protocol has been acquired, and all banners in the dataset are collected in TCP traffics
@@ -238,7 +234,7 @@ Raw data is provided and authorized by [Dictecting](https://www.ditecting.com)
 
 ## References
 1. F. Turrin, “Cybersecurity of Modern Cyber-Physical Systems,” Doctoral Thesis, University of Padova, Padua, 2023. [Online]. Available: https://hdl.handle.net/11577/3475902
-2. 
+2. H. Pan, T. Zu, R. Liu, B. Liu, Q. Fang, and X. He, “Design of OPC/DDP-Based Remote Monitoring System for Environmental Protection of the IoT,” _Springer eBooks_, pp. 187–195, Jan. 2017, doi: https://doi.org/10.1007/978-3-319-60753-5_20.
 
 [1]: https://www.research.unipd.it/handle/11577/3475902 "F. Turrin, “Cybersecurity of Modern Cyber-Physical Systems,” Doctoral Thesis, University of Padova, Padua, 2023. [Online]. Available: https://hdl.handle.net/11577/3475902"
-
+[2]: https://link.springer.com/chapter/10.1007/978-3-319-60753-5_20 "H. Pan, T. Zu, R. Liu, B. Liu, Q. Fang, and X. He, “Design of OPC/DDP-Based Remote Monitoring System for Environmental Protection of the IoT,” Springer eBooks, pp. 187–195, Jan. 2017, doi: https://doi.org/10.1007/978-3-319-60753-5_20."
