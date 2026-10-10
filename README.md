@@ -44,7 +44,9 @@ No autonomous vehicles protocol has been acquired (Not Planned)
 
 ## 2. Others
 
-Under construction
+### Terminology
+
+**OT communication mechanisms** is used in this repository as a descriptive umbrella term for communication methods employed in operational technology (OT) and closely associated systems, rather than as a formally standardized protocol category. It encompasses three types of mechanisms: **protocols**, which define communication rules, message structures, and exchange procedures (e.g., Modbus and DNP3); **interfaces**, which provide product- or vendor-specific communication capabilities (e.g., engineering and device-discovery interfaces); and **services**, which expose functions such as device management, monitoring, or video streaming. The scope extends beyond conventional industrial control systems (ICS), consistent with [NIST SP 800-82 Rev. 3, *Guide to Operational Technology (OT) Security*](https://doi.org/10.6028/NIST.SP.800-82r3), which covers industrial control, building automation, physical access control, and other OT environments. These mechanisms may operate over different communication stacks, including serial links, TCP/UDP, and Ethernet Layer 2, as illustrated by [PROFINET real-time communication](https://www.profinet.com/community/faq). The associated network ports may represent registered assignments, common implementation defaults, or project-specific collection endpoints; they are not necessarily exclusive or immutable. As clarified by the [IANA Service Name and Transport Protocol Port Number Registry](https://www.iana.org/assignments/service-names-port-numbers), observing activity on a registered port does not establish that the corresponding service is actually in use. Accordingly, port-level observations alone should not be treated as definitive evidence of a particular protocol, device type, or security condition.
 
 
 ## Acknowledgement
